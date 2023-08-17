@@ -1,0 +1,122 @@
+#job-applicants-container {
+  display: flex;
+  box-sizing: border-box;
+  min-height: 100vh;
+  padding-top: 5vh;
+  width: calc(100vw - (var(--nav-width) * 4));
+  margin-left: calc(var(--nav-width) * 2);
+  margin-right: calc(var(--nav-width) * 2);
+  flex-wrap: wrap;
+  align-items: center;
+  flex-direction: column;
+  position: absolute;
+  animation: slide 1s;
+  opacity: 1;
+  gap: 2vh;
+  color: var(--dark-grey);
+  background-color: var(--dark-background);
+}
+.applicants-inner-container {
+  display: grid;
+  grid-template-columns: 0.5fr 1fr;
+  grid-template-rows: repeat(2, 1fr);
+  grid-column-gap: 0px;
+  grid-row-gap: 0px;
+  width: 95%;
+  max-width: 500px;
+  min-width: 200px;
+  max-height: 150px;
+  align-items: start;
+  text-align: center;
+  box-shadow: var(--box-shadow);
+  color: var(--text-color);
+  background-color: var(--dark-background);
+}
+.applicant-name-and-image {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-width: 100px;
+  width: fit-content;
+
+  background-color: var(--remo-color);
+  gap: 5px;
+  font-size: 0.9rem;
+  color: var(--text-color-2);
+  box-shadow: var(--box-shadow);
+  padding: 10px;
+  flex-wrap: wrap;
+
+  border-radius: var(--border-radius) 0 0 var(--border-radius);
+}
+.applicant-display-picture {
+  border-radius: 50%;
+  height: 50px;
+}
+
+.images-container {
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  flex: 1;
+  box-sizing: border-box;
+  padding: 1vh;
+  grid-area: 1 / 2 / 3 / 3;
+}
+.applicant-stack-images {
+  height: 26px;
+  padding: 6px;
+}
+.applicant-stack-container {
+  display: flex;
+  position: relative;
+}
+
+.applicant-profile-btn {
+  margin-top: 3vh;
+  font-size: 1.05rem;
+  text-decoration: none;
+  cursor: pointer;
+  font-weight: bold;
+  background-color: transparent;
+  text-decoration: underline;
+  text-decoration-thickness: 5px;
+  text-decoration-color: var(--dark-grey);
+  margin-left: 0.5vw;
+  border-radius: var(--border-radius);
+  color: var(--text-color);
+}
+
+.applicant-profile-btn:hover {
+  color: var(--hire-page);
+  text-decoration: none;
+  box-shadow: none;
+}
+@media only screen and (max-width: 576px) {
+  #job-applicants-container {
+    width: 100vw;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 100px;
+    position: static;
+  }
+  .applicants-inner-container {
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+    max-height: fit-content;
+    justify-content: center;
+  }
+  .applicant-name-and-image {
+    width: 100px;
+    background-color: #212121;
+    color: white;
+  }
+
+  .applicant-profile-btn {
+    margin-top: 0;
+    padding-bottom: 20px;
+    width: 100vw;
+  }
+}

@@ -1,0 +1,123 @@
+#navbar-container {
+  display: flex;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+  background-color: var(--secondary-color);
+  box-sizing: border-box;
+}
+
+.profile-login-link,
+.hire-link,
+.job-posts-link,
+.remo-jobs-link,
+.remotive-jobs-link {
+  align-items: center;
+  position: relative;
+  min-width: var(--nav-width);
+  width: var(--nav-width);
+  display: flex;
+  cursor: pointer;
+}
+
+#profile-login,
+#hire,
+#job-posts,
+#remo-jobs,
+#remotive-jobs {
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform-origin: center;
+  transform: translateY(-50%) translateX(-50%) rotate(90deg);
+  text-decoration: none;
+
+  color: #000e00;
+  font-family: apercu mono, sans-serif;
+  font-weight: bold;
+  letter-spacing: 3px;
+}
+#job-posts {
+  color: var(--text-color);
+}
+.profile-login-link {
+  background-color: var(--profile-color);
+  animation: slide 1.5s;
+}
+.hire-link {
+  background-color: var(--hire-color);
+  animation: slide 1.3s;
+}
+.job-posts-link {
+  background-color: var(--posts-color);
+  animation: slide 1s;
+}
+.remo-jobs-link {
+  background-color: var(--remo-color);
+
+  animation: slide 1.9s;
+}
+.remotive-jobs-link {
+  background-color: #fedcab;
+  animation: slide 1.7s;
+}
+
+@keyframes slide {
+  from {
+    top: -100vw;
+  }
+  to {
+    top: 0;
+  }
+}
+#logout {
+  position: absolute;
+  height: 20px;
+  width: 20px;
+  z-index: 10;
+  top: calc(var(--nav-width) / 4);
+  left: calc(var(--nav-width) / 5);
+  cursor: pointer;
+}
+
+@media only screen and (max-width: 576px) {
+  #navbar-container {
+    display: flex;
+    top: -100px;
+
+    width: 100vw;
+    position: absolute;
+    background-color: var(--secondary-color);
+    box-sizing: border-box;
+    height: 100px;
+  }
+
+  #logout {
+    top: 85px;
+    left: 15px;
+    height: 10px;
+    width: 10px;
+  }
+  #profile-login,
+  #hire,
+  #job-posts,
+  #remo-jobs,
+  #remotive-jobs {
+    font-size: 12px !important;
+    font-weight: bold;
+    letter-spacing: 3px;
+  }
+}
+
+@media only screen and (min-width: 576px) {
+  .profile-login-link-lg {
+    align-items: center;
+    position: relative;
+    min-width: var(--nav-width);
+    width: var(--nav-width);
+    display: flex;
+    cursor: pointer;
+  }
+}

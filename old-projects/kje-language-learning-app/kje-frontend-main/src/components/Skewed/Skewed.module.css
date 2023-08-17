@@ -1,0 +1,20 @@
+.skewed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  background-color: var(--redHighlight);
+  padding: 400px 0;
+  -webkit-transform: skew(0deg, -10deg);
+  -moz-transform: skew(0deg, -10deg);
+  -ms-transform: skew(0deg, -10deg);
+  -o-transform: skew(0deg, -10deg);
+  transform: skew(0deg, -10deg);
+  margin-top: -200px;
+}
+
+@media (max-width: 800px) {
+  .skewed {
+    padding: 350px 0;
+  }
+}

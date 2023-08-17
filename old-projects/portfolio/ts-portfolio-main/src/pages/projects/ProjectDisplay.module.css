@@ -1,0 +1,25 @@
+.container {
+  box-sizing: border-box;
+  display: flex;
+}
+.card {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  width: 100%;
+  box-sizing: border-box;
+  padding: 20px;
+}
+
+.tags {
+  display: flex;
+  gap: 20px;
+  margin-top: 20px;
+}
+
+.tags span {
+  padding: 5px;
+  background-color: rgb(var(--rgbPrimary) / 0.2);
+  width: fit-content;
+  height: fit-content;
+}

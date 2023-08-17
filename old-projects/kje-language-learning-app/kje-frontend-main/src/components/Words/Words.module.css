@@ -1,0 +1,16 @@
+.word {
+  display: inline-block;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+
+  font-size: 1.4rem;
+  width: fit-content;
+  font-weight: bold;
+  margin: 10px;
+}
+
+.wrapper {
+  display: flex;
+}

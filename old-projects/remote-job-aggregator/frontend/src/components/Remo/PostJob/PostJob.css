@@ -1,0 +1,169 @@
+#form-container {
+  box-sizing: border-box;
+  display: flex;
+  position: relative;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: center;
+  background-color: #ffba00;
+  width: calc(100vw - (var(--nav-width) * 4));
+  margin-left: calc(var(--nav-width));
+
+  animation: fadeIn 3s;
+  opacity: 1;
+}
+
+#form-title {
+  color: var(--text-color-2);
+}
+#form-description {
+  font-size: 0.8rem !important;
+  color: var(--text-color);
+  background-color: var(--remo-color);
+  width: fit-content;
+  padding: 5px;
+  border-radius: var(--border-radius);
+}
+#form {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  background-size: cover;
+  height: fit-content;
+  padding-bottom: 5vw;
+  width: 90%;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+#form #inner-fields {
+  display: flex;
+
+  flex-direction: column;
+
+  flex: 1;
+  background-size: cover;
+
+  background-repeat: no-repeat;
+  box-sizing: border-box;
+  margin-top: 10vh;
+  max-width: 500px;
+}
+
+#form-container select,
+#form-container input {
+  font-weight: bold;
+  box-sizing: border-box;
+  margin-top: 2vh;
+  font-size: 1rem;
+  font-weight: bold;
+  color: var(--text-color-2);
+  height: 45px;
+  padding: 0 16px;
+  border-radius: var(--border-radius);
+  outline: 0;
+  border: 0;
+  background-color: var(--hire-highlight);
+}
+#form-container select::placeholder,
+#form-container input::placeholder {
+  font-weight: 300;
+}
+
+#form-container input:focus,
+#form-container select:focus {
+  outline: 0;
+  background-color: var(--input-background);
+}
+
+#form-container select:hover {
+  cursor: pointer;
+
+  background-color: var(--input-background);
+}
+#form-container textarea,
+#form-container textarea:focus {
+  border: 0;
+  outline: 0;
+}
+
+#form-container button {
+  background-color: var(--remo-color);
+  border-radius: var(--border-radius);
+  letter-spacing: 1px;
+  height: 35px;
+  border: 0;
+  color: var(--text-color);
+  font-weight: bold;
+  cursor: pointer;
+  margin-top: 20px;
+  width: 20vw;
+  align-self: center;
+  min-width: fit-content;
+  font-size: 0.8rem !important;
+}
+#form-container button:hover {
+  background-color: var(--profile-page);
+  color: var(--text-color-2);
+}
+
+#submit-description {
+  background-color: transparent;
+  border-radius: var(--border-radius);
+  overflow: hidden;
+  margin-top: 10vh;
+  height: calc(100vh / 1.5);
+}
+#submit-description > textarea {
+  border-radius: var(--border-radius);
+  box-sizing: border-box;
+  height: 90%;
+  border: 0;
+  width: 100%;
+  padding: 30px;
+  font-size: 1.2em;
+  background-color: transparent;
+  resize: none;
+  color: var(--text-color-2);
+  background-color: var(--hire-highlight);
+  margin-top: 1vh;
+}
+#submit-description > textarea:hover,
+#submit-description > textarea:focus {
+  background-color: var(--input-background);
+}
+#radio #USA,
+#radio #Worldwide,
+#radio #Others {
+  background-color: var(--remo-color);
+  color: var(--text-color) !important;
+  font-size: 0.7rem !important;
+}
+#radio #USA:hover,
+#radio #Worldwide:hover,
+#radio #Others:hover {
+  box-shadow: var(--box-shadow) !important;
+  background-color: var(--profile-page) !important;
+  color: var(--text-color-2) !important;
+}
+#radio #USA:focus,
+#radio #Worldwide:focus,
+#radio #Others:focus {
+  box-shadow: var(--box-shadow) !important;
+  background-color: var(--profile-page) !important;
+  color: var(--text-color-2) !important;
+}
+#radio input:checked {
+  box-shadow: var(--box-shadow) !important;
+  background-color: var(--profile-page) !important;
+  color: var(--text-color-2) !important;
+}
+
+@media only screen and (max-width: 576px) {
+  #form-container {
+    background-color: var(--hire-color);
+    width: 100vw;
+    margin-left: 0;
+    position: static;
+    margin-top: 100px;
+  }
+}

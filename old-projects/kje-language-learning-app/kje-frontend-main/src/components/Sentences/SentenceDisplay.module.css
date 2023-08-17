@@ -1,0 +1,33 @@
+.mainWrapper {
+  display: flex;
+  flex-direction: row;
+
+  flex-wrap: wrap;
+  width: fit-content;
+  max-width: 85vw;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.sentenceWrapper {
+  display: flex;
+  position: relative;
+  align-items: center;
+  justify-content: center;
+}
+
+.word {
+  position: relative;
+  height: var(--buttonHeightDesktop);
+}
+
+.translator {
+  background-color: var(--redHighlight);
+  padding: 5px;
+  color: var(--light);
+  font-size: 1.1rem;
+  position: absolute;
+  top: 0;
+  right: 0;
+  cursor: pointer;
+}

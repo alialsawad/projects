@@ -1,0 +1,25 @@
+.button {
+  cursor: pointer;
+  display: inline-block;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  height: var(--buttonHeightDesktop);
+  width: 100%;
+  cursor: pointer;
+}
+
+.button[data-style='light']:hover {
+}
+
+.button:hover {
+  background-color: var(--redHighlight);
+  color: white;
+}
+
+@media (max-width: 768px) {
+  .button {
+    height: var(--buttonHeightMobile);
+  }
+}

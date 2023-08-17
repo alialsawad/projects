@@ -1,0 +1,25 @@
+.box {
+  display: inline-block;
+  border: var(--globalBorder);
+  display: flex;
+  gap: 10px;
+  height: var(--boxHeightDesktop);
+  width: 100%;
+  font-size: 1.3rem;
+
+  margin-top: 5px;
+  padding: 10px;
+}
+
+.description {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+}
+
+.icon {
+  font-size: 2rem;
+  cursor: auto;
+}

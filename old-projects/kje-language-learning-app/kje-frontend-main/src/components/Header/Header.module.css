@@ -1,0 +1,17 @@
+.header {
+  display: flex;
+  font-size: 1.3rem;
+  text-transform: capitalize;
+  flex-direction: column;
+  z-index: 99;
+  position: relative;
+  height: 400px;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+@media (max-width: 800px) {
+  .header {
+    height: 350px;
+  }
+}

@@ -1,0 +1,11 @@
+$white: #fff;
+$light-grey: #ededed;
+$grey: #333;
+
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+body {
+  background-color: $light-grey;
+  color:$grey;
+  font-family: 'Roboto', Arial, sans-serif;
+}

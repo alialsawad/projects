@@ -1,0 +1,34 @@
+{
+  "name": "ts-kje",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "deploy": "vercel build && git add . && git commit -m 'deploy' && git push"
+  },
+  "dependencies": {
+    "axios": "^1.0.0",
+    "bing-translate-api": "^2.6.0",
+    "framer-motion": "^7.5.1",
+    "next": "12.3.1",
+    "react": "18.2.0",
+    "react-cookie": "^4.1.1",
+    "react-dom": "18.2.0",
+    "react-icons": "^4.4.0",
+    "react-recipes": "^1.4.0",
+    "react-speech-recognition": "^3.10.0",
+    "react-uuid": "^1.0.3",
+    "regenerator-runtime": "^0.13.9"
+  },
+  "devDependencies": {
+    "@types/node": "18.8.1",
+    "@types/react": "18.0.21",
+    "@types/react-dom": "18.0.6",
+    "eslint": "8.24.0",
+    "eslint-config-next": "12.3.1",
+    "typescript": "4.8.4"
+  }
+}

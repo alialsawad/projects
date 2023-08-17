@@ -1,0 +1,19 @@
+.wrapper {
+  filter: grayscale(70%);
+  animation: float 6s ease-in-out infinite;
+  width: 470px;
+  position: absolute;
+  bottom: -80px;
+  right: -200px;
+}
+
+.wrapper:hover {
+  filter: grayscale(10%);
+}
+
+@media (max-width: 800px) {
+  .wrapper {
+    width: 300px;
+    right: -50px;
+  }
+}

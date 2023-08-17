@@ -1,0 +1,10 @@
+.container {
+  display: flex;
+  z-index: 200;
+}
+
+@media (max-width: 800px) {
+  .container {
+    flex-direction: column;
+  }
+}

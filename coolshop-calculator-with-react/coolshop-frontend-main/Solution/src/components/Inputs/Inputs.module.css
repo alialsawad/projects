@@ -1,0 +1,40 @@
+.shared {
+  font-size: var(--input-font-size);
+  letter-spacing: var(--input-letter-spacing);
+  cursor: var(--cursor-pointer);
+}
+
+.shared:focus {
+  outline: none;
+  color: var(--text-color-dark);
+}
+
+.input {
+  display: block;
+  border: none;
+  padding: 0;
+  margin: 30px;
+  width: 10.5ch;
+  background: repeating-linear-gradient(90deg, dimgrey 0, dimgrey 1ch, transparent 0, transparent 1.5ch) 0 100%/10ch 2px no-repeat;
+}
+
+.select {
+  display: block;
+  border: none;
+  padding: 0;
+  background: none;
+
+  border-style: var(--border-style);
+  border-width: var(--border-width);
+  border-image-slice: var(--border-image-slice);
+  border-image-width: var(--border-image-width);
+  border-image-source: var(--border-image-source);
+  border-image-outset: var(--border-image-outset);
+}
+
+.select[data-value='+'] {
+  color: var(--color-lightGreen);
+}
+.select[data-value='-'] {
+  color: var(--color-lightRed);
+}

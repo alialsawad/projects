@@ -1,0 +1,130 @@
+#profile-markdown {
+  width: calc(100vw - (var(--nav-width) * 4));
+  position: absolute;
+  min-height: 100vh;
+  animation: fadeIn 3s;
+  opacity: 1;
+  background-color: var(--profile-page);
+}
+
+#edit-view {
+  display: none;
+  padding-bottom: 37vh;
+}
+#main-view {
+  color: var(--text-color-2);
+}
+#main-view,
+#edit-view {
+  box-sizing: border-box;
+  background-color: transparent;
+
+  animation: fadeIn 1s;
+  opacity: 1;
+}
+#edit-view {
+  background-color: var(--profile-page);
+  color: var(--text-color-2);
+}
+#edit-view a,
+#main-view a {
+  color: var(--hire-color);
+}
+#edit-view code,
+#main-view code {
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  hyphens: auto;
+  white-space: normal !important;
+}
+#edit-button {
+  background-color: transparent;
+  border-radius: var(--border-radius);
+
+  border: 0;
+  color: var(--text-color-2);
+  font-size: 1.3rem;
+  font-weight: 100;
+}
+#edit-button:hover {
+  color: var(--hire-color);
+  cursor: pointer;
+}
+
+#editor-textarea {
+  display: block;
+  box-sizing: border-box;
+  resize: none;
+  width: 100%;
+  height: 100%;
+  bottom: 0;
+  position: relative;
+  background-color: var(--dark-background);
+  color: var(--text-color);
+  padding: 3vw;
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+  border: 0;
+  font-size: 1.1em;
+}
+
+#editor-textarea::-webkit-scrollbar {
+  display: none;
+}
+#editor-textarea:focus {
+  outline: 0;
+}
+
+#save-button {
+  position: absolute;
+  top: 0vh;
+  right: 0vw;
+  background-color: var(--profile-page);
+  padding-top: 0.2vw;
+  padding-bottom: 0.2vw;
+  padding-right: 3vw;
+  padding-left: 3vw;
+  border-radius: var(--border-radius);
+
+  border: 0;
+  font-size: 1;
+  color: var(--text-color-2);
+  font-size: 1.3rem;
+  font-weight: 100;
+}
+#save-button:hover {
+  background-color: var(--text-color-2);
+  color: var(--hire-color);
+  cursor: pointer;
+}
+#edit-text-save {
+  position: fixed;
+  height: 41vh;
+  width: calc(100vw - (var(--nav-width) * 4));
+  background-color: var(--text-color);
+  bottom: 0;
+  box-shadow: var(--box-shadow-pop);
+  box-sizing: border-box;
+  border-top: 5px solid var(--text-color-2);
+  border-right: 5px solid var(--text-color-2);
+}
+
+.markdown-text {
+  box-sizing: border-box;
+
+  padding: var(--nav-width);
+}
+@media only screen and (max-width: 576px) {
+  #profile-markdown {
+    width: 100vw;
+    margin-top: 100px;
+    position: static;
+    min-height: 100vh;
+    animation: fadeIn 1s;
+    opacity: 1;
+    background-color: var(--profile-page);
+  }
+  #edit-text-save {
+    width: 100vw;
+  }
+}

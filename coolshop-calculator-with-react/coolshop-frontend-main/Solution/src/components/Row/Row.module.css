@@ -1,0 +1,36 @@
+.row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+
+  margin: 10px;
+  padding-left: 30px;
+  padding-right: 10px;
+}
+
+.delete {
+  background-color: var(--color-lightRed);
+  color: var(--text-color);
+}
+
+.delete:after {
+  box-shadow: var(--box-shadow) var(--color-darkRed);
+}
+
+.active {
+  background-color: var(--color-lightGreen);
+  color: var(--text-color);
+}
+.active:after {
+  box-shadow: var(--box-shadow) var(--color-darkGreen);
+}
+
+.inactive {
+  background-color: var(--color-lightYellow);
+  color: var(--text-color);
+}
+
+.inactive:after {
+  box-shadow: var(--box-shadow) var(--color-darkYellow);
+}

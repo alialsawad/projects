@@ -1,0 +1,192 @@
+#job-page-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  width: calc(100vw - (var(--nav-width) * 4));
+  margin-left: calc(var(--nav-width) * 2);
+  margin-right: calc(var(--nav-width) * 2);
+  min-height: 100vh;
+  padding-bottom: 5vh;
+  box-sizing: border-box;
+  padding: 1vw;
+  animation: fadeIn 3s;
+  opacity: 1;
+  background-color: var(--dark-background);
+  color: var(--dark-grey);
+}
+.job-list-section {
+  box-sizing: border-box;
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.jobs-list {
+  display: flex;
+  flex-direction: row;
+  height: fit-content;
+  flex-wrap: wrap;
+  box-sizing: border-box;
+  position: relative;
+  border-radius: var(--border-radius);
+  gap: 1vw;
+  padding-top: 3vh;
+  list-style-type: none;
+  background-color: transparent;
+}
+
+.job-listing-title::before {
+  content: "Job Title: ";
+  font-size: 0.9rem;
+  color: var(--remo-color);
+}
+.job-listing-category::before {
+  content: "Category: ";
+  font-size: 0.9rem;
+  color: var(--remo-color);
+}
+
+.job-listing-type::before {
+  content: "Job Type: ";
+  font-size: 0.9rem;
+  color: var(--remo-color);
+}
+.job-listing-date {
+  color: var(--dark-grey);
+  font-size: 00.9rem;
+}
+
+.job-listing-location::before {
+  content: "Location: ";
+  font-size: 0.9rem;
+  color: var(--remo-color);
+}
+.view-applicants-btn {
+  cursor: pointer;
+  color: var(--text-color);
+  padding: 10px;
+  font-weight: bold;
+  background-color: var(--remo-color);
+  width: 90px;
+  border-radius: var(--border-radius) 0 0 0;
+}
+.view-applicants-btn:hover {
+  background-color: var(--text-color);
+
+  color: var(--remo-color);
+}
+.job-listing-title,
+.job-listing-location,
+.job-listing-type,
+.job-listing-category {
+  color: var(--text-color);
+  font-weight: bold;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  font-size: 0.9rem !important;
+}
+.job-listing-category,
+.job-listing-location,
+.job-listing-type {
+  font-size: 0.9rem;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.job-listing-applicants {
+  font-weight: bold;
+}
+.job-listing-applicants {
+  color: var(--dark-grey);
+  text-align: center;
+  display: flex;
+  box-sizing: border-box;
+  justify-content: center;
+}
+.number-of-applicants {
+  background-color: var(--secondary-color);
+  display: flex;
+  align-items: center;
+  border-radius: 0 0 var(--border-radius) 0;
+  padding-right: 10px;
+  padding-left: 10px;
+}
+
+.number-of-applicants::after {
+  content: "Applicants";
+  margin-left: 5px;
+  color: var(--dark-grey);
+}
+.job-info-container {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: repeat(6, 1fr);
+  grid-column-gap: 0px;
+  grid-row-gap: 0px;
+  box-sizing: border-box;
+  padding: 1vw;
+  width: 305px;
+  box-shadow: var(--box-shadow);
+}
+@media only screen and (max-width: 576px) {
+  #job-page-container {
+    position: static;
+    width: 100vw;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 100px;
+    min-height: 100vh;
+    padding-bottom: 5vh;
+    box-sizing: border-box;
+    padding: 0;
+  }
+  .jobs-list {
+    padding: 5px;
+    padding-top: 3vh;
+    justify-content: center;
+  }
+  .job-listing-title::before,
+  .job-listing-type::before,
+  .job-listing-category::before,
+  .job-listing-date,
+  .job-listing-location::before {
+    font-size: 0.8rem !important;
+  }
+
+  .view-applicants-btn {
+    padding: 3px;
+    font-weight: bold;
+    font-size: 0.9rem !important;
+    background-color: var(--remo-color);
+    width: 50px;
+  }
+
+  .job-listing-title,
+  .job-listing-location,
+  .job-listing-type,
+  .job-listing-category {
+    font-size: 0.9rem !important;
+  }
+  .job-listing-category,
+  .job-listing-location,
+  .job-listing-type,
+  .job-listing-applicants {
+    font-size: 0.9rem !important;
+  }
+
+  .number-of-applicants {
+    padding-right: 5px;
+    padding-left: 5px;
+  }
+
+  .number-of-applicants::after {
+    font-size: 0.9rem !important;
+  }
+  .job-info-container {
+    padding: 1vw;
+    width: 100vw;
+  }
+}

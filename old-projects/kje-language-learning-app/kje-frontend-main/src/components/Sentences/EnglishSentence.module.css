@@ -1,0 +1,9 @@
+.sentence {
+  color: var(--darkGreyText);
+
+  width: fit-content;
+  margin-top: 10px;
+  padding: 20px;
+  font-size: 1.5rem;
+  letter-spacing: 0.1rem;
+}

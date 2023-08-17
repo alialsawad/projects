@@ -1,0 +1,27 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://alialsawad.cyberspace/_app.page.tsx</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://alialsawad.cyberspace/_document.page.tsx</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://alialsawad.cyberspace/.page.tsx</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://alialsawad.cyberspace/contact/.page.tsx</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://alialsawad.cyberspace/projects/.page.tsx</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://alialsawad.cyberspace/skills/.page.tsx</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+
+</urlset>

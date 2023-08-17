@@ -1,0 +1,14 @@
+.container {
+  filter: url(#threshold) blur(0.6px);
+}
+
+.text1,
+.text2 {
+  position: absolute;
+  width: 100%;
+  display: inline-block;
+  /* create style for text1 and text2 */
+
+  color: var(--colorBodyText);
+  user-select: none;
+}

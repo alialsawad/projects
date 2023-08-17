@@ -1,0 +1,52 @@
+.prev,
+.next {
+  font-size: 1.3rem;
+  font-weight: bold;
+}
+.prev {
+  display: inline-block;
+  width: 3vw;
+  height: 2vw;
+  position: absolute;
+  left: 6%;
+  top: -130px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 2;
+  background-color: transparent;
+  color: var(--profile-color);
+}
+
+.next {
+  display: inline-block;
+  width: 3vw;
+  height: 2vw;
+  position: absolute;
+  z-index: 2;
+  top: -130px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: transparent;
+  right: 6%;
+  color: var(--hire-highlight);
+}
+
+#navigation button:disabled {
+  background-color: transparent;
+  color: var(--secondary-color);
+  cursor: auto;
+}
+
+#navigation button:disabled:hover {
+  background-color: transparent;
+}
+
+#navigation button {
+  border: 0;
+
+  font-size: 3rem;
+  font-weight: bold;
+  cursor: pointer;
+}

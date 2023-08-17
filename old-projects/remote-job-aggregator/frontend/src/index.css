@@ -1,0 +1,63 @@
+:root {
+  --secondary-color: rgba(0, 0, 0, 0.4);
+  --remo-color: #4440b3;
+  --profile-color: #7f1734;
+  --hire-color: rgb(255, 180, 0);
+  --posts-color: #212121;
+  --remotive-color: #fedcab;
+  --text-color: white;
+  --profile-page: #7f1734;
+  --text-color-2: #212121;
+  --dark-background: #212121;
+  --hire-page: #ffad01;
+  --hire-highlight: #ffad01;
+  --input-background: aliceblue;
+  --dark-grey: darkgrey;
+
+  --nav-width: 40px;
+  --border-radius: 4px;
+  --box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+  --box-shadow-pop: rgba(0, 0, 0, 0.19) 0px 10px 20px,
+    rgba(0, 0, 0, 0.23) 0px 6px 6px;
+}
+
+body {
+  width: 100vw;
+  overflow-x: hidden;
+  padding: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: var(--remo-color);
+  position: relative;
+  margin: 0;
+  padding: 0;
+  color: var(--secondary-color);
+  text-transform: capitalize;
+}
+
+* {
+  font-family: apercu mono, sans-serif;
+  transition: all 0.5s ease;
+}
+
+button {
+  border: 0;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+html::-webkit-scrollbar {
+  display: none;
+}
+
+@media only screen and (max-width: 576px) {
+  * {
+    font-size: 1rem !important;
+  }
+}

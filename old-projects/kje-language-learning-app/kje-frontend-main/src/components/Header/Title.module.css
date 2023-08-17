@@ -1,0 +1,6 @@
+.skew {
+  color: var(--light);
+  font-weight: bolder;
+  font-family: 'Teko', sans-serif;
+  text-transform: uppercase;
+}

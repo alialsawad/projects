@@ -1,0 +1,69 @@
+.button {
+  width: 200px;
+  height: 40px;
+  line-height: 30px;
+  cursor: pointer;
+  box-sizing: border-box;
+  border: 0;
+  overflow: visible;
+  transition: var(--transition);
+  position: relative;
+  border-style: var(--border-style);
+  border-width: var(--border-width);
+  border-image-slice: var(--border-image-slice);
+  border-image-width: var(--border-image-width);
+  border-image-source: var(--border-image-source);
+  border-image-outset: var(--border-image-outset);
+
+  position: relative;
+  margin: 10px;
+  text-align: center;
+  cursor: var(--cursor-pointer);
+  color: var(--text-color-dark);
+}
+.button::after {
+  position: absolute;
+  top: -4px;
+  right: -4px;
+  bottom: -4px;
+  left: -4px;
+  content: '';
+}
+.button span,
+.button .icon {
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.button span {
+  width: 72%;
+  line-height: inherit;
+  font-size: 17px;
+  text-align: center;
+  text-transform: uppercase;
+  left: 0;
+  transition: var(--transition);
+  font-weight: 700;
+}
+
+.button .icon {
+  width: 28%;
+  right: 0;
+  transition: var(--transition);
+  color: var(--color-text-dark);
+}
+.button .icon .fa {
+  font-size: 25px;
+  transition: var(--transition), height 0.25s ease;
+}
+
+.button:hover span {
+  opacity: 0;
+}
+
+.button:hover .icon {
+  width: 100%;
+}
+.button:hover .icon .fa {
+  font-size: 30px;
+}

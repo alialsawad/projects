@@ -1,0 +1,38 @@
+.TTS {
+  cursor: pointer;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+
+  width: fit-content;
+  min-width: 200px;
+  font-size: 2rem;
+  background-color: var(--light);
+  margin: 5px;
+  padding: 5px;
+}
+.TTS:hover {
+  background-color: var(--redHighlight);
+  color: white;
+}
+
+.button {
+  width: fit-content;
+  border: none;
+  color: var(--dark);
+  display: flex;
+  gap: 10px;
+  height: 100%;
+  font-size: 1.3rem;
+  background-color: var(--lightBackground);
+  box-shadow: none;
+  padding: 0;
+  min-width: 0px;
+  margin-right: 30px;
+}
+.button:hover {
+  color: var(--redHighlight);
+  background-color: transparent !important;
+}

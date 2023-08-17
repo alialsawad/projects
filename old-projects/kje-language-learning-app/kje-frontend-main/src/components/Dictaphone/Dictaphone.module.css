@@ -1,0 +1,24 @@
+.dictaphoneWrapper {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.listening {
+  color: var(--greenHighlight) !important;
+}
+.mic:hover {
+  color: var(--redHighlight);
+}
+.reset:hover {
+  color: var(--redHighlight);
+}
+
+.icon {
+  width: fit-content;
+  margin-right: 10px;
+  padding: 10px;
+  font-size: 1.7rem;
+  margin-right: 30px;
+}

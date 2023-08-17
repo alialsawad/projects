@@ -1,0 +1,1 @@
+export { InnerPageContainer } from './InnerPageContainer'
