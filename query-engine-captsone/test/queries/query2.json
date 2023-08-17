@@ -1,0 +1,386 @@
+{
+    "title": "Query 2",
+    "query": "In courses dataset ds1c, find entries whose Average is greater than 95 and Pass is greater than 5 and Instructor includes \"r\"; show Average, Pass and Instructor.",
+    "response": {
+        "code": 200,
+        "body": {
+            "result": [
+                {
+                    "ds1c_avg": 97.69,
+                    "ds1c_pass": 16,
+                    "ds1c_instructor": "grow, laura"
+                },
+                {
+                    "ds1c_avg": 95.38,
+                    "ds1c_pass": 8,
+                    "ds1c_instructor": "girard, jonathan"
+                },
+                {
+                    "ds1c_avg": 96.73,
+                    "ds1c_pass": 15,
+                    "ds1c_instructor": "burrows, marlene"
+                },
+                {
+                    "ds1c_avg": 97.33,
+                    "ds1c_pass": 12,
+                    "ds1c_instructor": "brew, nancy"
+                },
+                {
+                    "ds1c_avg": 96.64,
+                    "ds1c_pass": 14,
+                    "ds1c_instructor": "krist, jennifer"
+                },
+                {
+                    "ds1c_avg": 97.53,
+                    "ds1c_pass": 17,
+                    "ds1c_instructor": "burrows, marlene;harding, jillian;krist, jennifer;mccuaig, fairleth"
+                },
+                {
+                    "ds1c_avg": 98.5,
+                    "ds1c_pass": 16,
+                    "ds1c_instructor": "burrows, marlene;harding, jillian;krist, jennifer;mccuaig, fairleth"
+                },
+                {
+                    "ds1c_avg": 95.78,
+                    "ds1c_pass": 9,
+                    "ds1c_instructor": "owens, rhea"
+                },
+                {
+                    "ds1c_avg": 98.75,
+                    "ds1c_pass": 12,
+                    "ds1c_instructor": "coria, lino"
+                },
+                {
+                    "ds1c_avg": 95.36,
+                    "ds1c_pass": 14,
+                    "ds1c_instructor": "weinberg, mark"
+                },
+                {
+                    "ds1c_avg": 97.67,
+                    "ds1c_pass": 9,
+                    "ds1c_instructor": "porath, marion"
+                },
+                {
+                    "ds1c_avg": 95.5,
+                    "ds1c_pass": 22,
+                    "ds1c_instructor": "mceachern hughes, tammy"
+                },
+                {
+                    "ds1c_avg": 95.41,
+                    "ds1c_pass": 22,
+                    "ds1c_instructor": "porath, marion"
+                },
+                {
+                    "ds1c_avg": 96.46,
+                    "ds1c_pass": 13,
+                    "ds1c_instructor": "vanwynsberghe, robert"
+                },
+                {
+                    "ds1c_avg": 96.47,
+                    "ds1c_pass": 19,
+                    "ds1c_instructor": "marker, michael"
+                },
+                {
+                    "ds1c_avg": 95.1,
+                    "ds1c_pass": 21,
+                    "ds1c_instructor": "marker, michael"
+                },
+                {
+                    "ds1c_avg": 95.32,
+                    "ds1c_pass": 19,
+                    "ds1c_instructor": "marker, michael"
+                },
+                {
+                    "ds1c_avg": 96.44,
+                    "ds1c_pass": 9,
+                    "ds1c_instructor": "karu, kalle"
+                },
+                {
+                    "ds1c_avg": 96.59,
+                    "ds1c_pass": 34,
+                    "ds1c_instructor": "veiga, marcello"
+                },
+                {
+                    "ds1c_avg": 96.24,
+                    "ds1c_pass": 25,
+                    "ds1c_instructor": "grow, laura"
+                },
+                {
+                    "ds1c_avg": 98.8,
+                    "ds1c_pass": 25,
+                    "ds1c_instructor": "grow, laura"
+                },
+                {
+                    "ds1c_avg": 98.58,
+                    "ds1c_pass": 24,
+                    "ds1c_instructor": "grow, laura"
+                },
+                {
+                    "ds1c_avg": 95.47,
+                    "ds1c_pass": 17,
+                    "ds1c_instructor": "grow, laura"
+                },
+                {
+                    "ds1c_avg": 98.76,
+                    "ds1c_pass": 17,
+                    "ds1c_instructor": "grow, laura"
+                },
+                {
+                    "ds1c_avg": 95.7,
+                    "ds1c_pass": 10,
+                    "ds1c_instructor": "campbell, deborah"
+                },
+                {
+                    "ds1c_avg": 96.9,
+                    "ds1c_pass": 29,
+                    "ds1c_instructor": "gaster, sean"
+                },
+                {
+                    "ds1c_avg": 95.15,
+                    "ds1c_pass": 20,
+                    "ds1c_instructor": "romero, amber"
+                },
+                {
+                    "ds1c_avg": 95.14,
+                    "ds1c_pass": 14,
+                    "ds1c_instructor": "kishor, nand"
+                },
+                {
+                    "ds1c_avg": 96,
+                    "ds1c_pass": 6,
+                    "ds1c_instructor": "kishor, nand"
+                },
+                {
+                    "ds1c_avg": 95.86,
+                    "ds1c_pass": 14,
+                    "ds1c_instructor": "chan, eric"
+                },
+                {
+                    "ds1c_avg": 95.44,
+                    "ds1c_pass": 9,
+                    "ds1c_instructor": "dunbar, w scott"
+                },
+                {
+                    "ds1c_avg": 95.96,
+                    "ds1c_pass": 24,
+                    "ds1c_instructor": "milner-bolotin, marina"
+                },
+                {
+                    "ds1c_avg": 95.19,
+                    "ds1c_pass": 26,
+                    "ds1c_instructor": "milner-bolotin, marina"
+                },
+                {
+                    "ds1c_avg": 96,
+                    "ds1c_pass": 14,
+                    "ds1c_instructor": "porath, marion"
+                },
+                {
+                    "ds1c_avg": 96.23,
+                    "ds1c_pass": 22,
+                    "ds1c_instructor": "porath, marion"
+                },
+                {
+                    "ds1c_avg": 97.47,
+                    "ds1c_pass": 15,
+                    "ds1c_instructor": "neault, roberta a"
+                },
+                {
+                    "ds1c_avg": 96.11,
+                    "ds1c_pass": 27,
+                    "ds1c_instructor": "bishundayal, deonarine"
+                },
+                {
+                    "ds1c_avg": 95.07,
+                    "ds1c_pass": 121,
+                    "ds1c_instructor": "lalji, fawziah;seto, katherine"
+                },
+                {
+                    "ds1c_avg": 98.71,
+                    "ds1c_pass": 14,
+                    "ds1c_instructor": "brew, nancy"
+                },
+                {
+                    "ds1c_avg": 98.21,
+                    "ds1c_pass": 14,
+                    "ds1c_instructor": "krist, jennifer"
+                },
+                {
+                    "ds1c_avg": 95.13,
+                    "ds1c_pass": 16,
+                    "ds1c_instructor": "harding, jillian"
+                },
+                {
+                    "ds1c_avg": 95.29,
+                    "ds1c_pass": 14,
+                    "ds1c_instructor": "krist, jennifer;mccuaig, fairleth"
+                },
+                {
+                    "ds1c_avg": 95.43,
+                    "ds1c_pass": 14,
+                    "ds1c_instructor": "brew, nancy"
+                },
+                {
+                    "ds1c_avg": 95.94,
+                    "ds1c_pass": 18,
+                    "ds1c_instructor": "wassink, berend"
+                },
+                {
+                    "ds1c_avg": 96,
+                    "ds1c_pass": 19,
+                    "ds1c_instructor": "wassink, berend"
+                },
+                {
+                    "ds1c_avg": 95.05,
+                    "ds1c_pass": 20,
+                    "ds1c_instructor": "wassink, berend"
+                },
+                {
+                    "ds1c_avg": 95.95,
+                    "ds1c_pass": 20,
+                    "ds1c_instructor": "wassink, berend"
+                },
+                {
+                    "ds1c_avg": 95.33,
+                    "ds1c_pass": 21,
+                    "ds1c_instructor": "feng, francis"
+                },
+                {
+                    "ds1c_avg": 95.63,
+                    "ds1c_pass": 19,
+                    "ds1c_instructor": "petrina, stephen"
+                },
+                {
+                    "ds1c_avg": 95.58,
+                    "ds1c_pass": 19,
+                    "ds1c_instructor": "magee, theresa"
+                },
+                {
+                    "ds1c_avg": 96.1,
+                    "ds1c_pass": 10,
+                    "ds1c_instructor": "farrell, adam"
+                },
+                {
+                    "ds1c_avg": 97.5,
+                    "ds1c_pass": 14,
+                    "ds1c_instructor": "morgan, tannis"
+                },
+                {
+                    "ds1c_avg": 95.16,
+                    "ds1c_pass": 31,
+                    "ds1c_instructor": "adler, james douglas;scott, sandra"
+                },
+                {
+                    "ds1c_avg": 95.36,
+                    "ds1c_pass": 11,
+                    "ds1c_instructor": "munteanu, mircea"
+                },
+                {
+                    "ds1c_avg": 97.78,
+                    "ds1c_pass": 9,
+                    "ds1c_instructor": "amaral, deborah;ford, laurie"
+                },
+                {
+                    "ds1c_avg": 97,
+                    "ds1c_pass": 8,
+                    "ds1c_instructor": "amaral, deborah;ford, laurie"
+                },
+                {
+                    "ds1c_avg": 96,
+                    "ds1c_pass": 19,
+                    "ds1c_instructor": "carter, john"
+                },
+                {
+                    "ds1c_avg": 95.11,
+                    "ds1c_pass": 19,
+                    "ds1c_instructor": "kishor, nand"
+                },
+                {
+                    "ds1c_avg": 95.56,
+                    "ds1c_pass": 9,
+                    "ds1c_instructor": "gordon, julia yulia"
+                },
+                {
+                    "ds1c_avg": 96.33,
+                    "ds1c_pass": 15,
+                    "ds1c_instructor": "mcquarrie, maureen"
+                },
+                {
+                    "ds1c_avg": 97.48,
+                    "ds1c_pass": 21,
+                    "ds1c_instructor": "karu, kalle"
+                },
+                {
+                    "ds1c_avg": 95.78,
+                    "ds1c_pass": 9,
+                    "ds1c_instructor": "marker, michael"
+                },
+                {
+                    "ds1c_avg": 95.17,
+                    "ds1c_pass": 6,
+                    "ds1c_instructor": "weber, rachel"
+                },
+                {
+                    "ds1c_avg": 95.22,
+                    "ds1c_pass": 18,
+                    "ds1c_instructor": "porath, marion"
+                },
+                {
+                    "ds1c_avg": 95.33,
+                    "ds1c_pass": 9,
+                    "ds1c_instructor": "kishor, nand"
+                },
+                {
+                    "ds1c_avg": 97.09,
+                    "ds1c_pass": 11,
+                    "ds1c_instructor": "kishor, nand"
+                },
+                {
+                    "ds1c_avg": 96.9,
+                    "ds1c_pass": 10,
+                    "ds1c_instructor": "adelman, sharon"
+                },
+                {
+                    "ds1c_avg": 96.21,
+                    "ds1c_pass": 24,
+                    "ds1c_instructor": "ervin, ruth"
+                },
+                {
+                    "ds1c_avg": 96.27,
+                    "ds1c_pass": 15,
+                    "ds1c_instructor": "ventura, carlos estuardo"
+                },
+                {
+                    "ds1c_avg": 95.31,
+                    "ds1c_pass": 16,
+                    "ds1c_instructor": "ford, laurie"
+                },
+                {
+                    "ds1c_avg": 95.44,
+                    "ds1c_pass": 18,
+                    "ds1c_instructor": "wu, amery"
+                },
+                {
+                    "ds1c_avg": 95.9,
+                    "ds1c_pass": 20,
+                    "ds1c_instructor": "wu, amery"
+                },
+                {
+                    "ds1c_avg": 95.13,
+                    "ds1c_pass": 15,
+                    "ds1c_instructor": "kishor, nand"
+                },
+                {
+                    "ds1c_avg": 96.5,
+                    "ds1c_pass": 14,
+                    "ds1c_instructor": "mcrae, lorna"
+                },
+                {
+                    "ds1c_avg": 96.4,
+                    "ds1c_pass": 20,
+                    "ds1c_instructor": "wenzek, rob"
+                }
+            ]
+        }
+    }
+}

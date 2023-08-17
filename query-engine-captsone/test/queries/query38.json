@@ -1,0 +1,10 @@
+{
+    "title": "Query 38",
+    "query": "In courses dataset ds1c, find entries whose Department is adhe; show Department and Average.",
+    "response": {
+        "code": 400,
+        "body": {
+            "error": "Invalid query string"
+        }
+    }
+}

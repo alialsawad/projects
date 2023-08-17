@@ -1,0 +1,231 @@
+{
+    "title": "Query 15",
+    "query": "In courses dataset ds1c, find entries whose Department is \"cpsc\" and Average is greater than 90; show Department, ID and Average.",
+    "response": {
+        "code": 200,
+        "body": {
+            "result": [
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_id": "507",
+                    "ds1c_avg": 91.79
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_id": "507",
+                    "ds1c_avg": 91.79
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_id": "501",
+                    "ds1c_avg": 92.43
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_id": "501",
+                    "ds1c_avg": 92.43
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_id": "501",
+                    "ds1c_avg": 91
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_id": "501",
+                    "ds1c_avg": 91
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_id": "501",
+                    "ds1c_avg": 92.75
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_id": "501",
+                    "ds1c_avg": 92.75
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_id": "501",
+                    "ds1c_avg": 94
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_id": "501",
+                    "ds1c_avg": 94
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_id": "449",
+                    "ds1c_avg": 92.63
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_id": "449",
+                    "ds1c_avg": 92.63
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_id": "449",
+                    "ds1c_avg": 93.38
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_id": "449",
+                    "ds1c_avg": 93.38
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_id": "449",
+                    "ds1c_avg": 93.5
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_id": "449",
+                    "ds1c_avg": 93.5
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_id": "449",
+                    "ds1c_avg": 90.25
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_id": "449",
+                    "ds1c_avg": 90.25
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_id": "449",
+                    "ds1c_avg": 92.5
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_id": "449",
+                    "ds1c_avg": 92.5
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_id": "503",
+                    "ds1c_avg": 94.5
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_id": "503",
+                    "ds1c_avg": 94.5
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_id": "589",
+                    "ds1c_avg": 95
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_id": "589",
+                    "ds1c_avg": 95
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_id": "540",
+                    "ds1c_avg": 91.22
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_id": "540",
+                    "ds1c_avg": 91.22
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_id": "540",
+                    "ds1c_avg": 90.53
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_id": "540",
+                    "ds1c_avg": 90.53
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_id": "490",
+                    "ds1c_avg": 92.4
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_id": "490",
+                    "ds1c_avg": 92.4
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_id": "490",
+                    "ds1c_avg": 90.6
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_id": "490",
+                    "ds1c_avg": 90.6
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_id": "490",
+                    "ds1c_avg": 90.27
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_id": "490",
+                    "ds1c_avg": 90.14
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_id": "490",
+                    "ds1c_avg": 92
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_id": "490",
+                    "ds1c_avg": 92
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_id": "527",
+                    "ds1c_avg": 91.22
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_id": "527",
+                    "ds1c_avg": 91.22
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_id": "527",
+                    "ds1c_avg": 90.11
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_id": "527",
+                    "ds1c_avg": 90.11
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_id": "445",
+                    "ds1c_avg": 91.25
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_id": "445",
+                    "ds1c_avg": 91.25
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_id": "522",
+                    "ds1c_avg": 90.71
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_id": "522",
+                    "ds1c_avg": 90.71
+                }
+            ]
+        }
+    }
+}

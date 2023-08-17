@@ -1,0 +1,61 @@
+{
+    "title": "Query 9",
+    "query": "In courses dataset ds1c, find entries whose Year is greater than 2015 and Average is greater than 95; show Year, Average and Title; sort in ascending order by Year and Average.",
+    "response": {
+        "code": 200,
+        "body": {
+            "result": [
+                {
+                    "ds1c_year": 2016,
+                    "ds1c_avg": 95.16,
+                    "ds1c_title": "exp des anl ed"
+                },
+                {
+                    "ds1c_year": 2016,
+                    "ds1c_avg": 95.26,
+                    "ds1c_title": "islnd wild mgmt"
+                },
+                {
+                    "ds1c_year": 2016,
+                    "ds1c_avg": 95.26,
+                    "ds1c_title": "islnd wild mgmt"
+                },
+                {
+                    "ds1c_year": 2016,
+                    "ds1c_avg": 95.32,
+                    "ds1c_title": "indig, tech&ed"
+                },
+                {
+                    "ds1c_year": 2016,
+                    "ds1c_avg": 95.32,
+                    "ds1c_title": "indig, tech&ed"
+                },
+                {
+                    "ds1c_year": 2016,
+                    "ds1c_avg": 95.9,
+                    "ds1c_title": "exp des anl ed"
+                },
+                {
+                    "ds1c_year": 2016,
+                    "ds1c_avg": 96.73,
+                    "ds1c_title": "eth&profl issues"
+                },
+                {
+                    "ds1c_year": 2016,
+                    "ds1c_avg": 96.73,
+                    "ds1c_title": "eth&profl issues"
+                },
+                {
+                    "ds1c_year": 2016,
+                    "ds1c_avg": 97.25,
+                    "ds1c_title": "diff geometry i"
+                },
+                {
+                    "ds1c_year": 2016,
+                    "ds1c_avg": 97.25,
+                    "ds1c_title": "diff geometry i"
+                }
+            ]
+        }
+    }
+}

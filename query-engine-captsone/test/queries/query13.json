@@ -1,0 +1,545 @@
+{
+    "title": "Query 13",
+    "query": "In courses dataset ds1c grouped by Department and Instructor, find entries whose Department is \"cpsc\"; show Department, Instructor, avgGrade and sumGrade, where avgGrade is the AVG of Average and sumGrade is the SUM of Average; sort in descending order by Department, Instructor, sumGrade and avgGrade.",
+    "response": {
+        "code": 200,
+        "body": {
+            "result": [
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_instructor": "woodham, robert",
+                    "avgGrade": 74.58,
+                    "sumGrade": 447.5
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_instructor": "wolfman, steven",
+                    "avgGrade": 74.74,
+                    "sumGrade": 1719.03
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_instructor": "wohlstadter, eric",
+                    "avgGrade": 81.78,
+                    "sumGrade": 572.44
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_instructor": "warfield, andrew",
+                    "avgGrade": 71.22,
+                    "sumGrade": 142.45
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_instructor": "wagner, alan",
+                    "avgGrade": 79.62,
+                    "sumGrade": 636.99
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_instructor": "vuong, son",
+                    "avgGrade": 77.03,
+                    "sumGrade": 154.07
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_instructor": "voll, kimberly",
+                    "avgGrade": 77.59,
+                    "sumGrade": 931.1
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_instructor": "van de panne, michiel",
+                    "avgGrade": 70.94,
+                    "sumGrade": 141.89
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_instructor": "tung, frederick",
+                    "avgGrade": 73.95,
+                    "sumGrade": 73.95
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_instructor": "tsiknis, georgios",
+                    "avgGrade": 80.07,
+                    "sumGrade": 2882.62
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_instructor": "tompkins, david a d",
+                    "avgGrade": 76.46,
+                    "sumGrade": 76.46
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_instructor": "shepherd, david",
+                    "avgGrade": 75.08,
+                    "sumGrade": 150.17
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_instructor": "sheffer, alla",
+                    "avgGrade": 76.76,
+                    "sumGrade": 307.03
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_instructor": "schroeder, jonatan",
+                    "avgGrade": 72.78,
+                    "sumGrade": 72.78
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_instructor": "schmidt, mark",
+                    "avgGrade": 86.17,
+                    "sumGrade": 344.7
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_instructor": "sagaii, sara mahboubeh",
+                    "avgGrade": 76.93,
+                    "sumGrade": 76.93
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_instructor": "rees, tyrone",
+                    "avgGrade": 73.18,
+                    "sumGrade": 73.18
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_instructor": "pottinger, rachel",
+                    "avgGrade": 73.83,
+                    "sumGrade": 295.34
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_instructor": "poole, david",
+                    "avgGrade": 80.55,
+                    "sumGrade": 805.54
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_instructor": "palyart-lamarche, marc",
+                    "avgGrade": 78.69,
+                    "sumGrade": 78.69
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_instructor": "pai, dinesh",
+                    "avgGrade": 76.72,
+                    "sumGrade": 153.45
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_instructor": "ng, raymond tak-yan",
+                    "avgGrade": 73.93,
+                    "sumGrade": 369.67
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_instructor": "murphy-hill, emerson",
+                    "avgGrade": 80.18,
+                    "sumGrade": 80.18
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_instructor": "murphy, kevin",
+                    "avgGrade": 79.78,
+                    "sumGrade": 159.57
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_instructor": "murphy, gail",
+                    "avgGrade": 72.88,
+                    "sumGrade": 364.38
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_instructor": "munzner, tamara",
+                    "avgGrade": 75.46,
+                    "sumGrade": 679.13
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_instructor": "mitchell, ian",
+                    "avgGrade": 75.39,
+                    "sumGrade": 753.88
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_instructor": "meyer, irmtraud margret",
+                    "avgGrade": 74.81,
+                    "sumGrade": 299.26
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_instructor": "mcgrenere, joanna",
+                    "avgGrade": 78.83,
+                    "sumGrade": 630.61
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_instructor": "manuch, jan",
+                    "avgGrade": 75.6,
+                    "sumGrade": 378.01
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_instructor": "malka, lior",
+                    "avgGrade": 71.02,
+                    "sumGrade": 71.02
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_instructor": "maclean, karon",
+                    "avgGrade": 82.54,
+                    "sumGrade": 1320.66
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_instructor": "mackworth, alan",
+                    "avgGrade": 78.48,
+                    "sumGrade": 313.93
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_instructor": "luk, joseph",
+                    "avgGrade": 79.14,
+                    "sumGrade": 237.42
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_instructor": "little, james joseph",
+                    "avgGrade": 71.77,
+                    "sumGrade": 502.39
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_instructor": "leyton-brown, kevin",
+                    "avgGrade": 76.93,
+                    "sumGrade": 461.59
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_instructor": "lakshmanan, laks",
+                    "avgGrade": 75.83,
+                    "sumGrade": 530.8
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_instructor": "krasic, charles",
+                    "avgGrade": 79.76,
+                    "sumGrade": 239.28
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_instructor": "kotthoff, lars",
+                    "avgGrade": 72.53,
+                    "sumGrade": 72.53
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_instructor": "knorr, edwin max",
+                    "avgGrade": 76.15,
+                    "sumGrade": 1446.93
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_instructor": "kirkpatrick, david",
+                    "avgGrade": 73.69,
+                    "sumGrade": 589.53
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_instructor": "kirkpatrick, bonnie;manuch, jan",
+                    "avgGrade": 73.88,
+                    "sumGrade": 73.88
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_instructor": "kiczales, gregor",
+                    "avgGrade": 75.12,
+                    "sumGrade": 1126.82
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_instructor": "khosravi, hassan",
+                    "avgGrade": 74.54,
+                    "sumGrade": 298.15
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_instructor": "hutter, frank",
+                    "avgGrade": 73.79,
+                    "sumGrade": 73.79
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_instructor": "hutchinson, norman",
+                    "avgGrade": 74.61,
+                    "sumGrade": 969.87
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_instructor": "hu, alan",
+                    "avgGrade": 76.38,
+                    "sumGrade": 992.93
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_instructor": "hoos, holger",
+                    "avgGrade": 85.37,
+                    "sumGrade": 256.12
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_instructor": "holmes, reid",
+                    "avgGrade": 83.06,
+                    "sumGrade": 249.17
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_instructor": "heidrich, wolfgang",
+                    "avgGrade": 75.27,
+                    "sumGrade": 150.53
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_instructor": "harvey, nicholas",
+                    "avgGrade": 83.08,
+                    "sumGrade": 332.34
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_instructor": "greif, chen",
+                    "avgGrade": 77.69,
+                    "sumGrade": 388.45
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_instructor": "greenstreet, mark",
+                    "avgGrade": 83.5,
+                    "sumGrade": 501.01
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_instructor": "goldberg, murray",
+                    "avgGrade": 69.25,
+                    "sumGrade": 69.25
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_instructor": "gelbart, michael",
+                    "avgGrade": 74.23,
+                    "sumGrade": 74.23
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_instructor": "garcia, ronald",
+                    "avgGrade": 81.34,
+                    "sumGrade": 813.4
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_instructor": "gao, xi",
+                    "avgGrade": 72.03,
+                    "sumGrade": 72.03
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_instructor": "fritz, thomas",
+                    "avgGrade": 75.57,
+                    "sumGrade": 75.57
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_instructor": "friedman, joel",
+                    "avgGrade": 81.94,
+                    "sumGrade": 983.22
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_instructor": "feeley, michael",
+                    "avgGrade": 75.18,
+                    "sumGrade": 1278.09
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_instructor": "evans, william",
+                    "avgGrade": 78.66,
+                    "sumGrade": 943.97
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_instructor": "ernst, neil",
+                    "avgGrade": 76.46,
+                    "sumGrade": 229.37
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_instructor": "eiselt, kurt",
+                    "avgGrade": 81.09,
+                    "sumGrade": 1540.73
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_instructor": "dunfield, joshua",
+                    "avgGrade": 84.39,
+                    "sumGrade": 84.39
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_instructor": "dulat, margaret",
+                    "avgGrade": 78.45,
+                    "sumGrade": 156.91
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_instructor": "doucet, arnaud",
+                    "avgGrade": 75.7,
+                    "sumGrade": 151.4
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_instructor": "de volder, kris",
+                    "avgGrade": 75.71,
+                    "sumGrade": 227.13
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_instructor": "de freitas, joao",
+                    "avgGrade": 80.05,
+                    "sumGrade": 480.3
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_instructor": "dawson, jessica;maclean, karon",
+                    "avgGrade": 80.24,
+                    "sumGrade": 80.24
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_instructor": "dawson, jessica",
+                    "avgGrade": 80.75,
+                    "sumGrade": 323.01
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_instructor": "darwish, mohammad mostafa",
+                    "avgGrade": 68.77,
+                    "sumGrade": 68.77
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_instructor": "cooper, kendra",
+                    "avgGrade": 75.38,
+                    "sumGrade": 150.75
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_instructor": "conati, cristina",
+                    "avgGrade": 73.48,
+                    "sumGrade": 734.78
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_instructor": "carter, paul martin",
+                    "avgGrade": 74.38,
+                    "sumGrade": 1264.4
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_instructor": "carenini, giuseppe",
+                    "avgGrade": 80.15,
+                    "sumGrade": 1122.07
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_instructor": "bridson, robert",
+                    "avgGrade": 80.81,
+                    "sumGrade": 161.62
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_instructor": "booth, kellogg",
+                    "avgGrade": 83.67,
+                    "sumGrade": 83.67
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_instructor": "bessmeltsev, mikhail",
+                    "avgGrade": 78.7,
+                    "sumGrade": 78.7
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_instructor": "beschastnikh, ivan",
+                    "avgGrade": 81.52,
+                    "sumGrade": 244.56
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_instructor": "berg, celina",
+                    "avgGrade": 72.72,
+                    "sumGrade": 145.44
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_instructor": "belleville, patrice",
+                    "avgGrade": 72.73,
+                    "sumGrade": 2181.94
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_instructor": "baniassad, elisa",
+                    "avgGrade": 78.67,
+                    "sumGrade": 786.7
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_instructor": "awad, ahmed",
+                    "avgGrade": 87.93,
+                    "sumGrade": 87.93
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_instructor": "ascher, uri michael;greif, chen",
+                    "avgGrade": 76.32,
+                    "sumGrade": 152.64
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_instructor": "ascher, uri michael",
+                    "avgGrade": 75.95,
+                    "sumGrade": 455.73
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_instructor": "allen, meghan",
+                    "avgGrade": 75.44,
+                    "sumGrade": 1886
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_instructor": "aiello, william",
+                    "avgGrade": 73.3,
+                    "sumGrade": 366.48
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_instructor": "acton, donald",
+                    "avgGrade": 71.23,
+                    "sumGrade": 1851.95
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_instructor": "",
+                    "avgGrade": 78.3,
+                    "sumGrade": 41732.4
+                }
+            ]
+        }
+    }
+}

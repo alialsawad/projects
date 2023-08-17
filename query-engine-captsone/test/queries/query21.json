@@ -1,0 +1,101 @@
+{
+    "title": "Query 21",
+    "query": "In rooms dataset ds1r, find entries whose Full Name is \"Irving K Barber Learning Centre\"; show Full Name, Address and Type.",
+    "response": {
+        "code": 200,
+        "body": {
+            "result": [
+                {
+                    "ds1r_fullname": "Irving K Barber Learning Centre",
+                    "ds1r_address": "1961 East Mall V6T 1Z1",
+                    "ds1r_type": "Case Style"
+                },
+                {
+                    "ds1r_fullname": "Irving K Barber Learning Centre",
+                    "ds1r_address": "1961 East Mall V6T 1Z1",
+                    "ds1r_type": "Small Group"
+                },
+                {
+                    "ds1r_fullname": "Irving K Barber Learning Centre",
+                    "ds1r_address": "1961 East Mall V6T 1Z1",
+                    "ds1r_type": "Small Group"
+                },
+                {
+                    "ds1r_fullname": "Irving K Barber Learning Centre",
+                    "ds1r_address": "1961 East Mall V6T 1Z1",
+                    "ds1r_type": "Small Group"
+                },
+                {
+                    "ds1r_fullname": "Irving K Barber Learning Centre",
+                    "ds1r_address": "1961 East Mall V6T 1Z1",
+                    "ds1r_type": "Tiered Large Group"
+                },
+                {
+                    "ds1r_fullname": "Irving K Barber Learning Centre",
+                    "ds1r_address": "1961 East Mall V6T 1Z1",
+                    "ds1r_type": "Small Group"
+                },
+                {
+                    "ds1r_fullname": "Irving K Barber Learning Centre",
+                    "ds1r_address": "1961 East Mall V6T 1Z1",
+                    "ds1r_type": "Small Group"
+                },
+                {
+                    "ds1r_fullname": "Irving K Barber Learning Centre",
+                    "ds1r_address": "1961 East Mall V6T 1Z1",
+                    "ds1r_type": "Small Group"
+                },
+                {
+                    "ds1r_fullname": "Irving K Barber Learning Centre",
+                    "ds1r_address": "1961 East Mall V6T 1Z1",
+                    "ds1r_type": "Small Group"
+                },
+                {
+                    "ds1r_fullname": "Irving K Barber Learning Centre",
+                    "ds1r_address": "1961 East Mall V6T 1Z1",
+                    "ds1r_type": "Small Group"
+                },
+                {
+                    "ds1r_fullname": "Irving K Barber Learning Centre",
+                    "ds1r_address": "1961 East Mall V6T 1Z1",
+                    "ds1r_type": "Small Group"
+                },
+                {
+                    "ds1r_fullname": "Irving K Barber Learning Centre",
+                    "ds1r_address": "1961 East Mall V6T 1Z1",
+                    "ds1r_type": "Open Design General Purpose"
+                },
+                {
+                    "ds1r_fullname": "Irving K Barber Learning Centre",
+                    "ds1r_address": "1961 East Mall V6T 1Z1",
+                    "ds1r_type": "Small Group"
+                },
+                {
+                    "ds1r_fullname": "Irving K Barber Learning Centre",
+                    "ds1r_address": "1961 East Mall V6T 1Z1",
+                    "ds1r_type": "Small Group"
+                },
+                {
+                    "ds1r_fullname": "Irving K Barber Learning Centre",
+                    "ds1r_address": "1961 East Mall V6T 1Z1",
+                    "ds1r_type": "Small Group"
+                },
+                {
+                    "ds1r_fullname": "Irving K Barber Learning Centre",
+                    "ds1r_address": "1961 East Mall V6T 1Z1",
+                    "ds1r_type": "Small Group"
+                },
+                {
+                    "ds1r_fullname": "Irving K Barber Learning Centre",
+                    "ds1r_address": "1961 East Mall V6T 1Z1",
+                    "ds1r_type": "Small Group"
+                },
+                {
+                    "ds1r_fullname": "Irving K Barber Learning Centre",
+                    "ds1r_address": "1961 East Mall V6T 1Z1",
+                    "ds1r_type": "Small Group"
+                }
+            ]
+        }
+    }
+}

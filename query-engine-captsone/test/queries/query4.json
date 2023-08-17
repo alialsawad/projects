@@ -1,0 +1,15 @@
+{
+    "title": "Query 4",
+    "query": "In courses dataset ds1c grouped by Department, find entries whose Department is \"cpsc\"; show Department and avgGrade, where avgGrade is the AVG of Average.",
+    "response": {
+        "code": 200,
+        "body": {
+            "result": [
+                {
+                    "ds1c_dept": "cpsc",
+                    "avgGrade": 77.58
+                }
+            ]
+        }
+    }
+}

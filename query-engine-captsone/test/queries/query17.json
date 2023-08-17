@@ -1,0 +1,51 @@
+{
+    "title": "Query 17",
+    "query": "In rooms dataset ds1r grouped by Type, find all entries; show Type, totalSeats, and roomCount, where totalSeats is the SUM of Seats and roomCount is the COUNT of Full Name; sort in descending order by totalSeats.",
+    "response": {
+        "code": 200,
+        "body": {
+            "result": [
+                {
+                    "ds1r_type": "Tiered Large Group",
+                    "totalSeats": 11068,
+                    "roomCount": 29
+                },
+                {
+                    "ds1r_type": "Open Design General Purpose",
+                    "totalSeats": 2943,
+                    "roomCount": 21
+                },
+                {
+                    "ds1r_type": "Small Group",
+                    "totalSeats": 2829,
+                    "roomCount": 21
+                },
+                {
+                    "ds1r_type": "Case Style",
+                    "totalSeats": 932,
+                    "roomCount": 6
+                },
+                {
+                    "ds1r_type": "TBD",
+                    "totalSeats": 929,
+                    "roomCount": 2
+                },
+                {
+                    "ds1r_type": "Active Learning",
+                    "totalSeats": 272,
+                    "roomCount": 1
+                },
+                {
+                    "ds1r_type": "Studio Lab",
+                    "totalSeats": 120,
+                    "roomCount": 1
+                },
+                {
+                    "ds1r_type": "",
+                    "totalSeats": 60,
+                    "roomCount": 1
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "title": "Query 25",
+    "query": "In rooms dataset abc, find entries whose Seats is greater than 80; show Seats.",
+    "response": {
+        "code": 400,
+        "body": {
+            "error": "missing dataset(s) abc"
+        }
+    }
+}

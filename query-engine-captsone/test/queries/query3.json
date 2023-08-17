@@ -1,0 +1,1147 @@
+{
+    "title": "Query 3",
+    "query": "In rooms dataset ds1r, find all entries; show Full Name and Address.",
+    "response": {
+        "code": 200,
+        "body": {
+            "result": [
+                {
+                    "ds1r_fullname": "Allard Hall (LAW)",
+                    "ds1r_address": "1822 East Mall"
+                },
+                {
+                    "ds1r_fullname": "Allard Hall (LAW)",
+                    "ds1r_address": "1822 East Mall"
+                },
+                {
+                    "ds1r_fullname": "Allard Hall (LAW)",
+                    "ds1r_address": "1822 East Mall"
+                },
+                {
+                    "ds1r_fullname": "Allard Hall (LAW)",
+                    "ds1r_address": "1822 East Mall"
+                },
+                {
+                    "ds1r_fullname": "Allard Hall (LAW)",
+                    "ds1r_address": "1822 East Mall"
+                },
+                {
+                    "ds1r_fullname": "Anthropology and Sociology",
+                    "ds1r_address": "6303 North West Marine Drive"
+                },
+                {
+                    "ds1r_fullname": "Anthropology and Sociology",
+                    "ds1r_address": "6303 North West Marine Drive"
+                },
+                {
+                    "ds1r_fullname": "Anthropology and Sociology",
+                    "ds1r_address": "6303 North West Marine Drive"
+                },
+                {
+                    "ds1r_fullname": "Anthropology and Sociology",
+                    "ds1r_address": "6303 North West Marine Drive"
+                },
+                {
+                    "ds1r_fullname": "Aquatic Ecosystems Research Laboratory",
+                    "ds1r_address": "2202 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "Biological Sciences",
+                    "ds1r_address": "6270 University Boulevard"
+                },
+                {
+                    "ds1r_fullname": "Biological Sciences",
+                    "ds1r_address": "6270 University Boulevard"
+                },
+                {
+                    "ds1r_fullname": "Biological Sciences",
+                    "ds1r_address": "6270 University Boulevard"
+                },
+                {
+                    "ds1r_fullname": "Biological Sciences",
+                    "ds1r_address": "6270 University Boulevard"
+                },
+                {
+                    "ds1r_fullname": "Brock Hall Annex",
+                    "ds1r_address": "1874 East Mall"
+                },
+                {
+                    "ds1r_fullname": "Brock Hall Annex",
+                    "ds1r_address": "1874 East Mall"
+                },
+                {
+                    "ds1r_fullname": "Centre for Interactive  Research on Sustainability",
+                    "ds1r_address": "2260 West Mall, V6T 1Z4"
+                },
+                {
+                    "ds1r_fullname": "Chemical and Biological Engineering Building",
+                    "ds1r_address": "2360 East Mall V6T 1Z3"
+                },
+                {
+                    "ds1r_fullname": "Chemical and Biological Engineering Building",
+                    "ds1r_address": "2360 East Mall V6T 1Z3"
+                },
+                {
+                    "ds1r_fullname": "Chemical and Biological Engineering Building",
+                    "ds1r_address": "2360 East Mall V6T 1Z3"
+                },
+                {
+                    "ds1r_fullname": "Chemistry",
+                    "ds1r_address": "2036 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "Chemistry",
+                    "ds1r_address": "2036 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "Chemistry",
+                    "ds1r_address": "2036 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "Chemistry",
+                    "ds1r_address": "2036 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "Chemistry",
+                    "ds1r_address": "2036 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "Chemistry",
+                    "ds1r_address": "2036 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "Civil and Mechanical Engineering",
+                    "ds1r_address": "6250 Applied Science Lane"
+                },
+                {
+                    "ds1r_fullname": "Civil and Mechanical Engineering",
+                    "ds1r_address": "6250 Applied Science Lane"
+                },
+                {
+                    "ds1r_fullname": "Civil and Mechanical Engineering",
+                    "ds1r_address": "6250 Applied Science Lane"
+                },
+                {
+                    "ds1r_fullname": "Civil and Mechanical Engineering",
+                    "ds1r_address": "6250 Applied Science Lane"
+                },
+                {
+                    "ds1r_fullname": "Civil and Mechanical Engineering",
+                    "ds1r_address": "6250 Applied Science Lane"
+                },
+                {
+                    "ds1r_fullname": "Civil and Mechanical Engineering",
+                    "ds1r_address": "6250 Applied Science Lane"
+                },
+                {
+                    "ds1r_fullname": "Earth Sciences Building",
+                    "ds1r_address": "2207 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "Earth Sciences Building",
+                    "ds1r_address": "2207 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "Earth Sciences Building",
+                    "ds1r_address": "2207 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "Food, Nutrition and Health",
+                    "ds1r_address": "2205 East Mall"
+                },
+                {
+                    "ds1r_fullname": "Food, Nutrition and Health",
+                    "ds1r_address": "2205 East Mall"
+                },
+                {
+                    "ds1r_fullname": "Food, Nutrition and Health",
+                    "ds1r_address": "2205 East Mall"
+                },
+                {
+                    "ds1r_fullname": "Food, Nutrition and Health",
+                    "ds1r_address": "2205 East Mall"
+                },
+                {
+                    "ds1r_fullname": "Food, Nutrition and Health",
+                    "ds1r_address": "2205 East Mall"
+                },
+                {
+                    "ds1r_fullname": "Food, Nutrition and Health",
+                    "ds1r_address": "2205 East Mall"
+                },
+                {
+                    "ds1r_fullname": "Forest Sciences Centre",
+                    "ds1r_address": "2424 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "Forest Sciences Centre",
+                    "ds1r_address": "2424 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "Forest Sciences Centre",
+                    "ds1r_address": "2424 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "Forest Sciences Centre",
+                    "ds1r_address": "2424 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "Forest Sciences Centre",
+                    "ds1r_address": "2424 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "Forest Sciences Centre",
+                    "ds1r_address": "2424 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "Forest Sciences Centre",
+                    "ds1r_address": "2424 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "Forest Sciences Centre",
+                    "ds1r_address": "2424 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "Forest Sciences Centre",
+                    "ds1r_address": "2424 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "Forest Sciences Centre",
+                    "ds1r_address": "2424 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "Frank Forward",
+                    "ds1r_address": "6350 Stores Road"
+                },
+                {
+                    "ds1r_fullname": "Frank Forward",
+                    "ds1r_address": "6350 Stores Road"
+                },
+                {
+                    "ds1r_fullname": "Frank Forward",
+                    "ds1r_address": "6350 Stores Road"
+                },
+                {
+                    "ds1r_fullname": "Frederic Lasserre",
+                    "ds1r_address": "6333 Memorial Road"
+                },
+                {
+                    "ds1r_fullname": "Frederic Lasserre",
+                    "ds1r_address": "6333 Memorial Road"
+                },
+                {
+                    "ds1r_fullname": "Frederic Lasserre",
+                    "ds1r_address": "6333 Memorial Road"
+                },
+                {
+                    "ds1r_fullname": "Frederic Lasserre",
+                    "ds1r_address": "6333 Memorial Road"
+                },
+                {
+                    "ds1r_fullname": "Frederic Lasserre",
+                    "ds1r_address": "6333 Memorial Road"
+                },
+                {
+                    "ds1r_fullname": "Frederic Lasserre",
+                    "ds1r_address": "6333 Memorial Road"
+                },
+                {
+                    "ds1r_fullname": "Friedman Building",
+                    "ds1r_address": "2177 Wesbrook Mall V6T 1Z3"
+                },
+                {
+                    "ds1r_fullname": "Geography",
+                    "ds1r_address": "1984 West Mall"
+                },
+                {
+                    "ds1r_fullname": "Geography",
+                    "ds1r_address": "1984 West Mall"
+                },
+                {
+                    "ds1r_fullname": "Geography",
+                    "ds1r_address": "1984 West Mall"
+                },
+                {
+                    "ds1r_fullname": "Geography",
+                    "ds1r_address": "1984 West Mall"
+                },
+                {
+                    "ds1r_fullname": "Geography",
+                    "ds1r_address": "1984 West Mall"
+                },
+                {
+                    "ds1r_fullname": "Geography",
+                    "ds1r_address": "1984 West Mall"
+                },
+                {
+                    "ds1r_fullname": "Geography",
+                    "ds1r_address": "1984 West Mall"
+                },
+                {
+                    "ds1r_fullname": "Geography",
+                    "ds1r_address": "1984 West Mall"
+                },
+                {
+                    "ds1r_fullname": "Hebb",
+                    "ds1r_address": "2045 East Mall"
+                },
+                {
+                    "ds1r_fullname": "Hebb",
+                    "ds1r_address": "2045 East Mall"
+                },
+                {
+                    "ds1r_fullname": "Hebb",
+                    "ds1r_address": "2045 East Mall"
+                },
+                {
+                    "ds1r_fullname": "Hebb",
+                    "ds1r_address": "2045 East Mall"
+                },
+                {
+                    "ds1r_fullname": "Hennings",
+                    "ds1r_address": "6224 Agricultural Road"
+                },
+                {
+                    "ds1r_fullname": "Hennings",
+                    "ds1r_address": "6224 Agricultural Road"
+                },
+                {
+                    "ds1r_fullname": "Hennings",
+                    "ds1r_address": "6224 Agricultural Road"
+                },
+                {
+                    "ds1r_fullname": "Hennings",
+                    "ds1r_address": "6224 Agricultural Road"
+                },
+                {
+                    "ds1r_fullname": "Hennings",
+                    "ds1r_address": "6224 Agricultural Road"
+                },
+                {
+                    "ds1r_fullname": "Hennings",
+                    "ds1r_address": "6224 Agricultural Road"
+                },
+                {
+                    "ds1r_fullname": "Henry Angus",
+                    "ds1r_address": "2053 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "Henry Angus",
+                    "ds1r_address": "2053 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "Henry Angus",
+                    "ds1r_address": "2053 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "Henry Angus",
+                    "ds1r_address": "2053 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "Henry Angus",
+                    "ds1r_address": "2053 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "Henry Angus",
+                    "ds1r_address": "2053 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "Henry Angus",
+                    "ds1r_address": "2053 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "Henry Angus",
+                    "ds1r_address": "2053 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "Henry Angus",
+                    "ds1r_address": "2053 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "Henry Angus",
+                    "ds1r_address": "2053 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "Henry Angus",
+                    "ds1r_address": "2053 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "Henry Angus",
+                    "ds1r_address": "2053 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "Henry Angus",
+                    "ds1r_address": "2053 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "Henry Angus",
+                    "ds1r_address": "2053 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "Henry Angus",
+                    "ds1r_address": "2053 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "Henry Angus",
+                    "ds1r_address": "2053 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "Henry Angus",
+                    "ds1r_address": "2053 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "Henry Angus",
+                    "ds1r_address": "2053 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "Henry Angus",
+                    "ds1r_address": "2053 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "Henry Angus",
+                    "ds1r_address": "2053 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "Henry Angus",
+                    "ds1r_address": "2053 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "Henry Angus",
+                    "ds1r_address": "2053 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "Henry Angus",
+                    "ds1r_address": "2053 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "Henry Angus",
+                    "ds1r_address": "2053 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "Henry Angus",
+                    "ds1r_address": "2053 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "Henry Angus",
+                    "ds1r_address": "2053 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "Henry Angus",
+                    "ds1r_address": "2053 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "Henry Angus",
+                    "ds1r_address": "2053 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "Hugh Dempster Pavilion",
+                    "ds1r_address": "6245 Agronomy Road V6T 1Z4"
+                },
+                {
+                    "ds1r_fullname": "Hugh Dempster Pavilion",
+                    "ds1r_address": "6245 Agronomy Road V6T 1Z4"
+                },
+                {
+                    "ds1r_fullname": "Hugh Dempster Pavilion",
+                    "ds1r_address": "6245 Agronomy Road V6T 1Z4"
+                },
+                {
+                    "ds1r_fullname": "Hugh Dempster Pavilion",
+                    "ds1r_address": "6245 Agronomy Road V6T 1Z4"
+                },
+                {
+                    "ds1r_fullname": "Hugh Dempster Pavilion",
+                    "ds1r_address": "6245 Agronomy Road V6T 1Z4"
+                },
+                {
+                    "ds1r_fullname": "Irving K Barber Learning Centre",
+                    "ds1r_address": "1961 East Mall V6T 1Z1"
+                },
+                {
+                    "ds1r_fullname": "Irving K Barber Learning Centre",
+                    "ds1r_address": "1961 East Mall V6T 1Z1"
+                },
+                {
+                    "ds1r_fullname": "Irving K Barber Learning Centre",
+                    "ds1r_address": "1961 East Mall V6T 1Z1"
+                },
+                {
+                    "ds1r_fullname": "Irving K Barber Learning Centre",
+                    "ds1r_address": "1961 East Mall V6T 1Z1"
+                },
+                {
+                    "ds1r_fullname": "Irving K Barber Learning Centre",
+                    "ds1r_address": "1961 East Mall V6T 1Z1"
+                },
+                {
+                    "ds1r_fullname": "Irving K Barber Learning Centre",
+                    "ds1r_address": "1961 East Mall V6T 1Z1"
+                },
+                {
+                    "ds1r_fullname": "Irving K Barber Learning Centre",
+                    "ds1r_address": "1961 East Mall V6T 1Z1"
+                },
+                {
+                    "ds1r_fullname": "Irving K Barber Learning Centre",
+                    "ds1r_address": "1961 East Mall V6T 1Z1"
+                },
+                {
+                    "ds1r_fullname": "Irving K Barber Learning Centre",
+                    "ds1r_address": "1961 East Mall V6T 1Z1"
+                },
+                {
+                    "ds1r_fullname": "Irving K Barber Learning Centre",
+                    "ds1r_address": "1961 East Mall V6T 1Z1"
+                },
+                {
+                    "ds1r_fullname": "Irving K Barber Learning Centre",
+                    "ds1r_address": "1961 East Mall V6T 1Z1"
+                },
+                {
+                    "ds1r_fullname": "Irving K Barber Learning Centre",
+                    "ds1r_address": "1961 East Mall V6T 1Z1"
+                },
+                {
+                    "ds1r_fullname": "Irving K Barber Learning Centre",
+                    "ds1r_address": "1961 East Mall V6T 1Z1"
+                },
+                {
+                    "ds1r_fullname": "Irving K Barber Learning Centre",
+                    "ds1r_address": "1961 East Mall V6T 1Z1"
+                },
+                {
+                    "ds1r_fullname": "Irving K Barber Learning Centre",
+                    "ds1r_address": "1961 East Mall V6T 1Z1"
+                },
+                {
+                    "ds1r_fullname": "Irving K Barber Learning Centre",
+                    "ds1r_address": "1961 East Mall V6T 1Z1"
+                },
+                {
+                    "ds1r_fullname": "Irving K Barber Learning Centre",
+                    "ds1r_address": "1961 East Mall V6T 1Z1"
+                },
+                {
+                    "ds1r_fullname": "Irving K Barber Learning Centre",
+                    "ds1r_address": "1961 East Mall V6T 1Z1"
+                },
+                {
+                    "ds1r_fullname": "Leonard S. Klinck (also known as CSCI)",
+                    "ds1r_address": "6356 Agricultural Road"
+                },
+                {
+                    "ds1r_fullname": "Leonard S. Klinck (also known as CSCI)",
+                    "ds1r_address": "6356 Agricultural Road"
+                },
+                {
+                    "ds1r_fullname": "Leonard S. Klinck (also known as CSCI)",
+                    "ds1r_address": "6356 Agricultural Road"
+                },
+                {
+                    "ds1r_fullname": "Leonard S. Klinck (also known as CSCI)",
+                    "ds1r_address": "6356 Agricultural Road"
+                },
+                {
+                    "ds1r_fullname": "Life Sciences Centre",
+                    "ds1r_address": "2350 Health Sciences Mall"
+                },
+                {
+                    "ds1r_fullname": "Life Sciences Centre",
+                    "ds1r_address": "2350 Health Sciences Mall"
+                },
+                {
+                    "ds1r_fullname": "Life Sciences Centre",
+                    "ds1r_address": "2350 Health Sciences Mall"
+                },
+                {
+                    "ds1r_fullname": "MacLeod",
+                    "ds1r_address": "2356 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "MacLeod",
+                    "ds1r_address": "2356 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "MacLeod",
+                    "ds1r_address": "2356 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "MacLeod",
+                    "ds1r_address": "2356 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "MacLeod",
+                    "ds1r_address": "2356 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "MacLeod",
+                    "ds1r_address": "2356 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "MacMillan",
+                    "ds1r_address": "2357 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "MacMillan",
+                    "ds1r_address": "2357 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "MacMillan",
+                    "ds1r_address": "2357 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "MacMillan",
+                    "ds1r_address": "2357 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "MacMillan",
+                    "ds1r_address": "2357 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "MacMillan",
+                    "ds1r_address": "2357 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "MacMillan",
+                    "ds1r_address": "2357 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "MacMillan",
+                    "ds1r_address": "2357 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "MacMillan",
+                    "ds1r_address": "2357 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "MacMillan",
+                    "ds1r_address": "2357 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "MacMillan",
+                    "ds1r_address": "2357 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "MacMillan",
+                    "ds1r_address": "2357 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "MacMillan",
+                    "ds1r_address": "2357 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "MacMillan",
+                    "ds1r_address": "2357 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "MacMillan",
+                    "ds1r_address": "2357 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "MacMillan",
+                    "ds1r_address": "2357 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "MacMillan",
+                    "ds1r_address": "2357 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "MacMillan",
+                    "ds1r_address": "2357 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "MacMillan",
+                    "ds1r_address": "2357 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "Mathematics",
+                    "ds1r_address": "1984 Mathematics Road"
+                },
+                {
+                    "ds1r_fullname": "Mathematics",
+                    "ds1r_address": "1984 Mathematics Road"
+                },
+                {
+                    "ds1r_fullname": "Mathematics",
+                    "ds1r_address": "1984 Mathematics Road"
+                },
+                {
+                    "ds1r_fullname": "Mathematics",
+                    "ds1r_address": "1984 Mathematics Road"
+                },
+                {
+                    "ds1r_fullname": "Mathematics",
+                    "ds1r_address": "1984 Mathematics Road"
+                },
+                {
+                    "ds1r_fullname": "Mathematics",
+                    "ds1r_address": "1984 Mathematics Road"
+                },
+                {
+                    "ds1r_fullname": "Mathematics",
+                    "ds1r_address": "1984 Mathematics Road"
+                },
+                {
+                    "ds1r_fullname": "Mathematics",
+                    "ds1r_address": "1984 Mathematics Road"
+                },
+                {
+                    "ds1r_fullname": "Mathematics Annex",
+                    "ds1r_address": "1986 Mathematics Road"
+                },
+                {
+                    "ds1r_fullname": "Neville Scarfe",
+                    "ds1r_address": "2125 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "Neville Scarfe",
+                    "ds1r_address": "2125 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "Neville Scarfe",
+                    "ds1r_address": "2125 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "Neville Scarfe",
+                    "ds1r_address": "2125 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "Neville Scarfe",
+                    "ds1r_address": "2125 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "Neville Scarfe",
+                    "ds1r_address": "2125 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "Neville Scarfe",
+                    "ds1r_address": "2125 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "Neville Scarfe",
+                    "ds1r_address": "2125 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "Neville Scarfe",
+                    "ds1r_address": "2125 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "Neville Scarfe",
+                    "ds1r_address": "2125 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "Neville Scarfe",
+                    "ds1r_address": "2125 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "Neville Scarfe",
+                    "ds1r_address": "2125 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "Neville Scarfe",
+                    "ds1r_address": "2125 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "Neville Scarfe",
+                    "ds1r_address": "2125 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "Neville Scarfe",
+                    "ds1r_address": "2125 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "Neville Scarfe",
+                    "ds1r_address": "2125 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "Neville Scarfe",
+                    "ds1r_address": "2125 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "Neville Scarfe",
+                    "ds1r_address": "2125 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "Neville Scarfe",
+                    "ds1r_address": "2125 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "Neville Scarfe",
+                    "ds1r_address": "2125 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "Neville Scarfe",
+                    "ds1r_address": "2125 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "Neville Scarfe",
+                    "ds1r_address": "2125 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "Orchard Commons",
+                    "ds1r_address": "6363 Agronomy Road"
+                },
+                {
+                    "ds1r_fullname": "Orchard Commons",
+                    "ds1r_address": "6363 Agronomy Road"
+                },
+                {
+                    "ds1r_fullname": "Orchard Commons",
+                    "ds1r_address": "6363 Agronomy Road"
+                },
+                {
+                    "ds1r_fullname": "Orchard Commons",
+                    "ds1r_address": "6363 Agronomy Road"
+                },
+                {
+                    "ds1r_fullname": "Orchard Commons",
+                    "ds1r_address": "6363 Agronomy Road"
+                },
+                {
+                    "ds1r_fullname": "Orchard Commons",
+                    "ds1r_address": "6363 Agronomy Road"
+                },
+                {
+                    "ds1r_fullname": "Orchard Commons",
+                    "ds1r_address": "6363 Agronomy Road"
+                },
+                {
+                    "ds1r_fullname": "Orchard Commons",
+                    "ds1r_address": "6363 Agronomy Road"
+                },
+                {
+                    "ds1r_fullname": "Orchard Commons",
+                    "ds1r_address": "6363 Agronomy Road"
+                },
+                {
+                    "ds1r_fullname": "Orchard Commons",
+                    "ds1r_address": "6363 Agronomy Road"
+                },
+                {
+                    "ds1r_fullname": "Orchard Commons",
+                    "ds1r_address": "6363 Agronomy Road"
+                },
+                {
+                    "ds1r_fullname": "Orchard Commons",
+                    "ds1r_address": "6363 Agronomy Road"
+                },
+                {
+                    "ds1r_fullname": "Orchard Commons",
+                    "ds1r_address": "6363 Agronomy Road"
+                },
+                {
+                    "ds1r_fullname": "Orchard Commons",
+                    "ds1r_address": "6363 Agronomy Road"
+                },
+                {
+                    "ds1r_fullname": "Orchard Commons",
+                    "ds1r_address": "6363 Agronomy Road"
+                },
+                {
+                    "ds1r_fullname": "Orchard Commons",
+                    "ds1r_address": "6363 Agronomy Road"
+                },
+                {
+                    "ds1r_fullname": "Orchard Commons",
+                    "ds1r_address": "6363 Agronomy Road"
+                },
+                {
+                    "ds1r_fullname": "Orchard Commons",
+                    "ds1r_address": "6363 Agronomy Road"
+                },
+                {
+                    "ds1r_fullname": "Orchard Commons",
+                    "ds1r_address": "6363 Agronomy Road"
+                },
+                {
+                    "ds1r_fullname": "Orchard Commons",
+                    "ds1r_address": "6363 Agronomy Road"
+                },
+                {
+                    "ds1r_fullname": "Orchard Commons",
+                    "ds1r_address": "6363 Agronomy Road"
+                },
+                {
+                    "ds1r_fullname": "Pharmaceutical Sciences Building",
+                    "ds1r_address": "2405 Wesbrook Mall"
+                },
+                {
+                    "ds1r_fullname": "Pharmaceutical Sciences Building",
+                    "ds1r_address": "2405 Wesbrook Mall"
+                },
+                {
+                    "ds1r_fullname": "Pharmaceutical Sciences Building",
+                    "ds1r_address": "2405 Wesbrook Mall"
+                },
+                {
+                    "ds1r_fullname": "Pharmaceutical Sciences Building",
+                    "ds1r_address": "2405 Wesbrook Mall"
+                },
+                {
+                    "ds1r_fullname": "Pharmaceutical Sciences Building",
+                    "ds1r_address": "2405 Wesbrook Mall"
+                },
+                {
+                    "ds1r_fullname": "Pharmaceutical Sciences Building",
+                    "ds1r_address": "2405 Wesbrook Mall"
+                },
+                {
+                    "ds1r_fullname": "Pharmaceutical Sciences Building",
+                    "ds1r_address": "2405 Wesbrook Mall"
+                },
+                {
+                    "ds1r_fullname": "Pharmaceutical Sciences Building",
+                    "ds1r_address": "2405 Wesbrook Mall"
+                },
+                {
+                    "ds1r_fullname": "Pharmaceutical Sciences Building",
+                    "ds1r_address": "2405 Wesbrook Mall"
+                },
+                {
+                    "ds1r_fullname": "Pharmaceutical Sciences Building",
+                    "ds1r_address": "2405 Wesbrook Mall"
+                },
+                {
+                    "ds1r_fullname": "Pharmaceutical Sciences Building",
+                    "ds1r_address": "2405 Wesbrook Mall"
+                },
+                {
+                    "ds1r_fullname": "Ponderosa Commons: Oak House",
+                    "ds1r_address": "6445 University Boulevard"
+                },
+                {
+                    "ds1r_fullname": "Ponderosa Commons: Oak House",
+                    "ds1r_address": "6445 University Boulevard"
+                },
+                {
+                    "ds1r_fullname": "Ponderosa Commons: Oak House",
+                    "ds1r_address": "6445 University Boulevard"
+                },
+                {
+                    "ds1r_fullname": "Ponderosa Commons: Oak House",
+                    "ds1r_address": "6445 University Boulevard"
+                },
+                {
+                    "ds1r_fullname": "Ponderosa Commons: Oak House",
+                    "ds1r_address": "6445 University Boulevard"
+                },
+                {
+                    "ds1r_fullname": "Ponderosa Commons: Oak House",
+                    "ds1r_address": "6445 University Boulevard"
+                },
+                {
+                    "ds1r_fullname": "Ponderosa Commons: Oak House",
+                    "ds1r_address": "6445 University Boulevard"
+                },
+                {
+                    "ds1r_fullname": "Ponderosa Commons: Oak House",
+                    "ds1r_address": "6445 University Boulevard"
+                },
+                {
+                    "ds1r_fullname": "School of Population and Public Health",
+                    "ds1r_address": "2206 East Mall"
+                },
+                {
+                    "ds1r_fullname": "School of Population and Public Health",
+                    "ds1r_address": "2206 East Mall"
+                },
+                {
+                    "ds1r_fullname": "School of Population and Public Health",
+                    "ds1r_address": "2206 East Mall"
+                },
+                {
+                    "ds1r_fullname": "School of Population and Public Health",
+                    "ds1r_address": "2206 East Mall"
+                },
+                {
+                    "ds1r_fullname": "School of Population and Public Health",
+                    "ds1r_address": "2206 East Mall"
+                },
+                {
+                    "ds1r_fullname": "School of Population and Public Health",
+                    "ds1r_address": "2206 East Mall"
+                },
+                {
+                    "ds1r_fullname": "Student Recreation Centre",
+                    "ds1r_address": "6000 Student Union Blvd"
+                },
+                {
+                    "ds1r_fullname": "Student Recreation Centre",
+                    "ds1r_address": "6000 Student Union Blvd"
+                },
+                {
+                    "ds1r_fullname": "Student Recreation Centre",
+                    "ds1r_address": "6000 Student Union Blvd"
+                },
+                {
+                    "ds1r_fullname": "War Memorial Gymnasium",
+                    "ds1r_address": "6081 University Blvd"
+                },
+                {
+                    "ds1r_fullname": "War Memorial Gymnasium",
+                    "ds1r_address": "6081 University Blvd"
+                },
+                {
+                    "ds1r_fullname": "Wesbrook",
+                    "ds1r_address": "6174 University Boulevard"
+                },
+                {
+                    "ds1r_fullname": "Wesbrook",
+                    "ds1r_address": "6174 University Boulevard"
+                },
+                {
+                    "ds1r_fullname": "West Mall Swing Space",
+                    "ds1r_address": "2175 West Mall V6T 1Z4"
+                },
+                {
+                    "ds1r_fullname": "West Mall Swing Space",
+                    "ds1r_address": "2175 West Mall V6T 1Z4"
+                },
+                {
+                    "ds1r_fullname": "West Mall Swing Space",
+                    "ds1r_address": "2175 West Mall V6T 1Z4"
+                },
+                {
+                    "ds1r_fullname": "West Mall Swing Space",
+                    "ds1r_address": "2175 West Mall V6T 1Z4"
+                },
+                {
+                    "ds1r_fullname": "West Mall Swing Space",
+                    "ds1r_address": "2175 West Mall V6T 1Z4"
+                },
+                {
+                    "ds1r_fullname": "West Mall Swing Space",
+                    "ds1r_address": "2175 West Mall V6T 1Z4"
+                },
+                {
+                    "ds1r_fullname": "West Mall Swing Space",
+                    "ds1r_address": "2175 West Mall V6T 1Z4"
+                },
+                {
+                    "ds1r_fullname": "West Mall Swing Space",
+                    "ds1r_address": "2175 West Mall V6T 1Z4"
+                },
+                {
+                    "ds1r_fullname": "West Mall Swing Space",
+                    "ds1r_address": "2175 West Mall V6T 1Z4"
+                },
+                {
+                    "ds1r_fullname": "West Mall Swing Space",
+                    "ds1r_address": "2175 West Mall V6T 1Z4"
+                },
+                {
+                    "ds1r_fullname": "West Mall Swing Space",
+                    "ds1r_address": "2175 West Mall V6T 1Z4"
+                },
+                {
+                    "ds1r_fullname": "West Mall Swing Space",
+                    "ds1r_address": "2175 West Mall V6T 1Z4"
+                },
+                {
+                    "ds1r_fullname": "West Mall Swing Space",
+                    "ds1r_address": "2175 West Mall V6T 1Z4"
+                },
+                {
+                    "ds1r_fullname": "West Mall Swing Space",
+                    "ds1r_address": "2175 West Mall V6T 1Z4"
+                },
+                {
+                    "ds1r_fullname": "West Mall Swing Space",
+                    "ds1r_address": "2175 West Mall V6T 1Z4"
+                },
+                {
+                    "ds1r_fullname": "West Mall Swing Space",
+                    "ds1r_address": "2175 West Mall V6T 1Z4"
+                },
+                {
+                    "ds1r_fullname": "West Mall Swing Space",
+                    "ds1r_address": "2175 West Mall V6T 1Z4"
+                },
+                {
+                    "ds1r_fullname": "West Mall Swing Space",
+                    "ds1r_address": "2175 West Mall V6T 1Z4"
+                },
+                {
+                    "ds1r_fullname": "West Mall Swing Space",
+                    "ds1r_address": "2175 West Mall V6T 1Z4"
+                },
+                {
+                    "ds1r_fullname": "West Mall Swing Space",
+                    "ds1r_address": "2175 West Mall V6T 1Z4"
+                },
+                {
+                    "ds1r_fullname": "West Mall Swing Space",
+                    "ds1r_address": "2175 West Mall V6T 1Z4"
+                },
+                {
+                    "ds1r_fullname": "West Mall Swing Space",
+                    "ds1r_address": "2175 West Mall V6T 1Z4"
+                },
+                {
+                    "ds1r_fullname": "Woodward (Instructional Resources Centre-IRC)",
+                    "ds1r_address": "2194 Health Sciences Mall"
+                },
+                {
+                    "ds1r_fullname": "Woodward (Instructional Resources Centre-IRC)",
+                    "ds1r_address": "2194 Health Sciences Mall"
+                },
+                {
+                    "ds1r_fullname": "Woodward (Instructional Resources Centre-IRC)",
+                    "ds1r_address": "2194 Health Sciences Mall"
+                },
+                {
+                    "ds1r_fullname": "Woodward (Instructional Resources Centre-IRC)",
+                    "ds1r_address": "2194 Health Sciences Mall"
+                },
+                {
+                    "ds1r_fullname": "Woodward (Instructional Resources Centre-IRC)",
+                    "ds1r_address": "2194 Health Sciences Mall"
+                },
+                {
+                    "ds1r_fullname": "Woodward (Instructional Resources Centre-IRC)",
+                    "ds1r_address": "2194 Health Sciences Mall"
+                },
+                {
+                    "ds1r_fullname": "Woodward (Instructional Resources Centre-IRC)",
+                    "ds1r_address": "2194 Health Sciences Mall"
+                },
+                {
+                    "ds1r_fullname": "Woodward (Instructional Resources Centre-IRC)",
+                    "ds1r_address": "2194 Health Sciences Mall"
+                },
+                {
+                    "ds1r_fullname": "Woodward (Instructional Resources Centre-IRC)",
+                    "ds1r_address": "2194 Health Sciences Mall"
+                },
+                {
+                    "ds1r_fullname": "Woodward (Instructional Resources Centre-IRC)",
+                    "ds1r_address": "2194 Health Sciences Mall"
+                },
+                {
+                    "ds1r_fullname": "Woodward (Instructional Resources Centre-IRC)",
+                    "ds1r_address": "2194 Health Sciences Mall"
+                },
+                {
+                    "ds1r_fullname": "Woodward (Instructional Resources Centre-IRC)",
+                    "ds1r_address": "2194 Health Sciences Mall"
+                },
+                {
+                    "ds1r_fullname": "Woodward (Instructional Resources Centre-IRC)",
+                    "ds1r_address": "2194 Health Sciences Mall"
+                },
+                {
+                    "ds1r_fullname": "Woodward (Instructional Resources Centre-IRC)",
+                    "ds1r_address": "2194 Health Sciences Mall"
+                },
+                {
+                    "ds1r_fullname": "Woodward (Instructional Resources Centre-IRC)",
+                    "ds1r_address": "2194 Health Sciences Mall"
+                },
+                {
+                    "ds1r_fullname": "Woodward (Instructional Resources Centre-IRC)",
+                    "ds1r_address": "2194 Health Sciences Mall"
+                }
+            ]
+        }
+    }
+}

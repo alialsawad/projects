@@ -1,0 +1,10 @@
+{
+    "title": "Query 39",
+    "query": "In courses dataset ds1c, find entries whose UnknownKey is greater than 90; show Department and Average.",
+    "response": {
+        "code": 400,
+        "body": {
+            "error": "Invalid query string"
+        }
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "title": "Query 20",
+    "query": "In courses dataset ds1c, find entries whose Department is \"cpsc\"; show Department and InvalidKey.",
+    "response": {
+        "code": 400,
+        "body": {
+            "error": "InvalidKey is not a valid key"
+        }
+    }
+}

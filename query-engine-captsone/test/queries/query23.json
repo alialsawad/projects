@@ -1,0 +1,35 @@
+{
+    "title": "Query 23",
+    "query": "In rooms dataset ds1r grouped by Type, find all entries; show Type, where Seats is the MAX of Seats.",
+    "response": {
+        "code": 200,
+        "body": {
+            "result": [
+                {
+                    "ds1r_type": "Case Style"
+                },
+                {
+                    "ds1r_type": "Open Design General Purpose"
+                },
+                {
+                    "ds1r_type": "Small Group"
+                },
+                {
+                    "ds1r_type": "Tiered Large Group"
+                },
+                {
+                    "ds1r_type": ""
+                },
+                {
+                    "ds1r_type": "TBD"
+                },
+                {
+                    "ds1r_type": "Active Learning"
+                },
+                {
+                    "ds1r_type": "Studio Lab"
+                }
+            ]
+        }
+    }
+}

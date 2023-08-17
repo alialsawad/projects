@@ -1,0 +1,10 @@
+{
+    "title": "Query 43",
+    "query": "",
+    "response": {
+        "code": 400,
+        "body": {
+            "error": "Invalid query string"
+        }
+    }
+}

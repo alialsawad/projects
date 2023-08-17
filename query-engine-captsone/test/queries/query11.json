@@ -1,0 +1,127 @@
+{
+    "title": "Query 11",
+    "query": "In rooms dataset ds1r, find entries whose Type is \"Small Group\" and Seats is greater than 30; show Short Name and Seats; sort in ascending order by Seats and Short Name.",
+    "response": {
+        "code": 200,
+        "body": {
+            "result": [
+                {
+                    "ds1r_shortname": "MCML",
+                    "ds1r_seats": 32
+                },
+                {
+                    "ds1r_shortname": "MCML",
+                    "ds1r_seats": 32
+                },
+                {
+                    "ds1r_shortname": "ANSO",
+                    "ds1r_seats": 33
+                },
+                {
+                    "ds1r_shortname": "SCRF",
+                    "ds1r_seats": 34
+                },
+                {
+                    "ds1r_shortname": "ANGU",
+                    "ds1r_seats": 35
+                },
+                {
+                    "ds1r_shortname": "FORW",
+                    "ds1r_seats": 35
+                },
+                {
+                    "ds1r_shortname": "FSC",
+                    "ds1r_seats": 36
+                },
+                {
+                    "ds1r_shortname": "HENN",
+                    "ds1r_seats": 36
+                },
+                {
+                    "ds1r_shortname": "ANSO",
+                    "ds1r_seats": 37
+                },
+                {
+                    "ds1r_shortname": "SCRF",
+                    "ds1r_seats": 38
+                },
+                {
+                    "ds1r_shortname": "GEOG",
+                    "ds1r_seats": 39
+                },
+                {
+                    "ds1r_shortname": "DMP",
+                    "ds1r_seats": 40
+                },
+                {
+                    "ds1r_shortname": "DMP",
+                    "ds1r_seats": 40
+                },
+                {
+                    "ds1r_shortname": "IBLC",
+                    "ds1r_seats": 40
+                },
+                {
+                    "ds1r_shortname": "MCLD",
+                    "ds1r_seats": 40
+                },
+                {
+                    "ds1r_shortname": "SCRF",
+                    "ds1r_seats": 40
+                },
+                {
+                    "ds1r_shortname": "SCRF",
+                    "ds1r_seats": 40
+                },
+                {
+                    "ds1r_shortname": "SCRF",
+                    "ds1r_seats": 40
+                },
+                {
+                    "ds1r_shortname": "SCRF",
+                    "ds1r_seats": 40
+                },
+                {
+                    "ds1r_shortname": "SCRF",
+                    "ds1r_seats": 40
+                },
+                {
+                    "ds1r_shortname": "SCRF",
+                    "ds1r_seats": 40
+                },
+                {
+                    "ds1r_shortname": "SCRF",
+                    "ds1r_seats": 40
+                },
+                {
+                    "ds1r_shortname": "SCRF",
+                    "ds1r_seats": 40
+                },
+                {
+                    "ds1r_shortname": "SCRF",
+                    "ds1r_seats": 40
+                },
+                {
+                    "ds1r_shortname": "SCRF",
+                    "ds1r_seats": 40
+                },
+                {
+                    "ds1r_shortname": "SCRF",
+                    "ds1r_seats": 40
+                },
+                {
+                    "ds1r_shortname": "FORW",
+                    "ds1r_seats": 44
+                },
+                {
+                    "ds1r_shortname": "MATH",
+                    "ds1r_seats": 60
+                },
+                {
+                    "ds1r_shortname": "SCRF",
+                    "ds1r_seats": 60
+                }
+            ]
+        }
+    }
+}

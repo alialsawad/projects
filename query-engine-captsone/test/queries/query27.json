@@ -1,0 +1,2576 @@
+{
+    "title": "Query 27",
+    "query": "In courses dataset ds1c, find entries whose Average is greater than 80 and Department is \"math\"; show Department, Average and Instructor.",
+    "response": {
+        "code": 200,
+        "body": {
+            "result": [
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 82.78,
+                    "ds1c_instructor": "macdonald, john"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 82.78,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 84.5,
+                    "ds1c_instructor": "macdonald, john"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 84.5,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 84.72,
+                    "ds1c_instructor": "macdonald, john"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 84.72,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 86.73,
+                    "ds1c_instructor": "macdonald, john"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 86.73,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 80.65,
+                    "ds1c_instructor": "macdonald, john"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 80.65,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 80.72,
+                    "ds1c_instructor": "bluman, george w"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 80.72,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 84.4,
+                    "ds1c_instructor": "li, yue-xian"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 84.4,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 86.67,
+                    "ds1c_instructor": "li, yue-xian"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 86.67,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 87,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 89.29,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 89.67,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 91.5,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 85,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 92.33,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 92.33,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 92.6,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 96.33,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 86,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 86,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 90,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 85,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 93.5,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 92,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 92.6,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 90.83,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 90.57,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 91.5,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 92.67,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 82.9,
+                    "ds1c_instructor": "peirce, anthony"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 82.9,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 84.16,
+                    "ds1c_instructor": "peirce, anthony"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 84.16,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 81.67,
+                    "ds1c_instructor": "doebeli, michael walter"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 81.67,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 80.73,
+                    "ds1c_instructor": "doebeli, michael walter"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 80.73,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 83.19,
+                    "ds1c_instructor": "phan, tuoc van"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 82.13,
+                    "ds1c_instructor": "magyar, akos"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 82.63,
+                    "ds1c_instructor": "gustafson, stephen james"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 81.4,
+                    "ds1c_instructor": "gustafson, stephen james;tba"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 84.75,
+                    "ds1c_instructor": "gordeliy, lisa"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 84.75,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 84.47,
+                    "ds1c_instructor": "peirce, anthony"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 84.47,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 87.64,
+                    "ds1c_instructor": "peirce, anthony"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 87.64,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 84.32,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 84.32,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 80.93,
+                    "ds1c_instructor": "wetton, brian thomas"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 80.93,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 89.27,
+                    "ds1c_instructor": "feng, james jingtao"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 89.27,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 90.24,
+                    "ds1c_instructor": "feng, james jingtao"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 90.24,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 81.71,
+                    "ds1c_instructor": "moradifam, amir"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 81.71,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 90.25,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 90.25,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 80.57,
+                    "ds1c_instructor": "feng, james jingtao"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 80.57,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 91.2,
+                    "ds1c_instructor": "solymosi, jozsef"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 91.2,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 92.4,
+                    "ds1c_instructor": "solymosi, jozsef"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 92.4,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 87.85,
+                    "ds1c_instructor": "solymosi, jozsef"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 87.85,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 90,
+                    "ds1c_instructor": "friedman, joel"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 90,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 91.8,
+                    "ds1c_instructor": "solymosi, jozsef"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 91.8,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 92.38,
+                    "ds1c_instructor": "tsai, tai-peng"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 92.38,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 91.71,
+                    "ds1c_instructor": "gustafson, stephen james"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 91.71,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 90,
+                    "ds1c_instructor": "tsai, tai-peng"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 90,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 91.25,
+                    "ds1c_instructor": "kim, young-heon"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 91.25,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 83.2,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 83.2,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 84.8,
+                    "ds1c_instructor": "li, dong"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 84.8,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 92.75,
+                    "ds1c_instructor": "tsai, tai-peng"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 92.75,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 93.8,
+                    "ds1c_instructor": "kim, young-heon"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 93.8,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 96.25,
+                    "ds1c_instructor": "wei, juncheng"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 96.25,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 86.67,
+                    "ds1c_instructor": "reichstein, zinovy"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 86.67,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 96.44,
+                    "ds1c_instructor": "karu, kalle"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 96.44,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 92.2,
+                    "ds1c_instructor": "behrend, kai"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 92.2,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 89.67,
+                    "ds1c_instructor": "reichstein, zinovy"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 89.67,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 86.14,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 86.14,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 94.67,
+                    "ds1c_instructor": "gordon, julia yulia"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 94.67,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 81.36,
+                    "ds1c_instructor": "lamb, charles w"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 87.75,
+                    "ds1c_instructor": "bryan, jim"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 87.75,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 88.63,
+                    "ds1c_instructor": "silberman, lior"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 88.63,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 93.8,
+                    "ds1c_instructor": "karu, kalle"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 93.8,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 90.6,
+                    "ds1c_instructor": "karu, kalle"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 90.6,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 84.86,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 84.86,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 85.86,
+                    "ds1c_instructor": "ollivier, rachel"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 85.86,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 87.5,
+                    "ds1c_instructor": "ramdorai, sujatha"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 87.5,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 86,
+                    "ds1c_instructor": "li, dong"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 86,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 92,
+                    "ds1c_instructor": "tsai, tai-peng"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 92,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 90.5,
+                    "ds1c_instructor": "li, dong"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 90.5,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 84.67,
+                    "ds1c_instructor": "martin, gregory"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 84.67,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 84.56,
+                    "ds1c_instructor": "martin, gregory"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 84.56,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 91.5,
+                    "ds1c_instructor": "bennett, michael"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 91.5,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 91.38,
+                    "ds1c_instructor": "silberman, lior"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 91.38,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 91,
+                    "ds1c_instructor": "silberman, lior"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 91,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 87.5,
+                    "ds1c_instructor": "laba, izabella"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 87.5,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 93.6,
+                    "ds1c_instructor": "laba, izabella"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 93.6,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 85,
+                    "ds1c_instructor": "gustafson, stephen james"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 85,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 92.8,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 92.8,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 90.6,
+                    "ds1c_instructor": "perkins, edwin"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 90.6,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 87.56,
+                    "ds1c_instructor": "barlow, martin"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 87.56,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 89.33,
+                    "ds1c_instructor": "magyar, akos"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 89.33,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 95.67,
+                    "ds1c_instructor": "murugan, mathav"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 95.67,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 80.39,
+                    "ds1c_instructor": "dorodnitsyn, vladimir"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 80.39,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 81.61,
+                    "ds1c_instructor": "peirce, anthony"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 83.63,
+                    "ds1c_instructor": "khosravi, mahta"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 83.63,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 86.88,
+                    "ds1c_instructor": "marcus, brian harry"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 86.88,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 83.2,
+                    "ds1c_instructor": "gustafson, stephen james"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 83.2,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 82.2,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 82.2,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 87.8,
+                    "ds1c_instructor": "pramanik, malabika"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 87.8,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 85,
+                    "ds1c_instructor": "marcus, brian harry"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 85,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 92.63,
+                    "ds1c_instructor": "perkins, edwin"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 92.63,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 82.8,
+                    "ds1c_instructor": "marcus, brian harry"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 82.8,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 82.71,
+                    "ds1c_instructor": "laba, izabella"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 82.71,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 89.33,
+                    "ds1c_instructor": "silberman, lior"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 89.33,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 88,
+                    "ds1c_instructor": "martin, gregory"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 88,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 91.75,
+                    "ds1c_instructor": "ghioca, dragos"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 91.75,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 89.5,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 89.5,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 81.43,
+                    "ds1c_instructor": "martin, gregory"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 81.43,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 86.8,
+                    "ds1c_instructor": "bennett, michael"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 86.8,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 90,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 90,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 92.67,
+                    "ds1c_instructor": "friedman, joel"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 92.67,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 88.8,
+                    "ds1c_instructor": "anstee, richard"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 88.8,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 93.11,
+                    "ds1c_instructor": "solymosi, jozsef"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 93.11,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 84,
+                    "ds1c_instructor": "schotzau, dominik"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 84,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 89.44,
+                    "ds1c_instructor": "schotzau, dominik"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 89.44,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 86.1,
+                    "ds1c_instructor": "greif, chen"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 86.1,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 86.38,
+                    "ds1c_instructor": "wetton, brian thomas"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 86.38,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 91.56,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 91.56,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 88.36,
+                    "ds1c_instructor": "wetton, brian thomas"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 88.36,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 80.71,
+                    "ds1c_instructor": "donaldson, roger"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 80.71,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 88.73,
+                    "ds1c_instructor": "schotzau, dominik"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 88.73,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 89.63,
+                    "ds1c_instructor": "wetton, brian thomas"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 89.63,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 89.73,
+                    "ds1c_instructor": "pramanik, malabika"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 89.73,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 86.2,
+                    "ds1c_instructor": "khosravi, mahta"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 86.2,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 92.4,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 92.4,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 93.2,
+                    "ds1c_instructor": "pramanik, malabika"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 93.2,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 93.5,
+                    "ds1c_instructor": "magyar, akos"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 93.5,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 88,
+                    "ds1c_instructor": "pramanik, malabika"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 88,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 89.13,
+                    "ds1c_instructor": "khosravi, mahta"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 89.13,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 91.38,
+                    "ds1c_instructor": "lamoureux, michael"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 91.38,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 91.47,
+                    "ds1c_instructor": "gordon, julia yulia"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 91.47,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 88.75,
+                    "ds1c_instructor": "bryan, jim"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 88.75,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 95.56,
+                    "ds1c_instructor": "gordon, julia yulia"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 95.56,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 91.4,
+                    "ds1c_instructor": "reichstein, zinovy"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 91.4,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 88.93,
+                    "ds1c_instructor": "reichstein, zinovy"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 88.93,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 84.45,
+                    "ds1c_instructor": "pramanik, malabika"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 84.45,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 90.43,
+                    "ds1c_instructor": "pramanik, malabika"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 90.43,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 85.2,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 85.2,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 86,
+                    "ds1c_instructor": "pramanik, malabika"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 86,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 87.71,
+                    "ds1c_instructor": "khosravi, mahta"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 87.71,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 85.75,
+                    "ds1c_instructor": "lamoureux, michael"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 85.75,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 80.79,
+                    "ds1c_instructor": "angel, omer"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 80.27,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 80.1,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 80.1,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 83.75,
+                    "ds1c_instructor": "bluman, george w"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 83.75,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 84.8,
+                    "ds1c_instructor": "van willigenburg, stephanie"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 84.8,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 82.36,
+                    "ds1c_instructor": "van willigenburg, stephanie"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 82.36,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 80.89,
+                    "ds1c_instructor": "van willigenburg, stephanie"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 80.89,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 87.8,
+                    "ds1c_instructor": "balmforth, neil"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 87.8,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 80.08,
+                    "ds1c_instructor": "homsy, bud"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 92.67,
+                    "ds1c_instructor": "fraser, ailana"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 92.67,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 88.5,
+                    "ds1c_instructor": "chen, jingyi"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 88.5,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 81,
+                    "ds1c_instructor": "chen, jingyi"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 81,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 93.75,
+                    "ds1c_instructor": "chau, albert"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 93.75,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 97.25,
+                    "ds1c_instructor": "fraser, ailana"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 97.25,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 92,
+                    "ds1c_instructor": "chen, jingyi"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 92,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 91.8,
+                    "ds1c_instructor": "fraser, ailana"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 91.8,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 90.83,
+                    "ds1c_instructor": "fraser, ailana"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 90.83,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 81.94,
+                    "ds1c_instructor": "peirce, anthony"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 81.29,
+                    "ds1c_instructor": "gupta, rajiv"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 81.29,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 80.7,
+                    "ds1c_instructor": "macdonald, john"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 80.7,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 85.67,
+                    "ds1c_instructor": "maclean, mark thomson"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 83.85,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 82.93,
+                    "ds1c_instructor": "macdonald, john"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 82.93,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 84.82,
+                    "ds1c_instructor": "macdonald, john"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 84.82,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 85.22,
+                    "ds1c_instructor": "macdonald, john"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 85.53,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 83.47,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 85.92,
+                    "ds1c_instructor": "maclean, mark thomson"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 85.49,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 80.78,
+                    "ds1c_instructor": "macdonald, john"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 89,
+                    "ds1c_instructor": "pettet, alexandra"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 89,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 99.78,
+                    "ds1c_instructor": "gomez, jose"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 99.78,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 91.67,
+                    "ds1c_instructor": "bryan, jim"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 91.67,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 94.17,
+                    "ds1c_instructor": "adem, alejandro"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 94.17,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 89,
+                    "ds1c_instructor": "adem, alejandro"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 89,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 86,
+                    "ds1c_instructor": "williams, thomas"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 86,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 83.18,
+                    "ds1c_instructor": "steinberg, david"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 84.54,
+                    "ds1c_instructor": "daskalakis, emmanouil"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 84.85,
+                    "ds1c_instructor": "robert, frederic"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 83.16,
+                    "ds1c_instructor": "dontsov, egor"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 91.1,
+                    "ds1c_instructor": "zhao, mingfeng"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 90,
+                    "ds1c_instructor": "behrend, kai"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 90,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 95,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 95,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 89.53,
+                    "ds1c_instructor": "karu, kalle"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 89.53,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 97.48,
+                    "ds1c_instructor": "karu, kalle"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 97.48,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 88.75,
+                    "ds1c_instructor": "koppensteiner, clemens"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 88.75,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 88.6,
+                    "ds1c_instructor": "laba, izabella"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 88.6,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 87,
+                    "ds1c_instructor": "laba, izabella"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 87,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 86.25,
+                    "ds1c_instructor": "pramanik, malabika"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 86.25,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 80.5,
+                    "ds1c_instructor": "gustafson, stephen james"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 80.5,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 86.6,
+                    "ds1c_instructor": "perkins, edwin"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 86.6,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 91.38,
+                    "ds1c_instructor": "magyar, akos"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 91.38,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 82.75,
+                    "ds1c_instructor": "murugan, mathav"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 82.75,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 80.92,
+                    "ds1c_instructor": "marcus, brian harry"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 80.92,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 81,
+                    "ds1c_instructor": "feldman, joel"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 81,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 87.71,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 87.71,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 87.24,
+                    "ds1c_instructor": "laba, izabella"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 87.24,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 80.7,
+                    "ds1c_instructor": "marcus, brian harry"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 80.7,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 81.36,
+                    "ds1c_instructor": "feldman, joel"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 81.36,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 93.78,
+                    "ds1c_instructor": "pramanik, malabika"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 93.78,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 88,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 88,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 97.09,
+                    "ds1c_instructor": "laba, izabella"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 97.09,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 93.11,
+                    "ds1c_instructor": "pramanik, malabika"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 93.11,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 82.63,
+                    "ds1c_instructor": "laba, izabella"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 82.63,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 80.47,
+                    "ds1c_instructor": "laba, izabella"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 80.47,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 90.57,
+                    "ds1c_instructor": "khosravi, mahta"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 90.57,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 83,
+                    "ds1c_instructor": "marcus, brian harry"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 83,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 82.5,
+                    "ds1c_instructor": "brydges, david"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 82.5,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 80.25,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 80.25,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 83.85,
+                    "ds1c_instructor": "marcus, brian harry"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 83.85,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 83.79,
+                    "ds1c_instructor": "marcus, brian harry"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 83.79,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 83.75,
+                    "ds1c_instructor": "karu, kalle"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 83.75,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 83.33,
+                    "ds1c_instructor": "karu, kalle"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 83.33,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 80.36,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 80.36,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 80.8,
+                    "ds1c_instructor": "collins, daniel"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 80.8,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 84.08,
+                    "ds1c_instructor": "ramdorai, sujatha"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 84.08,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 88.6,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 88.6,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 82.38,
+                    "ds1c_instructor": "reichstein, zinovy"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 82.38,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 85.71,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 85.71,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 90,
+                    "ds1c_instructor": "karu, kalle"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 90,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 84,
+                    "ds1c_instructor": "ollivier, rachel"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 84,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 81.23,
+                    "ds1c_instructor": "lyons, charles"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 81.23,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 89.6,
+                    "ds1c_instructor": "bryan, jim"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 89.6,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 87.5,
+                    "ds1c_instructor": "adem, alejandro"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 87.5,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 83.25,
+                    "ds1c_instructor": "williams, thomas"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 83.25,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 91.73,
+                    "ds1c_instructor": "perkins, edwin"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 91.73,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 92.08,
+                    "ds1c_instructor": "perkins, edwin"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 92.08,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 88.33,
+                    "ds1c_instructor": "nagata, k wayne"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 88.33,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 87.5,
+                    "ds1c_instructor": "nagata, k wayne"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 87.5,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 88.2,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 88.2,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 89.6,
+                    "ds1c_instructor": "nagata, k wayne"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 89.6,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 94.33,
+                    "ds1c_instructor": "nagata, k wayne"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 94.33,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 84.11,
+                    "ds1c_instructor": "perkins, edwin"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 84.11,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 80.59,
+                    "ds1c_instructor": "slade, gordon"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 80.59,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 80.6,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 80.6,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 80.39,
+                    "ds1c_instructor": "perkins, edwin"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 80.39,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 89.89,
+                    "ds1c_instructor": "angel, omer"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 89.89,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 82,
+                    "ds1c_instructor": "brydges, david"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 82,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 80.82,
+                    "ds1c_instructor": "angel, omer"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 80.82,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 94.67,
+                    "ds1c_instructor": "slade, gordon"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 94.67,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 84.56,
+                    "ds1c_instructor": "angel, omer"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 84.56,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 91.2,
+                    "ds1c_instructor": "angel, omer"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 91.2,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 87.73,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 87.73,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 88.5,
+                    "ds1c_instructor": "perkins, edwin"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 88.5,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 90.5,
+                    "ds1c_instructor": "angel, omer"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 90.5,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 92.1,
+                    "ds1c_instructor": "angel, omer"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 92.1,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 88.73,
+                    "ds1c_instructor": "brydges, david"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 88.73,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 93.5,
+                    "ds1c_instructor": "angel, omer"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 93.5,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 88.5,
+                    "ds1c_instructor": "balmforth, neil"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 88.5,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 88,
+                    "ds1c_instructor": "balmforth, neil"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 88,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 87.4,
+                    "ds1c_instructor": "balmforth, neil"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 87.4,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 88.75,
+                    "ds1c_instructor": "balmforth, neil"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 88.75,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 92.3,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 92.3,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 89.38,
+                    "ds1c_instructor": "balmforth, neil"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 89.38,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 89.17,
+                    "ds1c_instructor": "ward, michael jeffrey"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 89.17,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 90.94,
+                    "ds1c_instructor": "balmforth, neil"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 90.94,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 87.69,
+                    "ds1c_instructor": "balmforth, neil"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 87.69,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 89.71,
+                    "ds1c_instructor": "balmforth, neil"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 89.71,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 91,
+                    "ds1c_instructor": "ward, michael jeffrey"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 91,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 87.25,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 87.25,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 90.73,
+                    "ds1c_instructor": "ward, michael jeffrey"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 90.73,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 91.14,
+                    "ds1c_instructor": "ward, michael jeffrey"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 91.14,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 96.83,
+                    "ds1c_instructor": "nachmias, asaf"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 96.83,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 88.75,
+                    "ds1c_instructor": "brydges, david"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 88.75,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 92.75,
+                    "ds1c_instructor": "brydges, david"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 92.75,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 89,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 89,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 91.86,
+                    "ds1c_instructor": "angel, omer"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 91.86,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 92.78,
+                    "ds1c_instructor": "perkins, edwin"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 92.78,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 91.8,
+                    "ds1c_instructor": "barlow, martin"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 91.8,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 88,
+                    "ds1c_instructor": "slade, gordon"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 88,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 82.8,
+                    "ds1c_instructor": "chen, jingyi"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 82.8,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 85.67,
+                    "ds1c_instructor": "chau, albert"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 85.67,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 88,
+                    "ds1c_instructor": "chen, jingyi"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 88,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 91.33,
+                    "ds1c_instructor": "fraser, ailana"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 91.33,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 90.29,
+                    "ds1c_instructor": "chen, jingyi"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 90.29,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 87.43,
+                    "ds1c_instructor": "perkins, edwin"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 87.43,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 85.2,
+                    "ds1c_instructor": "brydges, david"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 85.2,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 88.8,
+                    "ds1c_instructor": "brydges, david"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 88.8,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 86,
+                    "ds1c_instructor": "slade, gordon"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 86,
+                    "ds1c_instructor": ""
+                }
+            ]
+        }
+    }
+}

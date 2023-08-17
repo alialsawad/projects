@@ -1,0 +1,155 @@
+{
+    "title": "Query 34",
+    "query": "In courses dataset ds1c, find entries whose Average is greater than 88 and Department is \"adhe\"; show Department and Average; sort in ascending order by Average and Department.",
+    "response": {
+        "code": 200,
+        "body": {
+            "result": [
+                {
+                    "ds1c_dept": "adhe",
+                    "ds1c_avg": 88.03
+                },
+                {
+                    "ds1c_dept": "adhe",
+                    "ds1c_avg": 88.03
+                },
+                {
+                    "ds1c_dept": "adhe",
+                    "ds1c_avg": 88.23
+                },
+                {
+                    "ds1c_dept": "adhe",
+                    "ds1c_avg": 88.25
+                },
+                {
+                    "ds1c_dept": "adhe",
+                    "ds1c_avg": 88.25
+                },
+                {
+                    "ds1c_dept": "adhe",
+                    "ds1c_avg": 88.27
+                },
+                {
+                    "ds1c_dept": "adhe",
+                    "ds1c_avg": 88.53
+                },
+                {
+                    "ds1c_dept": "adhe",
+                    "ds1c_avg": 88.53
+                },
+                {
+                    "ds1c_dept": "adhe",
+                    "ds1c_avg": 88.56
+                },
+                {
+                    "ds1c_dept": "adhe",
+                    "ds1c_avg": 88.91
+                },
+                {
+                    "ds1c_dept": "adhe",
+                    "ds1c_avg": 89
+                },
+                {
+                    "ds1c_dept": "adhe",
+                    "ds1c_avg": 89
+                },
+                {
+                    "ds1c_dept": "adhe",
+                    "ds1c_avg": 89.08
+                },
+                {
+                    "ds1c_dept": "adhe",
+                    "ds1c_avg": 89.28
+                },
+                {
+                    "ds1c_dept": "adhe",
+                    "ds1c_avg": 89.3
+                },
+                {
+                    "ds1c_dept": "adhe",
+                    "ds1c_avg": 89.38
+                },
+                {
+                    "ds1c_dept": "adhe",
+                    "ds1c_avg": 89.38
+                },
+                {
+                    "ds1c_dept": "adhe",
+                    "ds1c_avg": 89.51
+                },
+                {
+                    "ds1c_dept": "adhe",
+                    "ds1c_avg": 89.55
+                },
+                {
+                    "ds1c_dept": "adhe",
+                    "ds1c_avg": 89.55
+                },
+                {
+                    "ds1c_dept": "adhe",
+                    "ds1c_avg": 89.74
+                },
+                {
+                    "ds1c_dept": "adhe",
+                    "ds1c_avg": 90.02
+                },
+                {
+                    "ds1c_dept": "adhe",
+                    "ds1c_avg": 90.16
+                },
+                {
+                    "ds1c_dept": "adhe",
+                    "ds1c_avg": 90.17
+                },
+                {
+                    "ds1c_dept": "adhe",
+                    "ds1c_avg": 90.18
+                },
+                {
+                    "ds1c_dept": "adhe",
+                    "ds1c_avg": 90.5
+                },
+                {
+                    "ds1c_dept": "adhe",
+                    "ds1c_avg": 90.72
+                },
+                {
+                    "ds1c_dept": "adhe",
+                    "ds1c_avg": 90.82
+                },
+                {
+                    "ds1c_dept": "adhe",
+                    "ds1c_avg": 90.85
+                },
+                {
+                    "ds1c_dept": "adhe",
+                    "ds1c_avg": 91.29
+                },
+                {
+                    "ds1c_dept": "adhe",
+                    "ds1c_avg": 91.33
+                },
+                {
+                    "ds1c_dept": "adhe",
+                    "ds1c_avg": 91.33
+                },
+                {
+                    "ds1c_dept": "adhe",
+                    "ds1c_avg": 91.48
+                },
+                {
+                    "ds1c_dept": "adhe",
+                    "ds1c_avg": 92.54
+                },
+                {
+                    "ds1c_dept": "adhe",
+                    "ds1c_avg": 93.33
+                },
+                {
+                    "ds1c_dept": "adhe",
+                    "ds1c_avg": 96.11
+                }
+            ]
+        }
+    }
+}

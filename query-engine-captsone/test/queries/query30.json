@@ -1,0 +1,547 @@
+{
+    "title": "Query 30",
+    "query": "In courses dataset ds1c, find entries whose Average is equal to 90; show Average and Department.",
+    "response": {
+        "code": 200,
+        "body": {
+            "result": [
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "epse"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "epse"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "arst"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "arst"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "econ"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "econ"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "econ"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "econ"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "econ"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "econ"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "econ"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "chil"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "chil"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "eece"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "eece"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "medi"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "eosc"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "econ"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "econ"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "eece"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "eece"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "arth"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "arth"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "arth"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "arth"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "arth"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "libr"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "libr"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "dhyg"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "audi"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "audi"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "pcth"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "pcth"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "pcth"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "pcth"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "pcth"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "pcth"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "pcth"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "mech"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "mech"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "hgse"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "hgse"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "econ"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "econ"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "ling"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "ling"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "mine"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "path"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "path"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "arch"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "arch"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "phar"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "phar"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "ceen"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "sans"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "sans"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "phar"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "phar"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "phar"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "phar"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "edst"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "edst"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "midw"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "midw"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "path"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "edcp"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "frst"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "frst"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "nurs"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "nurs"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "apsc"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "frst"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "phys"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "phys"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "edst"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "educ"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "cnps"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "cnps"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "edst"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "edst"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "musc"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "musc"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "mech"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "mech"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "epse"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "civl"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "civl"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "medi"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "mtrl"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "obst"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "frst"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "frst"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "nrsc"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "nrsc"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "eosc"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "eosc"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "cell"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "cell"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "mech"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "mech"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "mech"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "mech"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "mech"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "ccst"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "crwr"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "crwr"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "crwr"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "edst"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "edst"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "mine"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "mine"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "mine"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "mine"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "civl"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "civl"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "ital"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "ital"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "rhsc"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "path"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "path"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "path"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "path"
+                },
+                {
+                    "ds1c_avg": 90,
+                    "ds1c_dept": "path"
+                }
+            ]
+        }
+    }
+}

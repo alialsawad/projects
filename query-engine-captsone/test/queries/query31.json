@@ -1,0 +1,41 @@
+{
+    "title": "Query 31",
+    "query": "In courses dataset ds1c, find entries whose Average is equal to 85 and Department is \"math\"; show Department, Average and Instructor.",
+    "response": {
+        "code": 200,
+        "body": {
+            "result": [
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 85,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 85,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 85,
+                    "ds1c_instructor": "gustafson, stephen james"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 85,
+                    "ds1c_instructor": ""
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 85,
+                    "ds1c_instructor": "marcus, brian harry"
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_avg": 85,
+                    "ds1c_instructor": ""
+                }
+            ]
+        }
+    }
+}

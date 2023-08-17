@@ -1,0 +1,545 @@
+{
+    "title": "Query 18",
+    "query": "In courses dataset ds1c grouped by Department and Year, find entries whose Year is less than 2008; show Department, Year, maxAverage, and courseCount, where maxAverage is the MAX of Average and courseCount is the COUNT of ID; sort in descending order by maxAverage, Department, Year and courseCount.",
+    "response": {
+        "code": 200,
+        "body": {
+            "result": [
+                {
+                    "ds1c_dept": "epse",
+                    "ds1c_year": 2007,
+                    "maxAverage": 97.67,
+                    "courseCount": 35
+                },
+                {
+                    "ds1c_dept": "apsc",
+                    "ds1c_year": 2007,
+                    "maxAverage": 95.94,
+                    "courseCount": 10
+                },
+                {
+                    "ds1c_dept": "math",
+                    "ds1c_year": 2007,
+                    "maxAverage": 95.56,
+                    "courseCount": 64
+                },
+                {
+                    "ds1c_dept": "medg",
+                    "ds1c_year": 2007,
+                    "maxAverage": 94.7,
+                    "courseCount": 13
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "ds1c_year": 2007,
+                    "maxAverage": 94.5,
+                    "courseCount": 37
+                },
+                {
+                    "ds1c_dept": "nurs",
+                    "ds1c_year": 2007,
+                    "maxAverage": 94,
+                    "courseCount": 23
+                },
+                {
+                    "ds1c_dept": "audi",
+                    "ds1c_year": 2007,
+                    "maxAverage": 93.91,
+                    "courseCount": 30
+                },
+                {
+                    "ds1c_dept": "edst",
+                    "ds1c_year": 2007,
+                    "maxAverage": 93.78,
+                    "courseCount": 7
+                },
+                {
+                    "ds1c_dept": "eece",
+                    "ds1c_year": 2007,
+                    "maxAverage": 93.58,
+                    "courseCount": 22
+                },
+                {
+                    "ds1c_dept": "econ",
+                    "ds1c_year": 2007,
+                    "maxAverage": 93.47,
+                    "courseCount": 68
+                },
+                {
+                    "ds1c_dept": "hinu",
+                    "ds1c_year": 2007,
+                    "maxAverage": 93.22,
+                    "courseCount": 1
+                },
+                {
+                    "ds1c_dept": "civl",
+                    "ds1c_year": 2007,
+                    "maxAverage": 92.3,
+                    "courseCount": 54
+                },
+                {
+                    "ds1c_dept": "anth",
+                    "ds1c_year": 2007,
+                    "maxAverage": 92.29,
+                    "courseCount": 10
+                },
+                {
+                    "ds1c_dept": "phys",
+                    "ds1c_year": 2007,
+                    "maxAverage": 92.2,
+                    "courseCount": 51
+                },
+                {
+                    "ds1c_dept": "cell",
+                    "ds1c_year": 2007,
+                    "maxAverage": 92.14,
+                    "courseCount": 6
+                },
+                {
+                    "ds1c_dept": "mech",
+                    "ds1c_year": 2007,
+                    "maxAverage": 92,
+                    "courseCount": 52
+                },
+                {
+                    "ds1c_dept": "chil",
+                    "ds1c_year": 2007,
+                    "maxAverage": 92,
+                    "courseCount": 1
+                },
+                {
+                    "ds1c_dept": "eosc",
+                    "ds1c_year": 2007,
+                    "maxAverage": 91.8,
+                    "courseCount": 61
+                },
+                {
+                    "ds1c_dept": "biof",
+                    "ds1c_year": 2007,
+                    "maxAverage": 91.5,
+                    "courseCount": 2
+                },
+                {
+                    "ds1c_dept": "fnh",
+                    "ds1c_year": 2007,
+                    "maxAverage": 91.36,
+                    "courseCount": 26
+                },
+                {
+                    "ds1c_dept": "fopr",
+                    "ds1c_year": 2007,
+                    "maxAverage": 91,
+                    "courseCount": 5
+                },
+                {
+                    "ds1c_dept": "path",
+                    "ds1c_year": 2007,
+                    "maxAverage": 90.79,
+                    "courseCount": 22
+                },
+                {
+                    "ds1c_dept": "phar",
+                    "ds1c_year": 2007,
+                    "maxAverage": 90.43,
+                    "courseCount": 38
+                },
+                {
+                    "ds1c_dept": "pcth",
+                    "ds1c_year": 2007,
+                    "maxAverage": 90.4,
+                    "courseCount": 10
+                },
+                {
+                    "ds1c_dept": "mine",
+                    "ds1c_year": 2007,
+                    "maxAverage": 90.4,
+                    "courseCount": 20
+                },
+                {
+                    "ds1c_dept": "fish",
+                    "ds1c_year": 2007,
+                    "maxAverage": 90.4,
+                    "courseCount": 2
+                },
+                {
+                    "ds1c_dept": "adhe",
+                    "ds1c_year": 2007,
+                    "maxAverage": 90.18,
+                    "courseCount": 4
+                },
+                {
+                    "ds1c_dept": "frst",
+                    "ds1c_year": 2007,
+                    "maxAverage": 90,
+                    "courseCount": 46
+                },
+                {
+                    "ds1c_dept": "onco",
+                    "ds1c_year": 2007,
+                    "maxAverage": 89.94,
+                    "courseCount": 1
+                },
+                {
+                    "ds1c_dept": "biol",
+                    "ds1c_year": 2007,
+                    "maxAverage": 89.82,
+                    "courseCount": 69
+                },
+                {
+                    "ds1c_dept": "fipr",
+                    "ds1c_year": 2007,
+                    "maxAverage": 89.81,
+                    "courseCount": 3
+                },
+                {
+                    "ds1c_dept": "mrne",
+                    "ds1c_year": 2007,
+                    "maxAverage": 89.4,
+                    "courseCount": 4
+                },
+                {
+                    "ds1c_dept": "micb",
+                    "ds1c_year": 2007,
+                    "maxAverage": 89.38,
+                    "courseCount": 20
+                },
+                {
+                    "ds1c_dept": "musc",
+                    "ds1c_year": 2007,
+                    "maxAverage": 89.27,
+                    "courseCount": 38
+                },
+                {
+                    "ds1c_dept": "dhyg",
+                    "ds1c_year": 2007,
+                    "maxAverage": 89.06,
+                    "courseCount": 10
+                },
+                {
+                    "ds1c_dept": "ling",
+                    "ds1c_year": 2007,
+                    "maxAverage": 89,
+                    "courseCount": 19
+                },
+                {
+                    "ds1c_dept": "cons",
+                    "ds1c_year": 2007,
+                    "maxAverage": 88.5,
+                    "courseCount": 10
+                },
+                {
+                    "ds1c_dept": "chbe",
+                    "ds1c_year": 2007,
+                    "maxAverage": 88.5,
+                    "courseCount": 38
+                },
+                {
+                    "ds1c_dept": "mtrl",
+                    "ds1c_year": 2007,
+                    "maxAverage": 88.42,
+                    "courseCount": 30
+                },
+                {
+                    "ds1c_dept": "larc",
+                    "ds1c_year": 2007,
+                    "maxAverage": 87.89,
+                    "courseCount": 15
+                },
+                {
+                    "ds1c_dept": "cens",
+                    "ds1c_year": 2007,
+                    "maxAverage": 87.87,
+                    "courseCount": 3
+                },
+                {
+                    "ds1c_dept": "engl",
+                    "ds1c_year": 2007,
+                    "maxAverage": 87.6,
+                    "courseCount": 22
+                },
+                {
+                    "ds1c_dept": "cics",
+                    "ds1c_year": 2007,
+                    "maxAverage": 87.37,
+                    "courseCount": 1
+                },
+                {
+                    "ds1c_dept": "baen",
+                    "ds1c_year": 2007,
+                    "maxAverage": 87.13,
+                    "courseCount": 2
+                },
+                {
+                    "ds1c_dept": "bafi",
+                    "ds1c_year": 2007,
+                    "maxAverage": 87,
+                    "courseCount": 8
+                },
+                {
+                    "ds1c_dept": "arth",
+                    "ds1c_year": 2007,
+                    "maxAverage": 87,
+                    "courseCount": 17
+                },
+                {
+                    "ds1c_dept": "arch",
+                    "ds1c_year": 2007,
+                    "maxAverage": 86.79,
+                    "courseCount": 27
+                },
+                {
+                    "ds1c_dept": "jrnl",
+                    "ds1c_year": 2007,
+                    "maxAverage": 86.74,
+                    "courseCount": 1
+                },
+                {
+                    "ds1c_dept": "bahr",
+                    "ds1c_year": 2007,
+                    "maxAverage": 86.7,
+                    "courseCount": 4
+                },
+                {
+                    "ds1c_dept": "bama",
+                    "ds1c_year": 2007,
+                    "maxAverage": 86.54,
+                    "courseCount": 5
+                },
+                {
+                    "ds1c_dept": "baac",
+                    "ds1c_year": 2007,
+                    "maxAverage": 86.41,
+                    "courseCount": 4
+                },
+                {
+                    "ds1c_dept": "food",
+                    "ds1c_year": 2007,
+                    "maxAverage": 86.29,
+                    "courseCount": 6
+                },
+                {
+                    "ds1c_dept": "nrsc",
+                    "ds1c_year": 2007,
+                    "maxAverage": 86.2,
+                    "courseCount": 3
+                },
+                {
+                    "ds1c_dept": "fmst",
+                    "ds1c_year": 2007,
+                    "maxAverage": 86,
+                    "courseCount": 7
+                },
+                {
+                    "ds1c_dept": "atsc",
+                    "ds1c_year": 2007,
+                    "maxAverage": 86,
+                    "courseCount": 6
+                },
+                {
+                    "ds1c_dept": "cogs",
+                    "ds1c_year": 2007,
+                    "maxAverage": 85.81,
+                    "courseCount": 4
+                },
+                {
+                    "ds1c_dept": "hist",
+                    "ds1c_year": 2007,
+                    "maxAverage": 85.75,
+                    "courseCount": 31
+                },
+                {
+                    "ds1c_dept": "obst",
+                    "ds1c_year": 2007,
+                    "maxAverage": 85.67,
+                    "courseCount": 3
+                },
+                {
+                    "ds1c_dept": "ends",
+                    "ds1c_year": 2007,
+                    "maxAverage": 85.64,
+                    "courseCount": 7
+                },
+                {
+                    "ds1c_dept": "phil",
+                    "ds1c_year": 2007,
+                    "maxAverage": 85.5,
+                    "courseCount": 6
+                },
+                {
+                    "ds1c_dept": "libe",
+                    "ds1c_year": 2007,
+                    "maxAverage": 85.25,
+                    "courseCount": 4
+                },
+                {
+                    "ds1c_dept": "ccst",
+                    "ds1c_year": 2007,
+                    "maxAverage": 85,
+                    "courseCount": 2
+                },
+                {
+                    "ds1c_dept": "law",
+                    "ds1c_year": 2007,
+                    "maxAverage": 84.67,
+                    "courseCount": 41
+                },
+                {
+                    "ds1c_dept": "midw",
+                    "ds1c_year": 2007,
+                    "maxAverage": 84.6,
+                    "courseCount": 3
+                },
+                {
+                    "ds1c_dept": "japn",
+                    "ds1c_year": 2007,
+                    "maxAverage": 84.38,
+                    "courseCount": 22
+                },
+                {
+                    "ds1c_dept": "envr",
+                    "ds1c_year": 2007,
+                    "maxAverage": 84.29,
+                    "courseCount": 3
+                },
+                {
+                    "ds1c_dept": "astr",
+                    "ds1c_year": 2007,
+                    "maxAverage": 84.13,
+                    "courseCount": 7
+                },
+                {
+                    "ds1c_dept": "fist",
+                    "ds1c_year": 2007,
+                    "maxAverage": 83.56,
+                    "courseCount": 8
+                },
+                {
+                    "ds1c_dept": "clst",
+                    "ds1c_year": 2007,
+                    "maxAverage": 83.44,
+                    "courseCount": 11
+                },
+                {
+                    "ds1c_dept": "babs",
+                    "ds1c_year": 2007,
+                    "maxAverage": 83.38,
+                    "courseCount": 1
+                },
+                {
+                    "ds1c_dept": "punj",
+                    "ds1c_year": 2007,
+                    "maxAverage": 83.33,
+                    "courseCount": 3
+                },
+                {
+                    "ds1c_dept": "hunu",
+                    "ds1c_year": 2007,
+                    "maxAverage": 83,
+                    "courseCount": 1
+                },
+                {
+                    "ds1c_dept": "relg",
+                    "ds1c_year": 2007,
+                    "maxAverage": 82.59,
+                    "courseCount": 3
+                },
+                {
+                    "ds1c_dept": "ital",
+                    "ds1c_year": 2007,
+                    "maxAverage": 82.5,
+                    "courseCount": 8
+                },
+                {
+                    "ds1c_dept": "busi",
+                    "ds1c_year": 2007,
+                    "maxAverage": 82.5,
+                    "courseCount": 37
+                },
+                {
+                    "ds1c_dept": "isci",
+                    "ds1c_year": 2007,
+                    "maxAverage": 82.38,
+                    "courseCount": 3
+                },
+                {
+                    "ds1c_dept": "itst",
+                    "ds1c_year": 2007,
+                    "maxAverage": 81.71,
+                    "courseCount": 2
+                },
+                {
+                    "ds1c_dept": "basc",
+                    "ds1c_year": 2007,
+                    "maxAverage": 81.5,
+                    "courseCount": 1
+                },
+                {
+                    "ds1c_dept": "asic",
+                    "ds1c_year": 2007,
+                    "maxAverage": 80.79,
+                    "courseCount": 1
+                },
+                {
+                    "ds1c_dept": "fre",
+                    "ds1c_year": 2007,
+                    "maxAverage": 80.35,
+                    "courseCount": 8
+                },
+                {
+                    "ds1c_dept": "cohr",
+                    "ds1c_year": 2007,
+                    "maxAverage": 79.85,
+                    "courseCount": 7
+                },
+                {
+                    "ds1c_dept": "eced",
+                    "ds1c_year": 2007,
+                    "maxAverage": 79.3,
+                    "courseCount": 2
+                },
+                {
+                    "ds1c_dept": "bapa",
+                    "ds1c_year": 2007,
+                    "maxAverage": 79,
+                    "courseCount": 1
+                },
+                {
+                    "ds1c_dept": "last",
+                    "ds1c_year": 2007,
+                    "maxAverage": 77.46,
+                    "courseCount": 2
+                },
+                {
+                    "ds1c_dept": "baul",
+                    "ds1c_year": 2007,
+                    "maxAverage": 76.77,
+                    "courseCount": 1
+                },
+                {
+                    "ds1c_dept": "cnrs",
+                    "ds1c_year": 2007,
+                    "maxAverage": 75.61,
+                    "courseCount": 1
+                },
+                {
+                    "ds1c_dept": "nest",
+                    "ds1c_year": 2007,
+                    "maxAverage": 74.86,
+                    "courseCount": 3
+                },
+                {
+                    "ds1c_dept": "mdvl",
+                    "ds1c_year": 2007,
+                    "maxAverage": 71.73,
+                    "courseCount": 1
+                },
+                {
+                    "ds1c_dept": "astu",
+                    "ds1c_year": 2007,
+                    "maxAverage": 71.44,
+                    "courseCount": 2
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,215 @@
+{
+    "title": "Query 6",
+    "query": "In rooms dataset ds1r, find entries whose Furniture includes \"e\" and Full Name includes \"Centre\"; show Full Name and Address; sort in ascending order by Full Name.",
+    "response": {
+        "code": 200,
+        "body": {
+            "result": [
+                {
+                    "ds1r_fullname": "Centre for Interactive  Research on Sustainability",
+                    "ds1r_address": "2260 West Mall, V6T 1Z4"
+                },
+                {
+                    "ds1r_fullname": "Forest Sciences Centre",
+                    "ds1r_address": "2424 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "Forest Sciences Centre",
+                    "ds1r_address": "2424 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "Forest Sciences Centre",
+                    "ds1r_address": "2424 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "Forest Sciences Centre",
+                    "ds1r_address": "2424 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "Forest Sciences Centre",
+                    "ds1r_address": "2424 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "Forest Sciences Centre",
+                    "ds1r_address": "2424 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "Forest Sciences Centre",
+                    "ds1r_address": "2424 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "Forest Sciences Centre",
+                    "ds1r_address": "2424 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "Forest Sciences Centre",
+                    "ds1r_address": "2424 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "Forest Sciences Centre",
+                    "ds1r_address": "2424 Main Mall"
+                },
+                {
+                    "ds1r_fullname": "Irving K Barber Learning Centre",
+                    "ds1r_address": "1961 East Mall V6T 1Z1"
+                },
+                {
+                    "ds1r_fullname": "Irving K Barber Learning Centre",
+                    "ds1r_address": "1961 East Mall V6T 1Z1"
+                },
+                {
+                    "ds1r_fullname": "Irving K Barber Learning Centre",
+                    "ds1r_address": "1961 East Mall V6T 1Z1"
+                },
+                {
+                    "ds1r_fullname": "Irving K Barber Learning Centre",
+                    "ds1r_address": "1961 East Mall V6T 1Z1"
+                },
+                {
+                    "ds1r_fullname": "Irving K Barber Learning Centre",
+                    "ds1r_address": "1961 East Mall V6T 1Z1"
+                },
+                {
+                    "ds1r_fullname": "Irving K Barber Learning Centre",
+                    "ds1r_address": "1961 East Mall V6T 1Z1"
+                },
+                {
+                    "ds1r_fullname": "Irving K Barber Learning Centre",
+                    "ds1r_address": "1961 East Mall V6T 1Z1"
+                },
+                {
+                    "ds1r_fullname": "Irving K Barber Learning Centre",
+                    "ds1r_address": "1961 East Mall V6T 1Z1"
+                },
+                {
+                    "ds1r_fullname": "Irving K Barber Learning Centre",
+                    "ds1r_address": "1961 East Mall V6T 1Z1"
+                },
+                {
+                    "ds1r_fullname": "Irving K Barber Learning Centre",
+                    "ds1r_address": "1961 East Mall V6T 1Z1"
+                },
+                {
+                    "ds1r_fullname": "Irving K Barber Learning Centre",
+                    "ds1r_address": "1961 East Mall V6T 1Z1"
+                },
+                {
+                    "ds1r_fullname": "Irving K Barber Learning Centre",
+                    "ds1r_address": "1961 East Mall V6T 1Z1"
+                },
+                {
+                    "ds1r_fullname": "Irving K Barber Learning Centre",
+                    "ds1r_address": "1961 East Mall V6T 1Z1"
+                },
+                {
+                    "ds1r_fullname": "Irving K Barber Learning Centre",
+                    "ds1r_address": "1961 East Mall V6T 1Z1"
+                },
+                {
+                    "ds1r_fullname": "Irving K Barber Learning Centre",
+                    "ds1r_address": "1961 East Mall V6T 1Z1"
+                },
+                {
+                    "ds1r_fullname": "Irving K Barber Learning Centre",
+                    "ds1r_address": "1961 East Mall V6T 1Z1"
+                },
+                {
+                    "ds1r_fullname": "Irving K Barber Learning Centre",
+                    "ds1r_address": "1961 East Mall V6T 1Z1"
+                },
+                {
+                    "ds1r_fullname": "Irving K Barber Learning Centre",
+                    "ds1r_address": "1961 East Mall V6T 1Z1"
+                },
+                {
+                    "ds1r_fullname": "Life Sciences Centre",
+                    "ds1r_address": "2350 Health Sciences Mall"
+                },
+                {
+                    "ds1r_fullname": "Life Sciences Centre",
+                    "ds1r_address": "2350 Health Sciences Mall"
+                },
+                {
+                    "ds1r_fullname": "Life Sciences Centre",
+                    "ds1r_address": "2350 Health Sciences Mall"
+                },
+                {
+                    "ds1r_fullname": "Student Recreation Centre",
+                    "ds1r_address": "6000 Student Union Blvd"
+                },
+                {
+                    "ds1r_fullname": "Student Recreation Centre",
+                    "ds1r_address": "6000 Student Union Blvd"
+                },
+                {
+                    "ds1r_fullname": "Student Recreation Centre",
+                    "ds1r_address": "6000 Student Union Blvd"
+                },
+                {
+                    "ds1r_fullname": "Woodward (Instructional Resources Centre-IRC)",
+                    "ds1r_address": "2194 Health Sciences Mall"
+                },
+                {
+                    "ds1r_fullname": "Woodward (Instructional Resources Centre-IRC)",
+                    "ds1r_address": "2194 Health Sciences Mall"
+                },
+                {
+                    "ds1r_fullname": "Woodward (Instructional Resources Centre-IRC)",
+                    "ds1r_address": "2194 Health Sciences Mall"
+                },
+                {
+                    "ds1r_fullname": "Woodward (Instructional Resources Centre-IRC)",
+                    "ds1r_address": "2194 Health Sciences Mall"
+                },
+                {
+                    "ds1r_fullname": "Woodward (Instructional Resources Centre-IRC)",
+                    "ds1r_address": "2194 Health Sciences Mall"
+                },
+                {
+                    "ds1r_fullname": "Woodward (Instructional Resources Centre-IRC)",
+                    "ds1r_address": "2194 Health Sciences Mall"
+                },
+                {
+                    "ds1r_fullname": "Woodward (Instructional Resources Centre-IRC)",
+                    "ds1r_address": "2194 Health Sciences Mall"
+                },
+                {
+                    "ds1r_fullname": "Woodward (Instructional Resources Centre-IRC)",
+                    "ds1r_address": "2194 Health Sciences Mall"
+                },
+                {
+                    "ds1r_fullname": "Woodward (Instructional Resources Centre-IRC)",
+                    "ds1r_address": "2194 Health Sciences Mall"
+                },
+                {
+                    "ds1r_fullname": "Woodward (Instructional Resources Centre-IRC)",
+                    "ds1r_address": "2194 Health Sciences Mall"
+                },
+                {
+                    "ds1r_fullname": "Woodward (Instructional Resources Centre-IRC)",
+                    "ds1r_address": "2194 Health Sciences Mall"
+                },
+                {
+                    "ds1r_fullname": "Woodward (Instructional Resources Centre-IRC)",
+                    "ds1r_address": "2194 Health Sciences Mall"
+                },
+                {
+                    "ds1r_fullname": "Woodward (Instructional Resources Centre-IRC)",
+                    "ds1r_address": "2194 Health Sciences Mall"
+                },
+                {
+                    "ds1r_fullname": "Woodward (Instructional Resources Centre-IRC)",
+                    "ds1r_address": "2194 Health Sciences Mall"
+                },
+                {
+                    "ds1r_fullname": "Woodward (Instructional Resources Centre-IRC)",
+                    "ds1r_address": "2194 Health Sciences Mall"
+                },
+                {
+                    "ds1r_fullname": "Woodward (Instructional Resources Centre-IRC)",
+                    "ds1r_address": "2194 Health Sciences Mall"
+                }
+            ]
+        }
+    }
+}

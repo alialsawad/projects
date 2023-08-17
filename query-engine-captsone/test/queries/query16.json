@@ -1,0 +1,781 @@
+{
+    "title": "Query 16",
+    "query": "In courses dataset ds1c grouped by Department, find all entries; show Department, avgGrade and courseCount, where avgGrade is the AVG of Average and courseCount is the COUNT of ID; sort in descending order by avgGrade, courseCount and Department.",
+    "response": {
+        "code": 200,
+        "body": {
+            "result": [
+                {
+                    "ds1c_dept": "epse",
+                    "avgGrade": 89.94,
+                    "courseCount": 58
+                },
+                {
+                    "ds1c_dept": "onco",
+                    "avgGrade": 89.82,
+                    "courseCount": 1
+                },
+                {
+                    "ds1c_dept": "biof",
+                    "avgGrade": 89.77,
+                    "courseCount": 3
+                },
+                {
+                    "ds1c_dept": "cell",
+                    "avgGrade": 89.14,
+                    "courseCount": 12
+                },
+                {
+                    "ds1c_dept": "etec",
+                    "avgGrade": 89.05,
+                    "courseCount": 12
+                },
+                {
+                    "ds1c_dept": "zool",
+                    "avgGrade": 88.98,
+                    "courseCount": 2
+                },
+                {
+                    "ds1c_dept": "chil",
+                    "avgGrade": 88.92,
+                    "courseCount": 1
+                },
+                {
+                    "ds1c_dept": "edcp",
+                    "avgGrade": 88.38,
+                    "courseCount": 26
+                },
+                {
+                    "ds1c_dept": "fish",
+                    "avgGrade": 87.64,
+                    "courseCount": 5
+                },
+                {
+                    "ds1c_dept": "edst",
+                    "avgGrade": 87.61,
+                    "courseCount": 25
+                },
+                {
+                    "ds1c_dept": "medi",
+                    "avgGrade": 87.4,
+                    "courseCount": 8
+                },
+                {
+                    "ds1c_dept": "bota",
+                    "avgGrade": 87.4,
+                    "courseCount": 4
+                },
+                {
+                    "ds1c_dept": "cnps",
+                    "avgGrade": 87.04,
+                    "courseCount": 19
+                },
+                {
+                    "ds1c_dept": "midw",
+                    "avgGrade": 86.92,
+                    "courseCount": 14
+                },
+                {
+                    "ds1c_dept": "phth",
+                    "avgGrade": 86.59,
+                    "courseCount": 16
+                },
+                {
+                    "ds1c_dept": "cnto",
+                    "avgGrade": 86.53,
+                    "courseCount": 2
+                },
+                {
+                    "ds1c_dept": "lais",
+                    "avgGrade": 86.52,
+                    "courseCount": 1
+                },
+                {
+                    "ds1c_dept": "hunu",
+                    "avgGrade": 86.47,
+                    "courseCount": 2
+                },
+                {
+                    "ds1c_dept": "audi",
+                    "avgGrade": 86.35,
+                    "courseCount": 34
+                },
+                {
+                    "ds1c_dept": "hgse",
+                    "avgGrade": 86.22,
+                    "courseCount": 10
+                },
+                {
+                    "ds1c_dept": "rhsc",
+                    "avgGrade": 85.99,
+                    "courseCount": 10
+                },
+                {
+                    "ds1c_dept": "ccst",
+                    "avgGrade": 85.76,
+                    "courseCount": 4
+                },
+                {
+                    "ds1c_dept": "info",
+                    "avgGrade": 85.4,
+                    "courseCount": 1
+                },
+                {
+                    "ds1c_dept": "eece",
+                    "avgGrade": 85.39,
+                    "courseCount": 35
+                },
+                {
+                    "ds1c_dept": "obst",
+                    "avgGrade": 85.35,
+                    "courseCount": 7
+                },
+                {
+                    "ds1c_dept": "rsot",
+                    "avgGrade": 85.27,
+                    "courseCount": 11
+                },
+                {
+                    "ds1c_dept": "libe",
+                    "avgGrade": 85.07,
+                    "courseCount": 4
+                },
+                {
+                    "ds1c_dept": "udes",
+                    "avgGrade": 84.98,
+                    "courseCount": 4
+                },
+                {
+                    "ds1c_dept": "pcth",
+                    "avgGrade": 84.95,
+                    "courseCount": 12
+                },
+                {
+                    "ds1c_dept": "jrnl",
+                    "avgGrade": 84.93,
+                    "courseCount": 3
+                },
+                {
+                    "ds1c_dept": "sans",
+                    "avgGrade": 84.92,
+                    "courseCount": 3
+                },
+                {
+                    "ds1c_dept": "eced",
+                    "avgGrade": 84.87,
+                    "courseCount": 10
+                },
+                {
+                    "ds1c_dept": "libr",
+                    "avgGrade": 84.73,
+                    "courseCount": 34
+                },
+                {
+                    "ds1c_dept": "name",
+                    "avgGrade": 84.63,
+                    "courseCount": 7
+                },
+                {
+                    "ds1c_dept": "iar",
+                    "avgGrade": 84.61,
+                    "courseCount": 1
+                },
+                {
+                    "ds1c_dept": "nurs",
+                    "avgGrade": 84.53,
+                    "courseCount": 46
+                },
+                {
+                    "ds1c_dept": "arst",
+                    "avgGrade": 84.48,
+                    "courseCount": 19
+                },
+                {
+                    "ds1c_dept": "mrne",
+                    "avgGrade": 84.41,
+                    "courseCount": 4
+                },
+                {
+                    "ds1c_dept": "hinu",
+                    "avgGrade": 84.28,
+                    "courseCount": 1
+                },
+                {
+                    "ds1c_dept": "ceen",
+                    "avgGrade": 84.25,
+                    "courseCount": 4
+                },
+                {
+                    "ds1c_dept": "phrm",
+                    "avgGrade": 84.23,
+                    "courseCount": 5
+                },
+                {
+                    "ds1c_dept": "medg",
+                    "avgGrade": 84.22,
+                    "courseCount": 13
+                },
+                {
+                    "ds1c_dept": "nrsc",
+                    "avgGrade": 84.2,
+                    "courseCount": 3
+                },
+                {
+                    "ds1c_dept": "iwme",
+                    "avgGrade": 84,
+                    "courseCount": 1
+                },
+                {
+                    "ds1c_dept": "rmes",
+                    "avgGrade": 83.86,
+                    "courseCount": 13
+                },
+                {
+                    "ds1c_dept": "educ",
+                    "avgGrade": 83.72,
+                    "courseCount": 11
+                },
+                {
+                    "ds1c_dept": "dani",
+                    "avgGrade": 83.57,
+                    "courseCount": 4
+                },
+                {
+                    "ds1c_dept": "bmeg",
+                    "avgGrade": 83.52,
+                    "courseCount": 6
+                },
+                {
+                    "ds1c_dept": "path",
+                    "avgGrade": 83.22,
+                    "courseCount": 27
+                },
+                {
+                    "ds1c_dept": "crwr",
+                    "avgGrade": 83.09,
+                    "courseCount": 12
+                },
+                {
+                    "ds1c_dept": "bait",
+                    "avgGrade": 83.04,
+                    "courseCount": 5
+                },
+                {
+                    "ds1c_dept": "adhe",
+                    "avgGrade": 82.94,
+                    "courseCount": 5
+                },
+                {
+                    "ds1c_dept": "bafi",
+                    "avgGrade": 82.79,
+                    "courseCount": 11
+                },
+                {
+                    "ds1c_dept": "bams",
+                    "avgGrade": 82.78,
+                    "courseCount": 12
+                },
+                {
+                    "ds1c_dept": "baul",
+                    "avgGrade": 82.67,
+                    "courseCount": 1
+                },
+                {
+                    "ds1c_dept": "cics",
+                    "avgGrade": 82.56,
+                    "courseCount": 2
+                },
+                {
+                    "ds1c_dept": "basm",
+                    "avgGrade": 82.55,
+                    "courseCount": 6
+                },
+                {
+                    "ds1c_dept": "baen",
+                    "avgGrade": 82.54,
+                    "courseCount": 6
+                },
+                {
+                    "ds1c_dept": "larc",
+                    "avgGrade": 82.51,
+                    "courseCount": 19
+                },
+                {
+                    "ds1c_dept": "babs",
+                    "avgGrade": 82.46,
+                    "courseCount": 3
+                },
+                {
+                    "ds1c_dept": "soil",
+                    "avgGrade": 82.38,
+                    "courseCount": 9
+                },
+                {
+                    "ds1c_dept": "fipr",
+                    "avgGrade": 82.14,
+                    "courseCount": 14
+                },
+                {
+                    "ds1c_dept": "pers",
+                    "avgGrade": 82.01,
+                    "courseCount": 6
+                },
+                {
+                    "ds1c_dept": "bama",
+                    "avgGrade": 81.92,
+                    "courseCount": 9
+                },
+                {
+                    "ds1c_dept": "envr",
+                    "avgGrade": 81.7,
+                    "courseCount": 7
+                },
+                {
+                    "ds1c_dept": "food",
+                    "avgGrade": 81.66,
+                    "courseCount": 11
+                },
+                {
+                    "ds1c_dept": "phar",
+                    "avgGrade": 81.65,
+                    "courseCount": 51
+                },
+                {
+                    "ds1c_dept": "isci",
+                    "avgGrade": 81.64,
+                    "courseCount": 6
+                },
+                {
+                    "ds1c_dept": "russ",
+                    "avgGrade": 81.51,
+                    "courseCount": 9
+                },
+                {
+                    "ds1c_dept": "ufor",
+                    "avgGrade": 81.51,
+                    "courseCount": 3
+                },
+                {
+                    "ds1c_dept": "bapa",
+                    "avgGrade": 81.4,
+                    "courseCount": 2
+                },
+                {
+                    "ds1c_dept": "bahr",
+                    "avgGrade": 81.34,
+                    "courseCount": 5
+                },
+                {
+                    "ds1c_dept": "dhyg",
+                    "avgGrade": 81.27,
+                    "courseCount": 18
+                },
+                {
+                    "ds1c_dept": "atsc",
+                    "avgGrade": 81.26,
+                    "courseCount": 8
+                },
+                {
+                    "ds1c_dept": "basc",
+                    "avgGrade": 81.25,
+                    "courseCount": 4
+                },
+                {
+                    "ds1c_dept": "arch",
+                    "avgGrade": 81.24,
+                    "courseCount": 29
+                },
+                {
+                    "ds1c_dept": "caps",
+                    "avgGrade": 81.16,
+                    "courseCount": 12
+                },
+                {
+                    "ds1c_dept": "scan",
+                    "avgGrade": 81.11,
+                    "courseCount": 4
+                },
+                {
+                    "ds1c_dept": "fnel",
+                    "avgGrade": 81.04,
+                    "courseCount": 9
+                },
+                {
+                    "ds1c_dept": "punj",
+                    "avgGrade": 81,
+                    "courseCount": 5
+                },
+                {
+                    "ds1c_dept": "appp",
+                    "avgGrade": 80.7,
+                    "courseCount": 4
+                },
+                {
+                    "ds1c_dept": "ends",
+                    "avgGrade": 80.61,
+                    "courseCount": 9
+                },
+                {
+                    "ds1c_dept": "ursy",
+                    "avgGrade": 80.36,
+                    "courseCount": 2
+                },
+                {
+                    "ds1c_dept": "baac",
+                    "avgGrade": 80.26,
+                    "courseCount": 6
+                },
+                {
+                    "ds1c_dept": "arbc",
+                    "avgGrade": 80.08,
+                    "courseCount": 4
+                },
+                {
+                    "ds1c_dept": "musc",
+                    "avgGrade": 80,
+                    "courseCount": 52
+                },
+                {
+                    "ds1c_dept": "civl",
+                    "avgGrade": 79.95,
+                    "courseCount": 84
+                },
+                {
+                    "ds1c_dept": "igen",
+                    "avgGrade": 79.86,
+                    "courseCount": 8
+                },
+                {
+                    "ds1c_dept": "mine",
+                    "avgGrade": 79.77,
+                    "courseCount": 41
+                },
+                {
+                    "ds1c_dept": "micb",
+                    "avgGrade": 79.53,
+                    "courseCount": 27
+                },
+                {
+                    "ds1c_dept": "cens",
+                    "avgGrade": 79.49,
+                    "courseCount": 4
+                },
+                {
+                    "ds1c_dept": "cohr",
+                    "avgGrade": 79.07,
+                    "courseCount": 12
+                },
+                {
+                    "ds1c_dept": "chbe",
+                    "avgGrade": 79.05,
+                    "courseCount": 55
+                },
+                {
+                    "ds1c_dept": "mech",
+                    "avgGrade": 79,
+                    "courseCount": 85
+                },
+                {
+                    "ds1c_dept": "enph",
+                    "avgGrade": 78.99,
+                    "courseCount": 5
+                },
+                {
+                    "ds1c_dept": "ling",
+                    "avgGrade": 78.83,
+                    "courseCount": 30
+                },
+                {
+                    "ds1c_dept": "cnrs",
+                    "avgGrade": 78.68,
+                    "courseCount": 4
+                },
+                {
+                    "ds1c_dept": "lfs",
+                    "avgGrade": 78.41,
+                    "courseCount": 9
+                },
+                {
+                    "ds1c_dept": "lled",
+                    "avgGrade": 78.38,
+                    "courseCount": 27
+                },
+                {
+                    "ds1c_dept": "fnh",
+                    "avgGrade": 78.28,
+                    "courseCount": 38
+                },
+                {
+                    "ds1c_dept": "phys",
+                    "avgGrade": 78.21,
+                    "courseCount": 68
+                },
+                {
+                    "ds1c_dept": "frst",
+                    "avgGrade": 78.12,
+                    "courseCount": 72
+                },
+                {
+                    "ds1c_dept": "urst",
+                    "avgGrade": 78.08,
+                    "courseCount": 2
+                },
+                {
+                    "ds1c_dept": "cons",
+                    "avgGrade": 77.98,
+                    "courseCount": 15
+                },
+                {
+                    "ds1c_dept": "cpen",
+                    "avgGrade": 77.94,
+                    "courseCount": 18
+                },
+                {
+                    "ds1c_dept": "arth",
+                    "avgGrade": 77.87,
+                    "courseCount": 32
+                },
+                {
+                    "ds1c_dept": "fhis",
+                    "avgGrade": 77.76,
+                    "courseCount": 1
+                },
+                {
+                    "ds1c_dept": "eosc",
+                    "avgGrade": 77.74,
+                    "courseCount": 89
+                },
+                {
+                    "ds1c_dept": "hebr",
+                    "avgGrade": 77.74,
+                    "courseCount": 4
+                },
+                {
+                    "ds1c_dept": "fnis",
+                    "avgGrade": 77.72,
+                    "courseCount": 8
+                },
+                {
+                    "ds1c_dept": "rgla",
+                    "avgGrade": 77.64,
+                    "courseCount": 1
+                },
+                {
+                    "ds1c_dept": "cpsc",
+                    "avgGrade": 77.58,
+                    "courseCount": 53
+                },
+                {
+                    "ds1c_dept": "anth",
+                    "avgGrade": 77.55,
+                    "courseCount": 26
+                },
+                {
+                    "ds1c_dept": "coec",
+                    "avgGrade": 77.54,
+                    "courseCount": 5
+                },
+                {
+                    "ds1c_dept": "fre",
+                    "avgGrade": 77.26,
+                    "courseCount": 18
+                },
+                {
+                    "ds1c_dept": "cogs",
+                    "avgGrade": 77.06,
+                    "courseCount": 5
+                },
+                {
+                    "ds1c_dept": "bala",
+                    "avgGrade": 77.05,
+                    "courseCount": 1
+                },
+                {
+                    "ds1c_dept": "asic",
+                    "avgGrade": 76.93,
+                    "courseCount": 2
+                },
+                {
+                    "ds1c_dept": "visa",
+                    "avgGrade": 76.92,
+                    "courseCount": 28
+                },
+                {
+                    "ds1c_dept": "relg",
+                    "avgGrade": 76.7,
+                    "courseCount": 15
+                },
+                {
+                    "ds1c_dept": "apsc",
+                    "avgGrade": 76.62,
+                    "courseCount": 18
+                },
+                {
+                    "ds1c_dept": "soci",
+                    "avgGrade": 76.46,
+                    "courseCount": 19
+                },
+                {
+                    "ds1c_dept": "chin",
+                    "avgGrade": 76.45,
+                    "courseCount": 43
+                },
+                {
+                    "ds1c_dept": "econ",
+                    "avgGrade": 76.39,
+                    "courseCount": 93
+                },
+                {
+                    "ds1c_dept": "astr",
+                    "avgGrade": 76.36,
+                    "courseCount": 16
+                },
+                {
+                    "ds1c_dept": "itst",
+                    "avgGrade": 76.26,
+                    "courseCount": 9
+                },
+                {
+                    "ds1c_dept": "law",
+                    "avgGrade": 76.21,
+                    "courseCount": 83
+                },
+                {
+                    "ds1c_dept": "biol",
+                    "avgGrade": 75.99,
+                    "courseCount": 91
+                },
+                {
+                    "ds1c_dept": "mtrl",
+                    "avgGrade": 75.93,
+                    "courseCount": 48
+                },
+                {
+                    "ds1c_dept": "fist",
+                    "avgGrade": 75.93,
+                    "courseCount": 12
+                },
+                {
+                    "ds1c_dept": "clch",
+                    "avgGrade": 75.84,
+                    "courseCount": 3
+                },
+                {
+                    "ds1c_dept": "elec",
+                    "avgGrade": 75.79,
+                    "courseCount": 54
+                },
+                {
+                    "ds1c_dept": "last",
+                    "avgGrade": 75.47,
+                    "courseCount": 2
+                },
+                {
+                    "ds1c_dept": "fopr",
+                    "avgGrade": 75.19,
+                    "courseCount": 7
+                },
+                {
+                    "ds1c_dept": "scie",
+                    "avgGrade": 75.19,
+                    "courseCount": 2
+                },
+                {
+                    "ds1c_dept": "mdvl",
+                    "avgGrade": 74.89,
+                    "courseCount": 2
+                },
+                {
+                    "ds1c_dept": "latn",
+                    "avgGrade": 74.88,
+                    "courseCount": 6
+                },
+                {
+                    "ds1c_dept": "ital",
+                    "avgGrade": 74.71,
+                    "courseCount": 15
+                },
+                {
+                    "ds1c_dept": "clst",
+                    "avgGrade": 74.31,
+                    "courseCount": 25
+                },
+                {
+                    "ds1c_dept": "nest",
+                    "avgGrade": 74.18,
+                    "courseCount": 7
+                },
+                {
+                    "ds1c_dept": "hist",
+                    "avgGrade": 74.06,
+                    "courseCount": 69
+                },
+                {
+                    "ds1c_dept": "engl",
+                    "avgGrade": 73.96,
+                    "courseCount": 32
+                },
+                {
+                    "ds1c_dept": "fren",
+                    "avgGrade": 73.66,
+                    "courseCount": 28
+                },
+                {
+                    "ds1c_dept": "laso",
+                    "avgGrade": 73.52,
+                    "courseCount": 1
+                },
+                {
+                    "ds1c_dept": "arcl",
+                    "avgGrade": 73.32,
+                    "courseCount": 13
+                },
+                {
+                    "ds1c_dept": "japn",
+                    "avgGrade": 73.18,
+                    "courseCount": 24
+                },
+                {
+                    "ds1c_dept": "fmst",
+                    "avgGrade": 72.75,
+                    "courseCount": 7
+                },
+                {
+                    "ds1c_dept": "phil",
+                    "avgGrade": 72.58,
+                    "courseCount": 17
+                },
+                {
+                    "ds1c_dept": "astu",
+                    "avgGrade": 72.27,
+                    "courseCount": 5
+                },
+                {
+                    "ds1c_dept": "math",
+                    "avgGrade": 72.03,
+                    "courseCount": 94
+                },
+                {
+                    "ds1c_dept": "busi",
+                    "avgGrade": 70.63,
+                    "courseCount": 40
+                },
+                {
+                    "ds1c_dept": "wrds",
+                    "avgGrade": 70.28,
+                    "courseCount": 1
+                },
+                {
+                    "ds1c_dept": "rmst",
+                    "avgGrade": 69.93,
+                    "courseCount": 2
+                },
+                {
+                    "ds1c_dept": "vant",
+                    "avgGrade": 68.31,
+                    "courseCount": 2
+                }
+            ]
+        }
+    }
+}

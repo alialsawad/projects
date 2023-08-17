@@ -1,0 +1,131 @@
+{
+    "title": "Query 8",
+    "query": "In rooms dataset ds1r grouped by Full Name, find entries whose Full Name includes \"a\"; show Full Name and avgSeats, where avgSeats is the AVG of Seats; sort in ascending order by avgSeats and Full Name.",
+    "response": {
+        "code": 200,
+        "body": {
+            "result": [
+                {
+                    "ds1r_fullname": "School of Population and Public Health",
+                    "avgSeats": 27.67
+                },
+                {
+                    "ds1r_fullname": "Ponderosa Commons: Oak House",
+                    "avgSeats": 30
+                },
+                {
+                    "ds1r_fullname": "MacMillan",
+                    "avgSeats": 30.16
+                },
+                {
+                    "ds1r_fullname": "Orchard Commons",
+                    "avgSeats": 31.52
+                },
+                {
+                    "ds1r_fullname": "Irving K Barber Learning Centre",
+                    "avgSeats": 31.56
+                },
+                {
+                    "ds1r_fullname": "War Memorial Gymnasium",
+                    "avgSeats": 32.5
+                },
+                {
+                    "ds1r_fullname": "Food, Nutrition and Health",
+                    "avgSeats": 43.83
+                },
+                {
+                    "ds1r_fullname": "Allard Hall (LAW)",
+                    "avgSeats": 45.6
+                },
+                {
+                    "ds1r_fullname": "Neville Scarfe",
+                    "avgSeats": 45.64
+                },
+                {
+                    "ds1r_fullname": "Anthropology and Sociology",
+                    "avgSeats": 46.5
+                },
+                {
+                    "ds1r_fullname": "Brock Hall Annex",
+                    "avgSeats": 47
+                },
+                {
+                    "ds1r_fullname": "Frank Forward",
+                    "avgSeats": 47.33
+                },
+                {
+                    "ds1r_fullname": "Civil and Mechanical Engineering",
+                    "avgSeats": 48.17
+                },
+                {
+                    "ds1r_fullname": "Pharmaceutical Sciences Building",
+                    "avgSeats": 48.91
+                },
+                {
+                    "ds1r_fullname": "Frederic Lasserre",
+                    "avgSeats": 54.17
+                },
+                {
+                    "ds1r_fullname": "Mathematics",
+                    "avgSeats": 61.88
+                },
+                {
+                    "ds1r_fullname": "West Mall Swing Space",
+                    "avgSeats": 64.59
+                },
+                {
+                    "ds1r_fullname": "Geography",
+                    "avgSeats": 77.38
+                },
+                {
+                    "ds1r_fullname": "Woodward (Instructional Resources Centre-IRC)",
+                    "avgSeats": 81.06
+                },
+                {
+                    "ds1r_fullname": "MacLeod",
+                    "avgSeats": 83.83
+                },
+                {
+                    "ds1r_fullname": "Biological Sciences",
+                    "avgSeats": 84
+                },
+                {
+                    "ds1r_fullname": "Hugh Dempster Pavilion",
+                    "avgSeats": 88
+                },
+                {
+                    "ds1r_fullname": "Mathematics Annex",
+                    "avgSeats": 106
+                },
+                {
+                    "ds1r_fullname": "Chemical and Biological Engineering Building",
+                    "avgSeats": 118
+                },
+                {
+                    "ds1r_fullname": "Leonard S. Klinck (also known as CSCI)",
+                    "avgSeats": 126.25
+                },
+                {
+                    "ds1r_fullname": "Aquatic Ecosystems Research Laboratory",
+                    "avgSeats": 144
+                },
+                {
+                    "ds1r_fullname": "Friedman Building",
+                    "avgSeats": 160
+                },
+                {
+                    "ds1r_fullname": "Earth Sciences Building",
+                    "avgSeats": 193.33
+                },
+                {
+                    "ds1r_fullname": "Student Recreation Centre",
+                    "avgSeats": 299
+                },
+                {
+                    "ds1r_fullname": "Centre for Interactive  Research on Sustainability",
+                    "avgSeats": 426
+                }
+            ]
+        }
+    }
+}

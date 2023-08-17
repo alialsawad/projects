@@ -1,0 +1,154 @@
+In courses dataset ds1c, find entries whose Average is greater than 97; show Department and Average; sort in ascending order by Average.
+In courses dataset ds1c, find entries whose Average is greater than 90; show Average and Department.
+In rooms dataset ds1r, find entries whose Furniture is "Classroom-Movable Tables + Chairs" and Full Name is "Forest Sciences Centre"; show Full Name and Address; sort in ascending order by Full Name.
+In courses dataset ds1c grouped by Department, find entries whose Department is "cpsc"; show Department and avgGrade, where avgGrade is the AVG of Average.
+In courses dataset ds1c grouped by Department and Instructor, find entries whose Department is "cpsc"; show Department, Instructor, avgGrade and sumGrade, where avgGrade is the AVG of Average and sumGrade is the SUM of Average; sort in descending order by Department and avgGrade.
+In courses dataset ds1c grouped by Department and Instructor, find entries whose Department is "cpsc" and Average is greater than 90; show Department, Instructor, avgGrade and sumGrade, where avgGrade is the AVG of Average and sumGrade is the SUM of Average; sort in descending order by Department and avgGrade.
+In courses dataset ds1c, find entries whose Average is greater than 95 and Pass is greater than 5 and Instructor includes "r"; show Average, Pass and Instructor; sort in ascending order by Average, Pass and Instructor.
+In courses dataset ds1c, find entries whose Average is less than 75; shw Department and Average; sort in ascending order by Instructor.
+In rooms dataset ds1r grouped by Full Name, find entries whose Full Name is "Brock Hall Annex"; show Full Name and avgSeats, where avgSeats is the AVG of Seats; sort in ascending order by avgSeats and Full Name.
+In rooms dataset ds1r grouped by Full Name, Address and Seats, find entries whose Seats is less than 30 and Address includes "7"; show Full Name, Address, sumSeats and minSeats, where sumSeats is the SUM of Seats and minSeats is the MIN of Seats; sort in ascending order by Full Name, Address, sumSeats and minSeats.
+In rooms dataset ds1r grouped by Full Name, Address and Seats, find entries whose Seats is less than 30 and Address includes "7"; show sumSeats, where sumSeats is the SUM of Seats; sort in ascending order by sumSeats.
+In courses dataset ds1c, find entries whose Year is greater than 2015 and Average is greater than 95; show Year, Average and Title; sort in ascending order by Year and Average.
+In courses dataset ds1c, find entries whose Average is greater than -10; show Average and Department.
+In courses dataset ds1c, show Department and Average; sort in ascending order by Average.
+In courses datset courses, find entries whose Average is greater than 97; show Department and Average; sort in ascending order by Average.
+In rooms dataset ds1r, find all entries; show Full Name and Address; sort in ascending order by Full Name.
+In courses dataset ds1c grouped by Department, find entries whose Department is "cpsc"; show Department and avgGrade, where avgGrade is the AVG of Department.
+In courses dataset ds1c grouped by Department, find entries whose Department is "adhe" or Department is "cpsc"; show Department and avgGrade, where avgGrade is the AVG of Average; sort in descending order by avgGrade.
+In courses dataset cuorses, find entries whose Average is greater than 97; show Department and Average; sort in ascending order by Average.
+In courses dataset ds1c, find any entries whose Average is greater than 97; show Department and Average; sort in ascending order by Average.
+In courses dataset ds1c, find entries whose Average is less than 75; show Sum and Average; sort in ascending order by Instructor.
+In courses dataset ds1c, find entries whose Total is equal to 88; show Department and Average; sort in ascending order by Average.
+In courses dataset ds1c, find entries whose Average is less than 75; show Deprtment, ID, and Instructor; sort in ascending order by Instructor.
+In courses dataset ds1c, find entries whose Average is less than 1000; show Average and Department.
+In courses dataset ds1c, find all entries whose Average is less than 75; show Department and Average; sort in order by Instructor.
+In courses dataset ds1c, find all entries whose Average is less than 75; sort in ascending order by Average.
+In courses dataset ds1c, find all entries whose Average is less than 75; show Department and Average; sort in ascending order by Avg.
+In courses dataset ds1c, find entries whose Department is "hinu" and Pass is less than 20; show Average; sort in ascending order by Average.
+In courses dataset ds1c, find entries whose Department is "hinu" and Fail is equal to 2; show Average; sort in ascending order by Average.
+In courses dataset ds1c, find entries whose Department is "hinu" and Audit is equal to 3; show Average; sort in ascending order by Average.
+In courses dataset ds1c, find entries whose Average is greater than 90 and Department is "adhe" or Average is equal to 95; show Department, ID and Average; sort in ascending order by Average.
+In courses dataset ds1c, find entries whose Average is greater than 90; show Department and Average; sort in ascending order by Average.
+In courses dataset ds1c, find entries whose Average is greater than 95; show Department and Average; sort in ascending order by Average.
+In courses dataset ds1c, find entries whose Average is greater than 96 and Department is "math" and Pass is less than 100 and Instructor is not "karu, kalle" and Title includes "a"; show Department, ID, Title, Average, Instructor, Fail, Audit, ID, UUID and Pass; sort in ascending order by Average.
+In courses dataset ds1c, find entries whose Average is greater than 90; show Department and Average; sort in ascending order by Average.
+In rooms dataset ds1r, find entries whose Type is "Small Group" and Seats is greater than 30; show Short Name and Seats; sort in ascending order by Seats.
+In courses dataset ds1c, find entries whose Average is greater than 90 and Department is "adhe" or Average is equal to 95; show Department, ID and Average; sort in ascending order by Average.
+In courses dataset ds1c grouped by Department and Instructor, find entries whose Department is "cpsc"; show Department, Instructor, avgGrade and sumGrade, where avgGrade is the AVG of Average and sumGrade is the SUM of Average; sort in descending order by Department and avgGrade.
+In courses dataset ds1c grouped by Department and Instructor, find entries whose Department is "cpsc" and Average is greater than 90; show Department, Instructor, avgGrade and sumGrade, where avgGrade is the AVG of Average and sumGrade is the SUM of Average; sort in descending order by Department and avgGrade.
+In courses dataset ds1c, find entries whose Department is "cpsc" and Average is greater than 80; show Department, ID and Average.
+In courses dataset ds1c grouped by Department, find all entries; show Department, avgGrade and courseCount, where avgGrade is the AVG of Average and courseCount is the COUNT of ID; sort in descending order by avgGrade.
+In courses dataset ds1c grouped by Department, find entries whose Average is greater than 80; show Department, minGrade, maxGrade and sumGrade, where minGrade is the MIN of Average, maxGrade is the MAX of Average and sumGrade is the SUM of Average; sort in ascending order by Department.
+In rooms dataset ds1r grouped by Type, find all entries; show Type, totalSeats, and roomCount, where totalSeats is the SUM of Seats and roomCount is the COUNT of Full Name; sort in descending order by totalSeats.
+In courses dataset ds1c grouped by Department and Year, find entries whose Year is less than 2010; show Department, Year, maxAverage, and courseCount, where maxAverage is the MAX of Average and courseCount is the COUNT of ID; sort in descending order by maxAverage.
+In rooms dataset ds1r grouped by Furniture, find entries whose Seats is greater than 50; show Furniture, avgSeats, and roomCount, where avgSeats is the AVG of Seats and roomCount is the COUNT of Full Name; sort in ascending order by avgSeats.
+In courses dataset ds1c, find entries whose Average is greater than 95; show Department and Average.
+In courses dataset ds1c grouped by Departme_nt, find all entries; show Department and avgGrade, where avgGrade is the AVG of Average.
+In courses dataset ds1c, find entries whose Department is "cpsc"; show Department and InvalidKey.
+In courses dataset ds1c grouped by Department, find all entries; show Department, avgGrade, and maxGrade, where avgGrade is the AVG of Average and maxGrade is the MAX of Average.
+In courses dataset ds1c grouped by Department, find all entries; show Department and avgGrade, where avgGrade is the AVG of Average; sort in ascending order by Seats.
+In courses dataset ds1c grouped by Department, find all entries; show Department, avgGrade and Seats, where avgGrade is the AVG of Average.
+In rooms dataset ds1r, find entries whose Full Name is "Irving K Barber Learning Centre"; show Full Name, Address and Type.
+In courses dataset ds1c grouped by Department, find all entries; show Department and maxTitle, where maxTitle is the MAX of Title.
+In courses dataset ds1c, find all entries; show Average.
+In courses dataset ds1c, find entries whose Pass is greater than 50 and Title includes "chan" and Instructor is ""; show ID, Title, Instructor and Year; sort in descending order by Year.
+In rooms dataset ds1r grouped by Type, find all entries; show Type, where Seats is the MAX of Seats.
+In courses dataset ds1c, find entries whose Average is greater than 97; show Department and Average.
+In courses dataset ds1c grouped by Department and Year, find entries whose Average is less than 75; show Department and Year, where Pass is the MIN of Pass; sort in ascending order by Department and Year.
+In rooms dataset ds1r, find entries whose Type is not "Small Group"; show Full Name, Seats and Type; sort in ascending order by Seats.
+In courses dataset ds1c grouped by Department, find all entries; show Department and avgGrade, where avgGrade is the AVG of Average.
+In courses dataset ds1c grouped by Department, find entries whose Average is greater than 80; show Department, minGrade, and maxGrade, where minGrade is the MIN of Average and maxGrade is the MAX of Average.
+In rooms dataset ds1r grouped by Type, find all entries; show Type and totalSeats, where totalSeats is the SUM of Seats.
+in rooms dataset abc, find entries whose Seats is greater than 80; show Seats.
+In rooms dataset ds1r grouped by Furniture, find entries whose Seats is greater than 50; show Furniture and avgSeats, where avgSeats is the AVG of Seats; sort in descending order by avgSeats.
+In courses dataset ds1c grouped by Department, find all entries; show Department.
+In courses dataset ds1c, find entries whose Average is not greater than 95; show Department and Average.
+In courses dataset ds1c, find entries whose Average is not greater than 97; show Department and Average.
+In courses dataset ds1c, find entries whose Average is greater than 90 and Pass is greater than 80; show Department, Average and Pass.
+In courses dataset ds1c, find entries whose Average is greater than 90; show Average and Department.
+In courses dataset ds1c, find entries whose Average is greater than 90 and Department is "adhe" or Average is equal to 95; show Department, ID and Average; sort in ascending order by Average.
+In courses dataset ds1c, find entries whose Average is greater than 97 or Pass is greater than 80; show Department, Average and Pass.
+In courses dataset ds1c, find entries whose Average is greater than 90 and Department is "adhe" or Average is equal to 95; show Department and Average.
+In courses dataset ds1c, find entries whose Average is greater than 95; show Department and Average; sort in ascending order by Average.
+In courses dataset ds1c, find entries whose Title is "inst adul educ"; show Department and Title.
+In courses dataset ds1c, find entries whose Title is not "adul educ"; show Department and Title.
+In courses dataset ds1c, find entries whose Title includes "adul"; show Department and Title.
+In courses dataset ds1c, find entries whose Title does not include "adul"; show Department and Title.
+In courses dataset ds1c, find entries whose Title begins with "adul"; show Department and Title.
+In courses dataset ds1c, find entries whose Title ends with "educ"; show Department and Title.
+In courses dataset ds1c, find entries whose Title includes "adul" and Department is "adhe"; show Department and Title.
+in rooms dataset abc, find entries whose Seats is greater than 80; show Seats.
+In courses dataset ds1c, find entries whose Average is less than 60; show Average and Department.
+In courses dataset ds1c, find entries whose Title includes "adul" or Department is "adhe"; show Department and Title.
+In courses dataset ds1c, find entries whose Title includes "adul"; show Department and Title; sort in ascending order by Title.
+In courses dataset ds1c, find entries whose Average is greater than 80 and Pass is less than 90; show Department, Average and Pass.
+In courses dataset ds1c, find entries whose Average is greater than 80 and Pass is greater than 90; show Department, Average and Pass.
+In courses dataset ds1c, find entries whose Average is less than 80 and Pass is less than 90; show Department, Average and Pass.
+In courses dataset ds1c, find entries whose Average is less than 0 and Pass is greater than -10; show Department, Average and Pass.
+In courses dataset ds1c, find entries whose Department is "math" and Instructor includes "s"; show Department, Instructor and Title.
+In courses dataset ds1c, find entries whose Department is "math" and Instructor includes "s"; show Department, Instructor and Title.
+In courses dataset ds1c, find entries whose Average is greater than 80 and Department is "math"; show Department, Average and Instructor.
+In rooms dataset abc, find entries whose Seats is greater than 80; show Seats and Address; sort in ascending order by Average2.
+In courses dataset ds1c, find entries whose Average is greater than 80 and Pass is less than 90 and Department is "math"; show Department, Average, Pass and Instructor.
+In courses dataset ds1c, find entries whose Average is equal to 90; show Average and Department.
+In courses dataset ds1c, find entries whose Average is greater than 80 and Pass is less than 90 and Department is "math" or Instructor includes "s"; show Department, Average, Pass and Instructor.
+In courses dataset ds1c, find entries whose Average is equal to 85 and Department is "math"; show Department, Average and Instructor.
+In courses dataset ds1c, find entries whose Average is not less than 90 and Department is not "history"; show Department, Average and Instructor.
+In courses dataset ds1c, find entries whose Department is "math"; show Department and Title.
+find entries whose Average is greater than 90; show Department and Average.
+In courses dataset ds1c; show Department and Average.
+In courses dataset ds1c, find entries whose Average is bigger than 90; show Department and Average.
+In courses dataset ds1c, find entries whose Average is greater than 90 and also Department is "adhe"; show Department and Average.
+In courses dataset ds1c, find entries whose Title includes "algebra"; show Title and Department.
+In courses dataset ds1c, find entries whose Average is greater than 90 show Department and Average.
+In courses dataset ds1c, find entries whose Average is greater than 9.0.1; show Department and Average.
+In courses dataset ds1c, find entries whose Department is adhe; show Department and Average.
+In courses dataset ds1c, find entries whose UnknownKey is greater than 90; show Department and Average.
+In courses dataset ds1c, find entries whose Average is greater than 90; Department and Average.
+In courses dataset ds1c, find entries whose Average is greater than 90; sort in ascending order by Average.
+In courses dataset 1234, find entries whose Average is greater than 90; show Department and Average.
+In courses dataset ds1c, find entries whose Average is greater than 90; show Department and Average. ExtraCharacters
+In courses dataset ds1c, find entries whose Average is greater than 90; show Department and Average and ID.
+In courses dataset ds1c, find entries whose Department is "adhe; show Department and Average.
+In courses dataset ds1c, find entries whose Average is greater than 80 and Department is "math"; show Average and Department.
+In courses dataset ds1c, find all entries; show Department.
+In courses dataset ds1c, find entries whose Average is greater than 96 and Department is "math" and Pass is less than 100 and Instructor is not "karu, kalle" and Title includes "a"; show Department, ID, Title, Average, Instructor, Fail, Audit, ID, UUID and Pass; sort in ascending order by Average.
+In courses dataset ds1c, find entries whose Average is greater than 96 and Department is "math" and Pass is less than 100 and Instructor is not "karu, kalle" and Title includes "a"; show Department, ID, Title, Average, Instructor, Fail, Audit, ID, UUID and Pass.
+In courses dataset ds1c, find entries whose Average is greater than 90 or Department is "math"; show Average and Department.
+In courses dataset ds1c, find entries whose Average is not greater than 90; show Average and Department.
+In courses dataset ds1c, find entries whose Department is "hinu" and ID includes "102"; show Title; sort in ascending order by Title.
+In courses dataset ds1c, find entries whose Department is "hinu" and Instructor does not include "b"; show Pass; sort in ascending order by Pass.
+In courses dataset ds1c, find entries whose iD is "19182"; show Department and Average; sort in ascending order by Instructor.
+In courses dataset ds1c, find entries whose Department is "hinu" and Title begins with "intr"; show Title; sort in ascending order by Title.
+In courses dataset ds1c, find entries whose Department is "hinu" and UUID ends with "8"; show Average; sort in ascending order by Average.
+in courses dataset ds1c, find entries whose Pass is greater than 15; show Pass.
+null
+
+In courses dataset ds1c, find entries whose Average is greater than 97, show Department and Average, sort in ascending order by Average.
+In courses dataset ds1c, find entries whose Average is greater than 97; show Department and Average; sort in ascending order by Average
+In courses dataset ds1c, find all entries whose Average is less than 75; show Department and Average; sort in ascending order by instructor.
+In courses dataset ds1c, show Department and Average; find entries whose Average is greater than 97; sort in ascending order by Average.
+In courses dataset ds1c, find entries whose Average is greater than 96.25; show Average; sort in ascending order by Average.
+In nonexist_dataset ds1c, find all entries; show Department.
+In courses dataset ds1c, find entries whose Instructor is "smulders, dave"; show Average; sort in ascending order by Average.
+In courses dataset ds1c, find entries whose Pass is greater than 90 and minus than 97; show Department and Average; sort in ascending order by Instructor.
+In courses dataset ds1c, find entries whose Instructor is x; show Instructor; sort in ascending order by Instructor.
+In courses dataset ds1c, find entries whose UUID is "200"; show Department and Average; sort in ascending order by Average.
+In courses dataset ds1c, find entries whose Average is equal to fifty; show Instructor; sort in ascending order by Average.
+In courses dataset ds1c, find entries whose Average is greater than 90; show Instructor and Pass; sort in ascending order by Average2.
+In courses dataset ds1c, find entries whose Fail is greater than "10"; show Instructor; sort in ascending order by Average.
+In courses dataset ds1c, find entries whose Department is not "adhe" and Fail is greater than 12; show Pass and Department; sort in ascending order by Average.
+Find all entries whose Average is less than 75; show Department and Average; sort in ascending order by Average.
+In rooms dataset ds1r, find entries whose Short Name is "FORW"; show Seats; sort in ascending order by Seats.
+In courses dataset ds1c, find entries whose Average is not greater than 90; show Average and Department.
+In rooms dataset ds1r, find entries whose Type is "Small Group" and Seats is greater than 30; show Short Name and Seats; sort in ascending order by Seats.
+In rooms dataset ds1r, find entries whose Link includes "FORW" and Seats is greater than 30; show Short Name and Seats; sort in ascending order by Seats.
+In courses dataset ds1c, find entries whose Average is greater than 90 and Department includes "b"; show Average and Department; sort in ascending order by Average and Department.
+In courses dataset ds1c, find all entries whose Department is "adhe" or ID includes "7"; show Department and Average; sort in ascending order by Instructor.
+In courses dataset ds1c, find entries whose Average is greater than 95 and Department includes "b"; show Average and Department; sort in descending order by Average and Department.
+In rooms dataset ds1r, find entries whose Latitude is equal to 49.26125 and Longitude is equal to -123.24807; show Address; sort in descending order by Address.
+In rooms dataset ds1r, find entries whose Link includes "http://students.ubc.ca/campus/discover/buildings-and-classrooms/room/ALRD"; show Full Name and Link; sort in ascending order by Link.
+In rooms dataset ds1r, find entries whose Furniture is "Classroom-Fixed Tables/Movable Chairs"; show Full Name and Address; sort in ascending order by Full Name.
+In courses dataset ds1c, find entries whose Average is greater than 97; show Department and Average; sort in ascending order by Average.
+In courses dataset ds1c, find entries whose Average is greater than 90 and Department is "adhe" or Average is equal to 95; show Department, ID and Average; sort in ascending order by Average.

@@ -1,0 +1,152 @@
+{
+    "title": "Query 5",
+    "query": "In courses dataset ds1c, find entries whose Average is greater than 97; show Average; sort in ascending order by Average.",
+    "response": {
+        "code": 200,
+        "body": {
+            "result": [
+                {
+                    "ds1c_avg": 97.09
+                },
+                {
+                    "ds1c_avg": 97.09
+                },
+                {
+                    "ds1c_avg": 97.09
+                },
+                {
+                    "ds1c_avg": 97.09
+                },
+                {
+                    "ds1c_avg": 97.25
+                },
+                {
+                    "ds1c_avg": 97.25
+                },
+                {
+                    "ds1c_avg": 97.29
+                },
+                {
+                    "ds1c_avg": 97.29
+                },
+                {
+                    "ds1c_avg": 97.33
+                },
+                {
+                    "ds1c_avg": 97.33
+                },
+                {
+                    "ds1c_avg": 97.41
+                },
+                {
+                    "ds1c_avg": 97.41
+                },
+                {
+                    "ds1c_avg": 97.47
+                },
+                {
+                    "ds1c_avg": 97.47
+                },
+                {
+                    "ds1c_avg": 97.48
+                },
+                {
+                    "ds1c_avg": 97.48
+                },
+                {
+                    "ds1c_avg": 97.5
+                },
+                {
+                    "ds1c_avg": 97.53
+                },
+                {
+                    "ds1c_avg": 97.53
+                },
+                {
+                    "ds1c_avg": 97.67
+                },
+                {
+                    "ds1c_avg": 97.69
+                },
+                {
+                    "ds1c_avg": 97.78
+                },
+                {
+                    "ds1c_avg": 98
+                },
+                {
+                    "ds1c_avg": 98
+                },
+                {
+                    "ds1c_avg": 98.08
+                },
+                {
+                    "ds1c_avg": 98.21
+                },
+                {
+                    "ds1c_avg": 98.21
+                },
+                {
+                    "ds1c_avg": 98.36
+                },
+                {
+                    "ds1c_avg": 98.45
+                },
+                {
+                    "ds1c_avg": 98.45
+                },
+                {
+                    "ds1c_avg": 98.5
+                },
+                {
+                    "ds1c_avg": 98.5
+                },
+                {
+                    "ds1c_avg": 98.58
+                },
+                {
+                    "ds1c_avg": 98.58
+                },
+                {
+                    "ds1c_avg": 98.58
+                },
+                {
+                    "ds1c_avg": 98.58
+                },
+                {
+                    "ds1c_avg": 98.7
+                },
+                {
+                    "ds1c_avg": 98.71
+                },
+                {
+                    "ds1c_avg": 98.71
+                },
+                {
+                    "ds1c_avg": 98.75
+                },
+                {
+                    "ds1c_avg": 98.75
+                },
+                {
+                    "ds1c_avg": 98.76
+                },
+                {
+                    "ds1c_avg": 98.76
+                },
+                {
+                    "ds1c_avg": 98.8
+                },
+                {
+                    "ds1c_avg": 99.19
+                },
+                {
+                    "ds1c_avg": 99.78
+                },
+                {
+                    "ds1c_avg": 99.78
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,1503 @@
+{
+    "title": "Query 26",
+    "query": "In courses dataset ds1c, find entries whose Average is less than 60; show Average and Department.",
+    "response": {
+        "code": 200,
+        "body": {
+            "result": [
+                {
+                    "ds1c_avg": 56.96,
+                    "ds1c_dept": "chbe"
+                },
+                {
+                    "ds1c_avg": 56.96,
+                    "ds1c_dept": "chbe"
+                },
+                {
+                    "ds1c_avg": 59.35,
+                    "ds1c_dept": "chbe"
+                },
+                {
+                    "ds1c_avg": 59.35,
+                    "ds1c_dept": "chbe"
+                },
+                {
+                    "ds1c_avg": 57,
+                    "ds1c_dept": "eosc"
+                },
+                {
+                    "ds1c_avg": 58,
+                    "ds1c_dept": "frst"
+                },
+                {
+                    "ds1c_avg": 59,
+                    "ds1c_dept": "musc"
+                },
+                {
+                    "ds1c_avg": 53.91,
+                    "ds1c_dept": "busi"
+                },
+                {
+                    "ds1c_avg": 59.56,
+                    "ds1c_dept": "busi"
+                },
+                {
+                    "ds1c_avg": 56.88,
+                    "ds1c_dept": "busi"
+                },
+                {
+                    "ds1c_avg": 57.84,
+                    "ds1c_dept": "busi"
+                },
+                {
+                    "ds1c_avg": 46.5,
+                    "ds1c_dept": "busi"
+                },
+                {
+                    "ds1c_avg": 52.4,
+                    "ds1c_dept": "busi"
+                },
+                {
+                    "ds1c_avg": 58.25,
+                    "ds1c_dept": "busi"
+                },
+                {
+                    "ds1c_avg": 59.14,
+                    "ds1c_dept": "busi"
+                },
+                {
+                    "ds1c_avg": 59.63,
+                    "ds1c_dept": "busi"
+                },
+                {
+                    "ds1c_avg": 57.4,
+                    "ds1c_dept": "busi"
+                },
+                {
+                    "ds1c_avg": 51.19,
+                    "ds1c_dept": "busi"
+                },
+                {
+                    "ds1c_avg": 59,
+                    "ds1c_dept": "busi"
+                },
+                {
+                    "ds1c_avg": 59,
+                    "ds1c_dept": "busi"
+                },
+                {
+                    "ds1c_avg": 58.04,
+                    "ds1c_dept": "busi"
+                },
+                {
+                    "ds1c_avg": 59.76,
+                    "ds1c_dept": "busi"
+                },
+                {
+                    "ds1c_avg": 59.76,
+                    "ds1c_dept": "busi"
+                },
+                {
+                    "ds1c_avg": 57.42,
+                    "ds1c_dept": "busi"
+                },
+                {
+                    "ds1c_avg": 57.42,
+                    "ds1c_dept": "busi"
+                },
+                {
+                    "ds1c_avg": 59.86,
+                    "ds1c_dept": "busi"
+                },
+                {
+                    "ds1c_avg": 50,
+                    "ds1c_dept": "busi"
+                },
+                {
+                    "ds1c_avg": 59.92,
+                    "ds1c_dept": "busi"
+                },
+                {
+                    "ds1c_avg": 54.67,
+                    "ds1c_dept": "busi"
+                },
+                {
+                    "ds1c_avg": 58.3,
+                    "ds1c_dept": "busi"
+                },
+                {
+                    "ds1c_avg": 56.58,
+                    "ds1c_dept": "busi"
+                },
+                {
+                    "ds1c_avg": 59.41,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 57.56,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 56.6,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 59.32,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 59.18,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 55.75,
+                    "ds1c_dept": "civl"
+                },
+                {
+                    "ds1c_avg": 4,
+                    "ds1c_dept": "busi"
+                },
+                {
+                    "ds1c_avg": 4,
+                    "ds1c_dept": "busi"
+                },
+                {
+                    "ds1c_avg": 59.49,
+                    "ds1c_dept": "busi"
+                },
+                {
+                    "ds1c_avg": 59.04,
+                    "ds1c_dept": "busi"
+                },
+                {
+                    "ds1c_avg": 59.04,
+                    "ds1c_dept": "busi"
+                },
+                {
+                    "ds1c_avg": 59.67,
+                    "ds1c_dept": "fopr"
+                },
+                {
+                    "ds1c_avg": 4.5,
+                    "ds1c_dept": "fopr"
+                },
+                {
+                    "ds1c_avg": 58,
+                    "ds1c_dept": "enph"
+                },
+                {
+                    "ds1c_avg": 58,
+                    "ds1c_dept": "enph"
+                },
+                {
+                    "ds1c_avg": 56.77,
+                    "ds1c_dept": "vant"
+                },
+                {
+                    "ds1c_avg": 58.62,
+                    "ds1c_dept": "busi"
+                },
+                {
+                    "ds1c_avg": 59.64,
+                    "ds1c_dept": "mtrl"
+                },
+                {
+                    "ds1c_avg": 59.64,
+                    "ds1c_dept": "mtrl"
+                },
+                {
+                    "ds1c_avg": 59.98,
+                    "ds1c_dept": "mtrl"
+                },
+                {
+                    "ds1c_avg": 59.98,
+                    "ds1c_dept": "mtrl"
+                },
+                {
+                    "ds1c_avg": 59.47,
+                    "ds1c_dept": "mtrl"
+                },
+                {
+                    "ds1c_avg": 59.47,
+                    "ds1c_dept": "mtrl"
+                },
+                {
+                    "ds1c_avg": 58.43,
+                    "ds1c_dept": "engl"
+                },
+                {
+                    "ds1c_avg": 58.89,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 59.11,
+                    "ds1c_dept": "wrds"
+                },
+                {
+                    "ds1c_avg": 55.63,
+                    "ds1c_dept": "wrds"
+                },
+                {
+                    "ds1c_avg": 53.64,
+                    "ds1c_dept": "wrds"
+                },
+                {
+                    "ds1c_avg": 58.92,
+                    "ds1c_dept": "wrds"
+                },
+                {
+                    "ds1c_avg": 57.21,
+                    "ds1c_dept": "wrds"
+                },
+                {
+                    "ds1c_avg": 59.44,
+                    "ds1c_dept": "wrds"
+                },
+                {
+                    "ds1c_avg": 57.78,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 57.78,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 55.86,
+                    "ds1c_dept": "civl"
+                },
+                {
+                    "ds1c_avg": 59.5,
+                    "ds1c_dept": "civl"
+                },
+                {
+                    "ds1c_avg": 53.86,
+                    "ds1c_dept": "mech"
+                },
+                {
+                    "ds1c_avg": 53.9,
+                    "ds1c_dept": "hist"
+                },
+                {
+                    "ds1c_avg": 49.25,
+                    "ds1c_dept": "civl"
+                },
+                {
+                    "ds1c_avg": 59.32,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 58.04,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 51.49,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 59.11,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 59.85,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 58.38,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 55.65,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 54.61,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 58.32,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 58.42,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 56.43,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 59.85,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 54.13,
+                    "ds1c_dept": "frst"
+                },
+                {
+                    "ds1c_avg": 59.91,
+                    "ds1c_dept": "frst"
+                },
+                {
+                    "ds1c_avg": 46.59,
+                    "ds1c_dept": "frst"
+                },
+                {
+                    "ds1c_avg": 50.85,
+                    "ds1c_dept": "frst"
+                },
+                {
+                    "ds1c_avg": 51,
+                    "ds1c_dept": "frst"
+                },
+                {
+                    "ds1c_avg": 54.38,
+                    "ds1c_dept": "frst"
+                },
+                {
+                    "ds1c_avg": 49.14,
+                    "ds1c_dept": "frst"
+                },
+                {
+                    "ds1c_avg": 56.33,
+                    "ds1c_dept": "frst"
+                },
+                {
+                    "ds1c_avg": 56.33,
+                    "ds1c_dept": "frst"
+                },
+                {
+                    "ds1c_avg": 57.5,
+                    "ds1c_dept": "frst"
+                },
+                {
+                    "ds1c_avg": 58.24,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 58.24,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 58.4,
+                    "ds1c_dept": "dhyg"
+                },
+                {
+                    "ds1c_avg": 57.44,
+                    "ds1c_dept": "busi"
+                },
+                {
+                    "ds1c_avg": 57,
+                    "ds1c_dept": "busi"
+                },
+                {
+                    "ds1c_avg": 53.83,
+                    "ds1c_dept": "busi"
+                },
+                {
+                    "ds1c_avg": 54.96,
+                    "ds1c_dept": "busi"
+                },
+                {
+                    "ds1c_avg": 58.62,
+                    "ds1c_dept": "civl"
+                },
+                {
+                    "ds1c_avg": 57.2,
+                    "ds1c_dept": "fre"
+                },
+                {
+                    "ds1c_avg": 56.34,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 55.74,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 58.04,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 54.64,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 53.88,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 53.06,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 58.16,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 59.74,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 59.74,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 57.4,
+                    "ds1c_dept": "mtrl"
+                },
+                {
+                    "ds1c_avg": 57.4,
+                    "ds1c_dept": "mtrl"
+                },
+                {
+                    "ds1c_avg": 59.99,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 58.97,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 59.6,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 59.37,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 58.27,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 56.96,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 56.96,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 58.52,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 59.8,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 58.03,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 58.9,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 58.9,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 33,
+                    "ds1c_dept": "civl"
+                },
+                {
+                    "ds1c_avg": 56.5,
+                    "ds1c_dept": "civl"
+                },
+                {
+                    "ds1c_avg": 58.72,
+                    "ds1c_dept": "busi"
+                },
+                {
+                    "ds1c_avg": 58.72,
+                    "ds1c_dept": "busi"
+                },
+                {
+                    "ds1c_avg": 57.69,
+                    "ds1c_dept": "busi"
+                },
+                {
+                    "ds1c_avg": 58.87,
+                    "ds1c_dept": "busi"
+                },
+                {
+                    "ds1c_avg": 57.82,
+                    "ds1c_dept": "busi"
+                },
+                {
+                    "ds1c_avg": 57.82,
+                    "ds1c_dept": "busi"
+                },
+                {
+                    "ds1c_avg": 54.51,
+                    "ds1c_dept": "busi"
+                },
+                {
+                    "ds1c_avg": 54.51,
+                    "ds1c_dept": "busi"
+                },
+                {
+                    "ds1c_avg": 55.95,
+                    "ds1c_dept": "busi"
+                },
+                {
+                    "ds1c_avg": 59.39,
+                    "ds1c_dept": "busi"
+                },
+                {
+                    "ds1c_avg": 57.1,
+                    "ds1c_dept": "busi"
+                },
+                {
+                    "ds1c_avg": 58.76,
+                    "ds1c_dept": "busi"
+                },
+                {
+                    "ds1c_avg": 49.47,
+                    "ds1c_dept": "busi"
+                },
+                {
+                    "ds1c_avg": 49.47,
+                    "ds1c_dept": "busi"
+                },
+                {
+                    "ds1c_avg": 53.42,
+                    "ds1c_dept": "busi"
+                },
+                {
+                    "ds1c_avg": 53.42,
+                    "ds1c_dept": "busi"
+                },
+                {
+                    "ds1c_avg": 57.56,
+                    "ds1c_dept": "busi"
+                },
+                {
+                    "ds1c_avg": 59.4,
+                    "ds1c_dept": "mech"
+                },
+                {
+                    "ds1c_avg": 58,
+                    "ds1c_dept": "educ"
+                },
+                {
+                    "ds1c_avg": 57.35,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 59.45,
+                    "ds1c_dept": "biol"
+                },
+                {
+                    "ds1c_avg": 57.56,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 59.78,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 55.3,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 0,
+                    "ds1c_dept": "lfs"
+                },
+                {
+                    "ds1c_avg": 0,
+                    "ds1c_dept": "lfs"
+                },
+                {
+                    "ds1c_avg": 57.71,
+                    "ds1c_dept": "japn"
+                },
+                {
+                    "ds1c_avg": 59.93,
+                    "ds1c_dept": "japn"
+                },
+                {
+                    "ds1c_avg": 57.18,
+                    "ds1c_dept": "japn"
+                },
+                {
+                    "ds1c_avg": 59.5,
+                    "ds1c_dept": "phar"
+                },
+                {
+                    "ds1c_avg": 59.29,
+                    "ds1c_dept": "phar"
+                },
+                {
+                    "ds1c_avg": 55.27,
+                    "ds1c_dept": "japn"
+                },
+                {
+                    "ds1c_avg": 54.81,
+                    "ds1c_dept": "japn"
+                },
+                {
+                    "ds1c_avg": 51.86,
+                    "ds1c_dept": "phar"
+                },
+                {
+                    "ds1c_avg": 55,
+                    "ds1c_dept": "phar"
+                },
+                {
+                    "ds1c_avg": 51.25,
+                    "ds1c_dept": "phar"
+                },
+                {
+                    "ds1c_avg": 58.13,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 56.26,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 53.5,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 58.29,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 58.29,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 0,
+                    "ds1c_dept": "frst"
+                },
+                {
+                    "ds1c_avg": 55.33,
+                    "ds1c_dept": "phil"
+                },
+                {
+                    "ds1c_avg": 56.33,
+                    "ds1c_dept": "phil"
+                },
+                {
+                    "ds1c_avg": 58.9,
+                    "ds1c_dept": "phil"
+                },
+                {
+                    "ds1c_avg": 56.38,
+                    "ds1c_dept": "phil"
+                },
+                {
+                    "ds1c_avg": 55.5,
+                    "ds1c_dept": "phil"
+                },
+                {
+                    "ds1c_avg": 33.2,
+                    "ds1c_dept": "phil"
+                },
+                {
+                    "ds1c_avg": 59.2,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 58.04,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 54.78,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 54.78,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 58.6,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 59,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 54.43,
+                    "ds1c_dept": "medg"
+                },
+                {
+                    "ds1c_avg": 54.43,
+                    "ds1c_dept": "medg"
+                },
+                {
+                    "ds1c_avg": 58.73,
+                    "ds1c_dept": "engl"
+                },
+                {
+                    "ds1c_avg": 49.17,
+                    "ds1c_dept": "busi"
+                },
+                {
+                    "ds1c_avg": 55.11,
+                    "ds1c_dept": "busi"
+                },
+                {
+                    "ds1c_avg": 57.24,
+                    "ds1c_dept": "busi"
+                },
+                {
+                    "ds1c_avg": 42.64,
+                    "ds1c_dept": "busi"
+                },
+                {
+                    "ds1c_avg": 42.64,
+                    "ds1c_dept": "busi"
+                },
+                {
+                    "ds1c_avg": 52.44,
+                    "ds1c_dept": "busi"
+                },
+                {
+                    "ds1c_avg": 57.04,
+                    "ds1c_dept": "busi"
+                },
+                {
+                    "ds1c_avg": 58.33,
+                    "ds1c_dept": "musc"
+                },
+                {
+                    "ds1c_avg": 56.66,
+                    "ds1c_dept": "busi"
+                },
+                {
+                    "ds1c_avg": 58.64,
+                    "ds1c_dept": "busi"
+                },
+                {
+                    "ds1c_avg": 56.67,
+                    "ds1c_dept": "busi"
+                },
+                {
+                    "ds1c_avg": 56.67,
+                    "ds1c_dept": "busi"
+                },
+                {
+                    "ds1c_avg": 59.85,
+                    "ds1c_dept": "busi"
+                },
+                {
+                    "ds1c_avg": 58.6,
+                    "ds1c_dept": "busi"
+                },
+                {
+                    "ds1c_avg": 56.73,
+                    "ds1c_dept": "busi"
+                },
+                {
+                    "ds1c_avg": 58.47,
+                    "ds1c_dept": "hist"
+                },
+                {
+                    "ds1c_avg": 58.47,
+                    "ds1c_dept": "hist"
+                },
+                {
+                    "ds1c_avg": 55.25,
+                    "ds1c_dept": "phys"
+                },
+                {
+                    "ds1c_avg": 57.35,
+                    "ds1c_dept": "mech"
+                },
+                {
+                    "ds1c_avg": 51.5,
+                    "ds1c_dept": "frst"
+                },
+                {
+                    "ds1c_avg": 51.5,
+                    "ds1c_dept": "frst"
+                },
+                {
+                    "ds1c_avg": 59.71,
+                    "ds1c_dept": "frst"
+                },
+                {
+                    "ds1c_avg": 59.71,
+                    "ds1c_dept": "frst"
+                },
+                {
+                    "ds1c_avg": 53,
+                    "ds1c_dept": "hist"
+                },
+                {
+                    "ds1c_avg": 34,
+                    "ds1c_dept": "hist"
+                },
+                {
+                    "ds1c_avg": 49.15,
+                    "ds1c_dept": "hist"
+                },
+                {
+                    "ds1c_avg": 47.13,
+                    "ds1c_dept": "hist"
+                },
+                {
+                    "ds1c_avg": 46.33,
+                    "ds1c_dept": "hist"
+                },
+                {
+                    "ds1c_avg": 46.33,
+                    "ds1c_dept": "hist"
+                },
+                {
+                    "ds1c_avg": 57.48,
+                    "ds1c_dept": "hist"
+                },
+                {
+                    "ds1c_avg": 55.5,
+                    "ds1c_dept": "hist"
+                },
+                {
+                    "ds1c_avg": 59,
+                    "ds1c_dept": "hist"
+                },
+                {
+                    "ds1c_avg": 59.13,
+                    "ds1c_dept": "hist"
+                },
+                {
+                    "ds1c_avg": 52.29,
+                    "ds1c_dept": "hist"
+                },
+                {
+                    "ds1c_avg": 39.03,
+                    "ds1c_dept": "educ"
+                },
+                {
+                    "ds1c_avg": 39.03,
+                    "ds1c_dept": "educ"
+                },
+                {
+                    "ds1c_avg": 58.82,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 55.67,
+                    "ds1c_dept": "lled"
+                },
+                {
+                    "ds1c_avg": 52,
+                    "ds1c_dept": "lled"
+                },
+                {
+                    "ds1c_avg": 59.57,
+                    "ds1c_dept": "lled"
+                },
+                {
+                    "ds1c_avg": 59.83,
+                    "ds1c_dept": "lled"
+                },
+                {
+                    "ds1c_avg": 59.43,
+                    "ds1c_dept": "lled"
+                },
+                {
+                    "ds1c_avg": 57.72,
+                    "ds1c_dept": "lled"
+                },
+                {
+                    "ds1c_avg": 59.53,
+                    "ds1c_dept": "lled"
+                },
+                {
+                    "ds1c_avg": 59.67,
+                    "ds1c_dept": "lled"
+                },
+                {
+                    "ds1c_avg": 59.72,
+                    "ds1c_dept": "lled"
+                },
+                {
+                    "ds1c_avg": 57.68,
+                    "ds1c_dept": "apsc"
+                },
+                {
+                    "ds1c_avg": 57.81,
+                    "ds1c_dept": "apsc"
+                },
+                {
+                    "ds1c_avg": 59.23,
+                    "ds1c_dept": "apsc"
+                },
+                {
+                    "ds1c_avg": 59.06,
+                    "ds1c_dept": "ling"
+                },
+                {
+                    "ds1c_avg": 59.06,
+                    "ds1c_dept": "ling"
+                },
+                {
+                    "ds1c_avg": 57,
+                    "ds1c_dept": "lled"
+                },
+                {
+                    "ds1c_avg": 52.47,
+                    "ds1c_dept": "lled"
+                },
+                {
+                    "ds1c_avg": 54.77,
+                    "ds1c_dept": "lled"
+                },
+                {
+                    "ds1c_avg": 48.9,
+                    "ds1c_dept": "lled"
+                },
+                {
+                    "ds1c_avg": 56.31,
+                    "ds1c_dept": "lled"
+                },
+                {
+                    "ds1c_avg": 52.2,
+                    "ds1c_dept": "lled"
+                },
+                {
+                    "ds1c_avg": 53.21,
+                    "ds1c_dept": "lled"
+                },
+                {
+                    "ds1c_avg": 49.73,
+                    "ds1c_dept": "lled"
+                },
+                {
+                    "ds1c_avg": 52.2,
+                    "ds1c_dept": "lled"
+                },
+                {
+                    "ds1c_avg": 59.93,
+                    "ds1c_dept": "lled"
+                },
+                {
+                    "ds1c_avg": 49.86,
+                    "ds1c_dept": "lled"
+                },
+                {
+                    "ds1c_avg": 57.27,
+                    "ds1c_dept": "lled"
+                },
+                {
+                    "ds1c_avg": 53.73,
+                    "ds1c_dept": "lled"
+                },
+                {
+                    "ds1c_avg": 52.4,
+                    "ds1c_dept": "lled"
+                },
+                {
+                    "ds1c_avg": 57.33,
+                    "ds1c_dept": "lled"
+                },
+                {
+                    "ds1c_avg": 51.14,
+                    "ds1c_dept": "lled"
+                },
+                {
+                    "ds1c_avg": 56.43,
+                    "ds1c_dept": "lled"
+                },
+                {
+                    "ds1c_avg": 52.69,
+                    "ds1c_dept": "lled"
+                },
+                {
+                    "ds1c_avg": 59.43,
+                    "ds1c_dept": "lled"
+                },
+                {
+                    "ds1c_avg": 58.47,
+                    "ds1c_dept": "lled"
+                },
+                {
+                    "ds1c_avg": 59.23,
+                    "ds1c_dept": "lled"
+                },
+                {
+                    "ds1c_avg": 55.86,
+                    "ds1c_dept": "lled"
+                },
+                {
+                    "ds1c_avg": 57.38,
+                    "ds1c_dept": "lled"
+                },
+                {
+                    "ds1c_avg": 57.79,
+                    "ds1c_dept": "lled"
+                },
+                {
+                    "ds1c_avg": 55.43,
+                    "ds1c_dept": "lled"
+                },
+                {
+                    "ds1c_avg": 47.29,
+                    "ds1c_dept": "lled"
+                },
+                {
+                    "ds1c_avg": 55.19,
+                    "ds1c_dept": "lled"
+                },
+                {
+                    "ds1c_avg": 51.13,
+                    "ds1c_dept": "lled"
+                },
+                {
+                    "ds1c_avg": 58.6,
+                    "ds1c_dept": "lled"
+                },
+                {
+                    "ds1c_avg": 47.82,
+                    "ds1c_dept": "lled"
+                },
+                {
+                    "ds1c_avg": 56.52,
+                    "ds1c_dept": "busi"
+                },
+                {
+                    "ds1c_avg": 56.52,
+                    "ds1c_dept": "busi"
+                },
+                {
+                    "ds1c_avg": 57.23,
+                    "ds1c_dept": "busi"
+                },
+                {
+                    "ds1c_avg": 59.39,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 55.74,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 56.31,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 52.92,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 55.24,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 57.32,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 55.74,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 54.62,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 50.13,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 55.81,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 54.5,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 56.35,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 58.8,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 51.04,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 56.74,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 58.26,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 52.86,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 56.05,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 58.96,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 56.83,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 56.83,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 59.74,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 54.82,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 58.53,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 57.11,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 54.44,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 54.96,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 58.43,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 59.4,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 57.37,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 58.13,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 58.32,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 51.5,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 46.52,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 49.95,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 58.45,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 58.88,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 59.59,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 58.39,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 56.77,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 56.62,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 59.8,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 57.93,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 53.12,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 53.12,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 57.88,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 55.26,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 59.13,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 57.78,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 59.73,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 59.73,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 57.52,
+                    "ds1c_dept": "busi"
+                },
+                {
+                    "ds1c_avg": 46.95,
+                    "ds1c_dept": "busi"
+                },
+                {
+                    "ds1c_avg": 52.7,
+                    "ds1c_dept": "busi"
+                },
+                {
+                    "ds1c_avg": 52.96,
+                    "ds1c_dept": "busi"
+                },
+                {
+                    "ds1c_avg": 56.18,
+                    "ds1c_dept": "busi"
+                },
+                {
+                    "ds1c_avg": 54.5,
+                    "ds1c_dept": "busi"
+                },
+                {
+                    "ds1c_avg": 55.27,
+                    "ds1c_dept": "busi"
+                },
+                {
+                    "ds1c_avg": 59.6,
+                    "ds1c_dept": "busi"
+                },
+                {
+                    "ds1c_avg": 56.5,
+                    "ds1c_dept": "busi"
+                },
+                {
+                    "ds1c_avg": 58.06,
+                    "ds1c_dept": "busi"
+                },
+                {
+                    "ds1c_avg": 54.41,
+                    "ds1c_dept": "busi"
+                },
+                {
+                    "ds1c_avg": 58.19,
+                    "ds1c_dept": "busi"
+                },
+                {
+                    "ds1c_avg": 56.26,
+                    "ds1c_dept": "busi"
+                },
+                {
+                    "ds1c_avg": 56.05,
+                    "ds1c_dept": "busi"
+                },
+                {
+                    "ds1c_avg": 59.66,
+                    "ds1c_dept": "busi"
+                },
+                {
+                    "ds1c_avg": 56.38,
+                    "ds1c_dept": "busi"
+                },
+                {
+                    "ds1c_avg": 59.24,
+                    "ds1c_dept": "busi"
+                },
+                {
+                    "ds1c_avg": 50,
+                    "ds1c_dept": "chbe"
+                },
+                {
+                    "ds1c_avg": 52.67,
+                    "ds1c_dept": "elec"
+                },
+                {
+                    "ds1c_avg": 52.67,
+                    "ds1c_dept": "elec"
+                },
+                {
+                    "ds1c_avg": 53.5,
+                    "ds1c_dept": "engl"
+                },
+                {
+                    "ds1c_avg": 53.5,
+                    "ds1c_dept": "engl"
+                },
+                {
+                    "ds1c_avg": 58.64,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 55.64,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 58.96,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 58.6,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 56.76,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 57.26,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 57.33,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 58.28,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 59.64,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 59.64,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 59.33,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 59.33,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 57.12,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 57.98,
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_avg": 58.24,
+                    "ds1c_dept": "hist"
+                },
+                {
+                    "ds1c_avg": 56.16,
+                    "ds1c_dept": "busi"
+                },
+                {
+                    "ds1c_avg": 56.16,
+                    "ds1c_dept": "busi"
+                },
+                {
+                    "ds1c_avg": 59.23,
+                    "ds1c_dept": "busi"
+                },
+                {
+                    "ds1c_avg": 59.23,
+                    "ds1c_dept": "busi"
+                },
+                {
+                    "ds1c_avg": 42,
+                    "ds1c_dept": "chbe"
+                },
+                {
+                    "ds1c_avg": 44.88,
+                    "ds1c_dept": "chbe"
+                },
+                {
+                    "ds1c_avg": 59.8,
+                    "ds1c_dept": "chbe"
+                },
+                {
+                    "ds1c_avg": 59.8,
+                    "ds1c_dept": "chbe"
+                },
+                {
+                    "ds1c_avg": 55.96,
+                    "ds1c_dept": "biol"
+                },
+                {
+                    "ds1c_avg": 58.9,
+                    "ds1c_dept": "biol"
+                },
+                {
+                    "ds1c_avg": 57.32,
+                    "ds1c_dept": "biol"
+                },
+                {
+                    "ds1c_avg": 59.67,
+                    "ds1c_dept": "biol"
+                },
+                {
+                    "ds1c_avg": 59.08,
+                    "ds1c_dept": "biol"
+                },
+                {
+                    "ds1c_avg": 59.35,
+                    "ds1c_dept": "biol"
+                },
+                {
+                    "ds1c_avg": 56.42,
+                    "ds1c_dept": "biol"
+                },
+                {
+                    "ds1c_avg": 59.14,
+                    "ds1c_dept": "mtrl"
+                },
+                {
+                    "ds1c_avg": 59.14,
+                    "ds1c_dept": "mtrl"
+                },
+                {
+                    "ds1c_avg": 59.97,
+                    "ds1c_dept": "mtrl"
+                },
+                {
+                    "ds1c_avg": 59.97,
+                    "ds1c_dept": "mtrl"
+                }
+            ]
+        }
+    }
+}

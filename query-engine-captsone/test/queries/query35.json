@@ -1,0 +1,207 @@
+{
+    "title": "Query 35",
+    "query": "In courses dataset ds1c, find entries whose Title includes \"algebra i\"; show Title and Department; sort in descending order by Title and Department.",
+    "response": {
+        "code": 200,
+        "body": {
+            "result": [
+                {
+                    "ds1c_title": "linear algebra i",
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_title": "linear algebra i",
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_title": "linear algebra i",
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_title": "linear algebra i",
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_title": "linear algebra i",
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_title": "linear algebra i",
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_title": "linear algebra i",
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_title": "linear algebra i",
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_title": "linear algebra i",
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_title": "linear algebra i",
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_title": "linear algebra i",
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_title": "linear algebra i",
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_title": "linear algebra i",
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_title": "linear algebra i",
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_title": "linear algebra i",
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_title": "linear algebra i",
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_title": "linear algebra i",
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_title": "linear algebra i",
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_title": "linear algebra i",
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_title": "linear algebra i",
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_title": "linear algebra i",
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_title": "linear algebra i",
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_title": "linear algebra i",
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_title": "algebra ii",
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_title": "algebra ii",
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_title": "algebra ii",
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_title": "algebra ii",
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_title": "algebra ii",
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_title": "algebra ii",
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_title": "algebra ii",
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_title": "algebra ii",
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_title": "algebra ii",
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_title": "algebra ii",
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_title": "algebra ii",
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_title": "algebra ii",
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_title": "algebra i",
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_title": "algebra i",
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_title": "algebra i",
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_title": "algebra i",
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_title": "algebra i",
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_title": "algebra i",
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_title": "algebra i",
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_title": "algebra i",
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_title": "algebra i",
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_title": "algebra i",
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_title": "algebra i",
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_title": "algebra i",
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_title": "algebra i",
+                    "ds1c_dept": "math"
+                },
+                {
+                    "ds1c_title": "algebra i",
+                    "ds1c_dept": "math"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,816 @@
+{
+    "title": "Query 24",
+    "query": "In rooms dataset ds1r, find entries whose Type is not \"Small Group\"; show Full Name, Seats and Type; sort in ascending order by Seats, Full Name and Type.",
+    "response": {
+        "code": 200,
+        "body": {
+            "result": [
+                {
+                    "ds1r_fullname": "Henry Angus",
+                    "ds1r_seats": 16,
+                    "ds1r_type": "Open Design General Purpose"
+                },
+                {
+                    "ds1r_fullname": "Orchard Commons",
+                    "ds1r_seats": 16,
+                    "ds1r_type": "Active Learning"
+                },
+                {
+                    "ds1r_fullname": "Orchard Commons",
+                    "ds1r_seats": 16,
+                    "ds1r_type": "Active Learning"
+                },
+                {
+                    "ds1r_fullname": "Orchard Commons",
+                    "ds1r_seats": 16,
+                    "ds1r_type": "Open Design General Purpose"
+                },
+                {
+                    "ds1r_fullname": "Orchard Commons",
+                    "ds1r_seats": 16,
+                    "ds1r_type": "Open Design General Purpose"
+                },
+                {
+                    "ds1r_fullname": "Orchard Commons",
+                    "ds1r_seats": 16,
+                    "ds1r_type": "Open Design General Purpose"
+                },
+                {
+                    "ds1r_fullname": "Allard Hall (LAW)",
+                    "ds1r_seats": 20,
+                    "ds1r_type": "Open Design General Purpose"
+                },
+                {
+                    "ds1r_fullname": "Allard Hall (LAW)",
+                    "ds1r_seats": 20,
+                    "ds1r_type": "Open Design General Purpose"
+                },
+                {
+                    "ds1r_fullname": "Orchard Commons",
+                    "ds1r_seats": 20,
+                    "ds1r_type": "Active Learning"
+                },
+                {
+                    "ds1r_fullname": "Brock Hall Annex",
+                    "ds1r_seats": 24,
+                    "ds1r_type": "Open Design General Purpose"
+                },
+                {
+                    "ds1r_fullname": "Orchard Commons",
+                    "ds1r_seats": 25,
+                    "ds1r_type": "Active Learning"
+                },
+                {
+                    "ds1r_fullname": "Orchard Commons",
+                    "ds1r_seats": 25,
+                    "ds1r_type": "Active Learning"
+                },
+                {
+                    "ds1r_fullname": "Orchard Commons",
+                    "ds1r_seats": 25,
+                    "ds1r_type": "Active Learning"
+                },
+                {
+                    "ds1r_fullname": "Orchard Commons",
+                    "ds1r_seats": 25,
+                    "ds1r_type": "Active Learning"
+                },
+                {
+                    "ds1r_fullname": "Orchard Commons",
+                    "ds1r_seats": 25,
+                    "ds1r_type": "Open Design General Purpose"
+                },
+                {
+                    "ds1r_fullname": "Orchard Commons",
+                    "ds1r_seats": 25,
+                    "ds1r_type": "Open Design General Purpose"
+                },
+                {
+                    "ds1r_fullname": "Orchard Commons",
+                    "ds1r_seats": 25,
+                    "ds1r_type": "Open Design General Purpose"
+                },
+                {
+                    "ds1r_fullname": "Orchard Commons",
+                    "ds1r_seats": 25,
+                    "ds1r_type": "Open Design General Purpose"
+                },
+                {
+                    "ds1r_fullname": "Orchard Commons",
+                    "ds1r_seats": 25,
+                    "ds1r_type": "Open Design General Purpose"
+                },
+                {
+                    "ds1r_fullname": "Orchard Commons",
+                    "ds1r_seats": 25,
+                    "ds1r_type": "Open Design General Purpose"
+                },
+                {
+                    "ds1r_fullname": "War Memorial Gymnasium",
+                    "ds1r_seats": 25,
+                    "ds1r_type": "Open Design General Purpose"
+                },
+                {
+                    "ds1r_fullname": "Mathematics",
+                    "ds1r_seats": 30,
+                    "ds1r_type": "Open Design General Purpose"
+                },
+                {
+                    "ds1r_fullname": "Mathematics",
+                    "ds1r_seats": 30,
+                    "ds1r_type": "Open Design General Purpose"
+                },
+                {
+                    "ds1r_fullname": "Henry Angus",
+                    "ds1r_seats": 32,
+                    "ds1r_type": "Open Design General Purpose"
+                },
+                {
+                    "ds1r_fullname": "Henry Angus",
+                    "ds1r_seats": 32,
+                    "ds1r_type": "TBD"
+                },
+                {
+                    "ds1r_fullname": "Civil and Mechanical Engineering",
+                    "ds1r_seats": 34,
+                    "ds1r_type": "Case Style"
+                },
+                {
+                    "ds1r_fullname": "Henry Angus",
+                    "ds1r_seats": 37,
+                    "ds1r_type": "Open Design General Purpose"
+                },
+                {
+                    "ds1r_fullname": "Ponderosa Commons: Oak House",
+                    "ds1r_seats": 40,
+                    "ds1r_type": "Open Design General Purpose"
+                },
+                {
+                    "ds1r_fullname": "Ponderosa Commons: Oak House",
+                    "ds1r_seats": 40,
+                    "ds1r_type": "Open Design General Purpose"
+                },
+                {
+                    "ds1r_fullname": "Ponderosa Commons: Oak House",
+                    "ds1r_seats": 40,
+                    "ds1r_type": "Open Design General Purpose"
+                },
+                {
+                    "ds1r_fullname": "War Memorial Gymnasium",
+                    "ds1r_seats": 40,
+                    "ds1r_type": "Open Design General Purpose"
+                },
+                {
+                    "ds1r_fullname": "Henry Angus",
+                    "ds1r_seats": 41,
+                    "ds1r_type": "Case Style"
+                },
+                {
+                    "ds1r_fullname": "Henry Angus",
+                    "ds1r_seats": 41,
+                    "ds1r_type": "Case Style"
+                },
+                {
+                    "ds1r_fullname": "Henry Angus",
+                    "ds1r_seats": 41,
+                    "ds1r_type": "Case Style"
+                },
+                {
+                    "ds1r_fullname": "Geography",
+                    "ds1r_seats": 42,
+                    "ds1r_type": "Open Design General Purpose"
+                },
+                {
+                    "ds1r_fullname": "Leonard S. Klinck (also known as CSCI)",
+                    "ds1r_seats": 42,
+                    "ds1r_type": "Open Design General Purpose"
+                },
+                {
+                    "ds1r_fullname": "Food, Nutrition and Health",
+                    "ds1r_seats": 43,
+                    "ds1r_type": "Open Design General Purpose"
+                },
+                {
+                    "ds1r_fullname": "Allard Hall (LAW)",
+                    "ds1r_seats": 44,
+                    "ds1r_type": "Open Design General Purpose"
+                },
+                {
+                    "ds1r_fullname": "Henry Angus",
+                    "ds1r_seats": 44,
+                    "ds1r_type": "Case Style"
+                },
+                {
+                    "ds1r_fullname": "Henry Angus",
+                    "ds1r_seats": 44,
+                    "ds1r_type": "Tiered Large Group"
+                },
+                {
+                    "ds1r_fullname": "Civil and Mechanical Engineering",
+                    "ds1r_seats": 45,
+                    "ds1r_type": "Case Style"
+                },
+                {
+                    "ds1r_fullname": "MacMillan",
+                    "ds1r_seats": 47,
+                    "ds1r_type": "Open Design General Purpose"
+                },
+                {
+                    "ds1r_fullname": "West Mall Swing Space",
+                    "ds1r_seats": 47,
+                    "ds1r_type": "Open Design General Purpose"
+                },
+                {
+                    "ds1r_fullname": "West Mall Swing Space",
+                    "ds1r_seats": 47,
+                    "ds1r_type": "Open Design General Purpose"
+                },
+                {
+                    "ds1r_fullname": "West Mall Swing Space",
+                    "ds1r_seats": 47,
+                    "ds1r_type": "Open Design General Purpose"
+                },
+                {
+                    "ds1r_fullname": "West Mall Swing Space",
+                    "ds1r_seats": 47,
+                    "ds1r_type": "Open Design General Purpose"
+                },
+                {
+                    "ds1r_fullname": "West Mall Swing Space",
+                    "ds1r_seats": 47,
+                    "ds1r_type": "Open Design General Purpose"
+                },
+                {
+                    "ds1r_fullname": "West Mall Swing Space",
+                    "ds1r_seats": 47,
+                    "ds1r_type": "Open Design General Purpose"
+                },
+                {
+                    "ds1r_fullname": "West Mall Swing Space",
+                    "ds1r_seats": 47,
+                    "ds1r_type": "Open Design General Purpose"
+                },
+                {
+                    "ds1r_fullname": "West Mall Swing Space",
+                    "ds1r_seats": 47,
+                    "ds1r_type": "Open Design General Purpose"
+                },
+                {
+                    "ds1r_fullname": "West Mall Swing Space",
+                    "ds1r_seats": 47,
+                    "ds1r_type": "Open Design General Purpose"
+                },
+                {
+                    "ds1r_fullname": "Mathematics",
+                    "ds1r_seats": 48,
+                    "ds1r_type": "Open Design General Purpose"
+                },
+                {
+                    "ds1r_fullname": "Mathematics",
+                    "ds1r_seats": 48,
+                    "ds1r_type": "Open Design General Purpose"
+                },
+                {
+                    "ds1r_fullname": "Orchard Commons",
+                    "ds1r_seats": 48,
+                    "ds1r_type": "Active Learning"
+                },
+                {
+                    "ds1r_fullname": "Orchard Commons",
+                    "ds1r_seats": 48,
+                    "ds1r_type": "Studio Lab"
+                },
+                {
+                    "ds1r_fullname": "Allard Hall (LAW)",
+                    "ds1r_seats": 50,
+                    "ds1r_type": "Case Style"
+                },
+                {
+                    "ds1r_fullname": "Irving K Barber Learning Centre",
+                    "ds1r_seats": 50,
+                    "ds1r_type": "Case Style"
+                },
+                {
+                    "ds1r_fullname": "Frederic Lasserre",
+                    "ds1r_seats": 51,
+                    "ds1r_type": "Open Design General Purpose"
+                },
+                {
+                    "ds1r_fullname": "Henry Angus",
+                    "ds1r_seats": 53,
+                    "ds1r_type": "Open Design General Purpose"
+                },
+                {
+                    "ds1r_fullname": "Food, Nutrition and Health",
+                    "ds1r_seats": 54,
+                    "ds1r_type": "Open Design General Purpose"
+                },
+                {
+                    "ds1r_fullname": "Hebb",
+                    "ds1r_seats": 54,
+                    "ds1r_type": "Open Design General Purpose"
+                },
+                {
+                    "ds1r_fullname": "Hebb",
+                    "ds1r_seats": 54,
+                    "ds1r_type": "Open Design General Purpose"
+                },
+                {
+                    "ds1r_fullname": "Hebb",
+                    "ds1r_seats": 54,
+                    "ds1r_type": "Open Design General Purpose"
+                },
+                {
+                    "ds1r_fullname": "Henry Angus",
+                    "ds1r_seats": 54,
+                    "ds1r_type": "Case Style"
+                },
+                {
+                    "ds1r_fullname": "Henry Angus",
+                    "ds1r_seats": 54,
+                    "ds1r_type": "Case Style"
+                },
+                {
+                    "ds1r_fullname": "Henry Angus",
+                    "ds1r_seats": 54,
+                    "ds1r_type": "Open Design General Purpose"
+                },
+                {
+                    "ds1r_fullname": "Henry Angus",
+                    "ds1r_seats": 54,
+                    "ds1r_type": "Open Design General Purpose"
+                },
+                {
+                    "ds1r_fullname": "Henry Angus",
+                    "ds1r_seats": 58,
+                    "ds1r_type": "Tiered Large Group"
+                },
+                {
+                    "ds1r_fullname": "Chemical and Biological Engineering Building",
+                    "ds1r_seats": 60,
+                    "ds1r_type": "Open Design General Purpose"
+                },
+                {
+                    "ds1r_fullname": "Frederic Lasserre",
+                    "ds1r_seats": 60,
+                    "ds1r_type": ""
+                },
+                {
+                    "ds1r_fullname": "Geography",
+                    "ds1r_seats": 60,
+                    "ds1r_type": "Open Design General Purpose"
+                },
+                {
+                    "ds1r_fullname": "Geography",
+                    "ds1r_seats": 60,
+                    "ds1r_type": "Open Design General Purpose"
+                },
+                {
+                    "ds1r_fullname": "Henry Angus",
+                    "ds1r_seats": 60,
+                    "ds1r_type": "Case Style"
+                },
+                {
+                    "ds1r_fullname": "Henry Angus",
+                    "ds1r_seats": 60,
+                    "ds1r_type": "Case Style"
+                },
+                {
+                    "ds1r_fullname": "MacLeod",
+                    "ds1r_seats": 60,
+                    "ds1r_type": "Open Design General Purpose"
+                },
+                {
+                    "ds1r_fullname": "MacLeod",
+                    "ds1r_seats": 60,
+                    "ds1r_type": "Open Design General Purpose"
+                },
+                {
+                    "ds1r_fullname": "Civil and Mechanical Engineering",
+                    "ds1r_seats": 62,
+                    "ds1r_type": "Case Style"
+                },
+                {
+                    "ds1r_fullname": "Frank Forward",
+                    "ds1r_seats": 63,
+                    "ds1r_type": "Open Design General Purpose"
+                },
+                {
+                    "ds1r_fullname": "Forest Sciences Centre",
+                    "ds1r_seats": 65,
+                    "ds1r_type": "Case Style"
+                },
+                {
+                    "ds1r_fullname": "Forest Sciences Centre",
+                    "ds1r_seats": 65,
+                    "ds1r_type": "Case Style"
+                },
+                {
+                    "ds1r_fullname": "School of Population and Public Health",
+                    "ds1r_seats": 66,
+                    "ds1r_type": "Open Design General Purpose"
+                },
+                {
+                    "ds1r_fullname": "Henry Angus",
+                    "ds1r_seats": 68,
+                    "ds1r_type": "Tiered Large Group"
+                },
+                {
+                    "ds1r_fullname": "Henry Angus",
+                    "ds1r_seats": 68,
+                    "ds1r_type": "Tiered Large Group"
+                },
+                {
+                    "ds1r_fullname": "Henry Angus",
+                    "ds1r_seats": 68,
+                    "ds1r_type": "Tiered Large Group"
+                },
+                {
+                    "ds1r_fullname": "Brock Hall Annex",
+                    "ds1r_seats": 70,
+                    "ds1r_type": "Tiered Large Group"
+                },
+                {
+                    "ds1r_fullname": "Henry Angus",
+                    "ds1r_seats": 70,
+                    "ds1r_type": "Tiered Large Group"
+                },
+                {
+                    "ds1r_fullname": "Henry Angus",
+                    "ds1r_seats": 70,
+                    "ds1r_type": "Tiered Large Group"
+                },
+                {
+                    "ds1r_fullname": "Geography",
+                    "ds1r_seats": 72,
+                    "ds1r_type": "Open Design General Purpose"
+                },
+                {
+                    "ds1r_fullname": "MacMillan",
+                    "ds1r_seats": 72,
+                    "ds1r_type": "Case Style"
+                },
+                {
+                    "ds1r_fullname": "Orchard Commons",
+                    "ds1r_seats": 72,
+                    "ds1r_type": "Active Learning"
+                },
+                {
+                    "ds1r_fullname": "Orchard Commons",
+                    "ds1r_seats": 72,
+                    "ds1r_type": "Open Design General Purpose"
+                },
+                {
+                    "ds1r_fullname": "Orchard Commons",
+                    "ds1r_seats": 72,
+                    "ds1r_type": "Studio Lab"
+                },
+                {
+                    "ds1r_fullname": "Pharmaceutical Sciences Building",
+                    "ds1r_seats": 72,
+                    "ds1r_type": "Open Design General Purpose"
+                },
+                {
+                    "ds1r_fullname": "MacMillan",
+                    "ds1r_seats": 74,
+                    "ds1r_type": "Tiered Large Group"
+                },
+                {
+                    "ds1r_fullname": "Leonard S. Klinck (also known as CSCI)",
+                    "ds1r_seats": 75,
+                    "ds1r_type": "Open Design General Purpose"
+                },
+                {
+                    "ds1r_fullname": "Biological Sciences",
+                    "ds1r_seats": 76,
+                    "ds1r_type": "Tiered Large Group"
+                },
+                {
+                    "ds1r_fullname": "Earth Sciences Building",
+                    "ds1r_seats": 80,
+                    "ds1r_type": "Tiered Large Group"
+                },
+                {
+                    "ds1r_fullname": "Frederic Lasserre",
+                    "ds1r_seats": 80,
+                    "ds1r_type": "Tiered Large Group"
+                },
+                {
+                    "ds1r_fullname": "Henry Angus",
+                    "ds1r_seats": 80,
+                    "ds1r_type": "Open Design General Purpose"
+                },
+                {
+                    "ds1r_fullname": "Hugh Dempster Pavilion",
+                    "ds1r_seats": 80,
+                    "ds1r_type": "Tiered Large Group"
+                },
+                {
+                    "ds1r_fullname": "MacLeod",
+                    "ds1r_seats": 84,
+                    "ds1r_type": "Open Design General Purpose"
+                },
+                {
+                    "ds1r_fullname": "Woodward (Instructional Resources Centre-IRC)",
+                    "ds1r_seats": 88,
+                    "ds1r_type": "Tiered Large Group"
+                },
+                {
+                    "ds1r_fullname": "Anthropology and Sociology",
+                    "ds1r_seats": 90,
+                    "ds1r_type": "Open Design General Purpose"
+                },
+                {
+                    "ds1r_fullname": "Chemistry",
+                    "ds1r_seats": 90,
+                    "ds1r_type": "Tiered Large Group"
+                },
+                {
+                    "ds1r_fullname": "Chemistry",
+                    "ds1r_seats": 90,
+                    "ds1r_type": "Tiered Large Group"
+                },
+                {
+                    "ds1r_fullname": "Allard Hall (LAW)",
+                    "ds1r_seats": 94,
+                    "ds1r_type": "Case Style"
+                },
+                {
+                    "ds1r_fullname": "Chemical and Biological Engineering Building",
+                    "ds1r_seats": 94,
+                    "ds1r_type": "Tiered Large Group"
+                },
+                {
+                    "ds1r_fullname": "Frederic Lasserre",
+                    "ds1r_seats": 94,
+                    "ds1r_type": "Tiered Large Group"
+                },
+                {
+                    "ds1r_fullname": "Food, Nutrition and Health",
+                    "ds1r_seats": 99,
+                    "ds1r_type": "Tiered Large Group"
+                },
+                {
+                    "ds1r_fullname": "Forest Sciences Centre",
+                    "ds1r_seats": 99,
+                    "ds1r_type": "Tiered Large Group"
+                },
+                {
+                    "ds1r_fullname": "Civil and Mechanical Engineering",
+                    "ds1r_seats": 100,
+                    "ds1r_type": "Tiered Large Group"
+                },
+                {
+                    "ds1r_fullname": "Geography",
+                    "ds1r_seats": 100,
+                    "ds1r_type": "Open Design General Purpose"
+                },
+                {
+                    "ds1r_fullname": "Wesbrook",
+                    "ds1r_seats": 102,
+                    "ds1r_type": "Tiered Large Group"
+                },
+                {
+                    "ds1r_fullname": "Mathematics Annex",
+                    "ds1r_seats": 106,
+                    "ds1r_type": "Tiered Large Group"
+                },
+                {
+                    "ds1r_fullname": "Irving K Barber Learning Centre",
+                    "ds1r_seats": 112,
+                    "ds1r_type": "Open Design General Purpose"
+                },
+                {
+                    "ds1r_fullname": "Chemistry",
+                    "ds1r_seats": 114,
+                    "ds1r_type": "Tiered Large Group"
+                },
+                {
+                    "ds1r_fullname": "Chemistry",
+                    "ds1r_seats": 114,
+                    "ds1r_type": "Tiered Large Group"
+                },
+                {
+                    "ds1r_fullname": "Hugh Dempster Pavilion",
+                    "ds1r_seats": 120,
+                    "ds1r_type": "Tiered Large Group"
+                },
+                {
+                    "ds1r_fullname": "Woodward (Instructional Resources Centre-IRC)",
+                    "ds1r_seats": 120,
+                    "ds1r_type": "Tiered Large Group"
+                },
+                {
+                    "ds1r_fullname": "Woodward (Instructional Resources Centre-IRC)",
+                    "ds1r_seats": 120,
+                    "ds1r_type": "Tiered Large Group"
+                },
+                {
+                    "ds1r_fullname": "Woodward (Instructional Resources Centre-IRC)",
+                    "ds1r_seats": 120,
+                    "ds1r_type": "Tiered Large Group"
+                },
+                {
+                    "ds1r_fullname": "MacLeod",
+                    "ds1r_seats": 123,
+                    "ds1r_type": "Tiered Large Group"
+                },
+                {
+                    "ds1r_fullname": "Life Sciences Centre",
+                    "ds1r_seats": 125,
+                    "ds1r_type": "Tiered Large Group"
+                },
+                {
+                    "ds1r_fullname": "MacLeod",
+                    "ds1r_seats": 136,
+                    "ds1r_type": "Tiered Large Group"
+                },
+                {
+                    "ds1r_fullname": "Aquatic Ecosystems Research Laboratory",
+                    "ds1r_seats": 144,
+                    "ds1r_type": "Tiered Large Group"
+                },
+                {
+                    "ds1r_fullname": "Earth Sciences Building",
+                    "ds1r_seats": 150,
+                    "ds1r_type": "Tiered Large Group"
+                },
+                {
+                    "ds1r_fullname": "Hennings",
+                    "ds1r_seats": 150,
+                    "ds1r_type": "Tiered Large Group"
+                },
+                {
+                    "ds1r_fullname": "Irving K Barber Learning Centre",
+                    "ds1r_seats": 154,
+                    "ds1r_type": "Tiered Large Group"
+                },
+                {
+                    "ds1r_fullname": "Hennings",
+                    "ds1r_seats": 155,
+                    "ds1r_type": "Tiered Large Group"
+                },
+                {
+                    "ds1r_fullname": "Friedman Building",
+                    "ds1r_seats": 160,
+                    "ds1r_type": "Tiered Large Group"
+                },
+                {
+                    "ds1r_fullname": "Hugh Dempster Pavilion",
+                    "ds1r_seats": 160,
+                    "ds1r_type": "Tiered Large Group"
+                },
+                {
+                    "ds1r_fullname": "Pharmaceutical Sciences Building",
+                    "ds1r_seats": 167,
+                    "ds1r_type": "Tiered Large Group"
+                },
+                {
+                    "ds1r_fullname": "Woodward (Instructional Resources Centre-IRC)",
+                    "ds1r_seats": 181,
+                    "ds1r_type": "Tiered Large Group"
+                },
+                {
+                    "ds1r_fullname": "Leonard S. Klinck (also known as CSCI)",
+                    "ds1r_seats": 183,
+                    "ds1r_type": "Tiered Large Group"
+                },
+                {
+                    "ds1r_fullname": "West Mall Swing Space",
+                    "ds1r_seats": 187,
+                    "ds1r_type": "Tiered Large Group"
+                },
+                {
+                    "ds1r_fullname": "West Mall Swing Space",
+                    "ds1r_seats": 188,
+                    "ds1r_type": "Tiered Large Group"
+                },
+                {
+                    "ds1r_fullname": "West Mall Swing Space",
+                    "ds1r_seats": 190,
+                    "ds1r_type": "Tiered Large Group"
+                },
+                {
+                    "ds1r_fullname": "West Mall Swing Space",
+                    "ds1r_seats": 190,
+                    "ds1r_type": "Tiered Large Group"
+                },
+                {
+                    "ds1r_fullname": "Chemical and Biological Engineering Building",
+                    "ds1r_seats": 200,
+                    "ds1r_type": "Tiered Large Group"
+                },
+                {
+                    "ds1r_fullname": "MacMillan",
+                    "ds1r_seats": 200,
+                    "ds1r_type": "Tiered Large Group"
+                },
+                {
+                    "ds1r_fullname": "Leonard S. Klinck (also known as CSCI)",
+                    "ds1r_seats": 205,
+                    "ds1r_type": "Tiered Large Group"
+                },
+                {
+                    "ds1r_fullname": "Mathematics",
+                    "ds1r_seats": 224,
+                    "ds1r_type": "Tiered Large Group"
+                },
+                {
+                    "ds1r_fullname": "Geography",
+                    "ds1r_seats": 225,
+                    "ds1r_type": "Tiered Large Group"
+                },
+                {
+                    "ds1r_fullname": "Biological Sciences",
+                    "ds1r_seats": 228,
+                    "ds1r_type": "Tiered Large Group"
+                },
+                {
+                    "ds1r_fullname": "Pharmaceutical Sciences Building",
+                    "ds1r_seats": 236,
+                    "ds1r_type": "Tiered Large Group"
+                },
+                {
+                    "ds1r_fullname": "Chemistry",
+                    "ds1r_seats": 240,
+                    "ds1r_type": "Tiered Large Group"
+                },
+                {
+                    "ds1r_fullname": "Forest Sciences Centre",
+                    "ds1r_seats": 250,
+                    "ds1r_type": "Tiered Large Group"
+                },
+                {
+                    "ds1r_fullname": "Hennings",
+                    "ds1r_seats": 257,
+                    "ds1r_type": "Tiered Large Group"
+                },
+                {
+                    "ds1r_fullname": "Henry Angus",
+                    "ds1r_seats": 260,
+                    "ds1r_type": "Tiered Large Group"
+                },
+                {
+                    "ds1r_fullname": "Chemistry",
+                    "ds1r_seats": 265,
+                    "ds1r_type": "Tiered Large Group"
+                },
+                {
+                    "ds1r_fullname": "Neville Scarfe",
+                    "ds1r_seats": 280,
+                    "ds1r_type": "Tiered Large Group"
+                },
+                {
+                    "ds1r_fullname": "Student Recreation Centre",
+                    "ds1r_seats": 299,
+                    "ds1r_type": "TBD"
+                },
+                {
+                    "ds1r_fullname": "Student Recreation Centre",
+                    "ds1r_seats": 299,
+                    "ds1r_type": "TBD"
+                },
+                {
+                    "ds1r_fullname": "Student Recreation Centre",
+                    "ds1r_seats": 299,
+                    "ds1r_type": "TBD"
+                },
+                {
+                    "ds1r_fullname": "Wesbrook",
+                    "ds1r_seats": 325,
+                    "ds1r_type": "Tiered Large Group"
+                },
+                {
+                    "ds1r_fullname": "Earth Sciences Building",
+                    "ds1r_seats": 350,
+                    "ds1r_type": "Tiered Large Group"
+                },
+                {
+                    "ds1r_fullname": "Life Sciences Centre",
+                    "ds1r_seats": 350,
+                    "ds1r_type": "Tiered Large Group"
+                },
+                {
+                    "ds1r_fullname": "Life Sciences Centre",
+                    "ds1r_seats": 350,
+                    "ds1r_type": "Tiered Large Group"
+                },
+                {
+                    "ds1r_fullname": "Hebb",
+                    "ds1r_seats": 375,
+                    "ds1r_type": "Tiered Large Group"
+                },
+                {
+                    "ds1r_fullname": "Centre for Interactive  Research on Sustainability",
+                    "ds1r_seats": 426,
+                    "ds1r_type": "Tiered Large Group"
+                },
+                {
+                    "ds1r_fullname": "Woodward (Instructional Resources Centre-IRC)",
+                    "ds1r_seats": 503,
+                    "ds1r_type": "Tiered Large Group"
+                }
+            ]
+        }
+    }
+}
